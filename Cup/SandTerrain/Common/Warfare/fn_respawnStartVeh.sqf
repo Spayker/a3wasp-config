@@ -1,0 +1,50 @@
+EAST_StartVeh = ['CUP_O_BTR60_TK'];
+EAST_StartVeh pushBack 'CUP_O_GAZ_Vodnik_BPPU_RU';
+EAST_StartVeh pushBack 'CUP_O_Ural_ZU23_TKA';
+EAST_StartVeh pushBack 'CUP_O_GAZ_Vodnik_BPPU_RU';
+EAST_StartVeh pushBack 'CUP_O_BRDM2_TKA';
+EAST_StartVeh pushBack 'CUP_O_BRDM2_ATGM_TKA';
+EAST_StartVeh pushBack 'CUP_O_UAZ_METIS_TKA';
+EAST_StartVeh pushBack 'CUP_O_BTR90_RU';
+EAST_StartVeh pushBack 'CUP_O_BTR60_TK';
+EAST_StartVeh pushBack 'CUP_O_BTR80_TK';
+EAST_StartVeh pushBack 'CUP_O_BTR80A_TK';
+ 
+ 
+WEST_StartVeh = ['CUP_B_M113_desert_USA'];
+WEST_StartVeh pushBack 'CUP_B_HMMWV_Crows_M2_USA';
+WEST_StartVeh pushBack 'CUP_B_HMMWV_Crows_MK19_USA';
+WEST_StartVeh pushBack 'CUP_B_M1126_ICV_M2_Desert';
+WEST_StartVeh pushBack 'CUP_B_M1151_Mk19_DSRT_USMC';
+WEST_StartVeh pushBack 'CUP_B_Jackal2_GMG_GB_D';
+WEST_StartVeh pushBack 'CUP_B_HMMWV_TOW_USA';
+WEST_StartVeh pushBack 'CUP_B_M1167_DSRT_USMC';
+WEST_StartVeh pushBack 'CUP_B_LAV25M240_desert_USMC';
+WEST_StartVeh pushBack 'CUP_B_HMMWV_Avenger_USA';
+
+GUER_StartVeh = ["CUP_I_T34_NAPA"];
+GUER_StartVeh pushBack 'CUP_I_BMP1_TK_GUE';
+GUER_StartVeh pushBack 'CUP_I_BMP2_NAPA';
+GUER_StartVeh pushBack 'CUP_I_T55_NAPA';
+GUER_StartVeh pushBack 'CUP_I_T72_NAPA';
+GUER_StartVeh pushBack 'CUP_I_ZSU23_AAF';
+GUER_StartVeh pushBack 'CUP_I_Ural_ZU23_NAPA';
+GUER_StartVeh pushBack 'CUP_I_BRDM2_ATGM_NAPA';
+GUER_StartVeh pushBack 'CUP_I_BRDM2_NAPA';
+GUER_StartVeh pushBack 'CUP_I_BTR60_UN';
+GUER_StartVeh pushBack 'CUP_I_UAZ_SPG9_UN';
+GUER_StartVeh pushBack 'CUP_I_UAZ_MG_UN';
+GUER_StartVeh pushBack 'CUP_I_UAZ_AGS30_UN';
+GUER_StartVeh pushBack 'CUP_I_SUV_Armored_ION';
+
+GUER_StartAirVeh = ["CUP_I_Wildcat_Green_AAF"];
+GUER_StartAirVeh pushBack 'CUP_I_Ka60_GL_Blk_ION';
+GUER_StartAirVeh pushBack 'CUP_I_L39_AAF';
+GUER_StartAirVeh pushBack 'CUP_I_MH6M_ION';
+GUER_StartAirVeh pushBack 'CUP_I_MH6M_ION_OBS';
+GUER_StartAirVeh pushBack 'CUP_I_Plane_ION';
+GUER_StartAirVeh pushBack 'CUP_I_AH6J_RACS';
+GUER_StartAirVeh pushBack 'CUP_I_SA330_Puma_HC2_RACS';
+GUER_StartAirVeh pushBack 'CUP_I_UH1H_armed_TK_GUE';
+GUER_StartAirVeh pushBack 'CUP_I_UH1H_gunship_TK_GUE';
+GUER_StartAirVeh pushBack 'CUP_I_Mi17_UN';
