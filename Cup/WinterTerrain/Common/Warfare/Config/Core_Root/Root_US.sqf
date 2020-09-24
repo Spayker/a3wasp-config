@@ -95,13 +95,13 @@ if (local player) then {
 //Engineer
 missionNamespace setVariable ["WF_WEST_DefaultGearEngineer", [
 	[
-		["CUP_arifle_MG36",["","","",""],["CUP_100Rnd_556x45_BetaCMag"]],
+		["CUP_sgun_M1014_Entry_vfg",["","","CUP_optic_HoloBlack",""],["CUP_6Rnd_12Gauge_Pellets_No00_Buck"]],
 		["",["","","",""],[""]],
 		["CUP_hgun_Glock17",["","","",""],["CUP_17Rnd_9x19_glock17"]]
 	],
 	
 	[
-		["CUP_U_B_USMC_FROG4_WMARPAT",["CUP_100Rnd_556x45_BetaCMag","CUP_100Rnd_556x45_BetaCMag","CUP_100Rnd_556x45_BetaCMag"]],
+		["CUP_U_B_USMC_FROG4_WMARPAT",["CUP_6Rnd_12Gauge_Pellets_No00_Buck","CUP_6Rnd_12Gauge_Pellets_No00_Buck","CUP_6Rnd_12Gauge_Pellets_No00_Buck", "CUP_6Rnd_12Gauge_Pellets_No00_Buck"]],
 		["CUP_V_B_ALICE",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
 		["B_Kitbag_rgr",["FirstAidKit"]]],
 		["h_cap_grn",""],
@@ -112,14 +112,14 @@ missionNamespace setVariable ["WF_WEST_DefaultGearEngineer", [
 // Sniper
 missionNamespace setVariable ["WF_WEST_DefaultGearSpot", [
 	[
-		["srifle_DMR_06_olive_F",["","","optic_DMS",""],["20Rnd_762x51_Mag"]],
+		["CUP_srifle_CZ750",["","","CUP_optic_AIMM_COMPM4_BLK",""],["CUP_10Rnd_762x51_CZ750"]],
 		["",["","","",""],[""]],
 		["CUP_hgun_TEC9",["","","",""],["CUP_32Rnd_9x19_TEC9"]]
 	],
 	
 	[
-		["U_B_GhillieSuit",["20Rnd_762x51_Mag","20Rnd_762x51_Mag","20Rnd_762x51_Mag","20Rnd_762x51_Mag"]],
-		["CUP_V_B_ALICE",["20Rnd_762x51_Mag","20Rnd_762x51_Mag","CUP_32Rnd_9x19_TEC9","CUP_32Rnd_9x19_TEC9","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
+		["U_B_GhillieSuit",["CUP_10Rnd_762x51_CZ750","CUP_10Rnd_762x51_CZ750","CUP_10Rnd_762x51_CZ750","CUP_10Rnd_762x51_CZ750"]],
+		["CUP_V_B_ALICE",["CUP_10Rnd_762x51_CZ750","CUP_10Rnd_762x51_CZ750","CUP_32Rnd_9x19_TEC9","CUP_32Rnd_9x19_TEC9","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
 		["",["FirstAidKit"]]],
 		["H_Bandanna_sgg",""],
 		[["","Leupold_Mk4"],["itemmap","","itemradio","itemcompass","itemwatch"]]
@@ -146,7 +146,7 @@ missionNamespace setVariable ["WF_WEST_DefaultGearSoldier", [
 // Lock MAN
 missionNamespace setVariable ["WF_WEST_DefaultGearLock", [
 	[
-		["CUP_arifle_M4A1",["CUP_muzzle_snds_M16","","",""],["CUP_30Rnd_556x45_Stanag"]],
+		["CUP_arifle_M4A1",["CUP_muzzle_snds_M16","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_Stanag"]],
 		["CUP_launch_M136",["","","",""],[""]],
 		["CUP_hgun_Glock17",["","","",""],["CUP_17Rnd_9x19_glock17"]]
 	],
@@ -180,7 +180,7 @@ missionNamespace setVariable ["WF_WEST_DefaultGearUAVOperator", [
 // ArtOperator
 missionNamespace setVariable ["WF_WEST_DefaultGearArtOperator", [
 	[
-		["CUP_arifle_M4A1",["","","CUP_acc_ANPEQ_2_Black_Top",""],["CUP_30Rnd_556x45_Stanag"]],
+		["CUP_arifle_M4A1",["","","CUP_optic_ACOG",""],["CUP_30Rnd_556x45_Stanag"]],
 		["CUP_launch_M136_hedp",["","","",""],[""]],
 		["CUP_hgun_Glock17",["","","",""],["CUP_17Rnd_9x19_glock17"]]
 	],

@@ -32,6 +32,14 @@ _i pushBack 'CUP_arifle_XM8_Carbine_GL';
 _u pushBack 1;
 _p pushBack 500;
 
+_i pushBack 'CUP_arifle_Mk17_CQC_EGLM_black';
+_u pushBack 2;
+_p pushBack 500;
+
+_i pushBack 'CUP_arifle_Mk17_STD_EGLM_black';
+_u pushBack 2;
+_p pushBack 500;
+
 _i pushBack 'CUP_arifle_HK416_CQB_AG36';
 _u pushBack 2;
 _p pushBack 400;

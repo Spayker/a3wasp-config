@@ -109,13 +109,13 @@ missionNamespace setVariable ["WF_EAST_DefaultGearEngineer", [
 // Sniper
 missionNamespace setVariable ["WF_EAST_DefaultGearSpot", [
 	[
-		["cup_srifle_cz550_rail",["","","optic_arco_blk_f",""],["cup_5x_22_lr_17_hmr_m"]],
+		["cup_srifle_cz550_rail",["","","CUP_optic_AIMM_COMPM4_BLK",""],["cup_5x_22_lr_17_hmr_m"]],
 		["",["","","",""],[""]],
 		["CUP_hgun_PMM",["","","",""],["CUP_12Rnd_9x18_PMM_M"]]
 	],
 
 	[
-		["CUP_U_O_RUS_Ratnik_Summer",["cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m"]],
+		["U_O_GhillieSuit",["cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m"]],
 		["V_BandollierB_khk",["cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
 		["",["FirstAidKit"]]],
 		["H_Bandanna_camo",""],

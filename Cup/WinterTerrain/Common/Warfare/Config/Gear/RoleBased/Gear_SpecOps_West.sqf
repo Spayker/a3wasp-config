@@ -16,9 +16,13 @@ _i pushBack 'CUP_smg_MP5A5';
 _u pushBack 0;
 _p pushBack 400;
 
-_i pushBack  "arifle_SDAR_F";
+_i pushBack 'CUP_arifle_Fort222';
+_u pushBack 2;
+_p pushBack 450;
+
+_i pushBack  "CUP_smg_PS90_olive";
 _u pushBack  3;
-_p pushBack  290;
+_p pushBack  500;
 
 _i pushBack  "20Rnd_556x45_UW_mag";
 _u pushBack  0;

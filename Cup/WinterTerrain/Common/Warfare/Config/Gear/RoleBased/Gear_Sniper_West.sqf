@@ -17,7 +17,7 @@ _u pushBack 0;
 _p pushBack 450;
 
 _i pushBack 'CUP_srifle_CZ750';
-_u pushBack 1;
+_u pushBack 0;
 _p pushBack 500;
 
 _i pushBack 'CUP_srifle_M14';
@@ -32,7 +32,7 @@ _i pushBack 'CUP_srifle_Mk12SPR';
 _u pushBack 1;
 _p pushBack 500;
 
-_i pushBack 'CUP_srifle_M110';
+_i pushBack 'CUP_srifle_m110_kac_black';
 _u pushBack 2;
 _p pushBack 600;
 
@@ -64,10 +64,6 @@ _i pushBack 'CUP_srifle_L129A1_HG';
 _u pushBack 2;
 _p pushBack 600;
 
-_i pushBack 'srifle_LRR_F';
-_u pushBack 3;
-_p pushBack 800;
-
 _i pushBack 'CUP_srifle_AS50';
 _u pushBack 3;
 _p pushBack 800;
@@ -86,6 +82,10 @@ _p pushBack 500;
 
 _i pushBack  "U_B_FullGhillie_ard";
 _u pushBack  2;
+_p pushBack  200;
+
+_i pushBack  "U_B_GhillieSuit";
+_u pushBack  1;
 _p pushBack  200;
 
 _i pushBack  "U_B_FullGhillie_sard";

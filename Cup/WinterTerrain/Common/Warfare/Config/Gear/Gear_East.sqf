@@ -300,6 +300,10 @@ _i pushBack 'CUP_optic_1p63';
 _u pushBack 1;
 _p pushBack 50;
 
+_i pushBack  "CUP_optic_AIMM_COMPM4_BLK";
+_u pushBack  0;
+_p pushBack  200;
+
 //--Uniform--
 _i pushBack 'CUP_U_O_RUS_EMR_1';
 _u pushBack 0;
@@ -348,10 +352,6 @@ _p pushBack 250;
 
 _i pushBack 'CUP_V_RUS_6B3_1';
 _u pushBack 3;
-_p pushBack 150;
-
-_i pushBack 'V_PlateCarrierIAGL_oli';
-_u pushBack 10;
 _p pushBack 150;
 
 //--Helmets--
@@ -411,10 +411,6 @@ _i pushBack 'CUP_H_RUS_ZSH_1_Goggles';
 _u pushBack 4;
 _p pushBack 200;
 
-_i pushBack 'CUP_H_RUS_TSH_4_Brown';
-_u pushBack 10;
-_p pushBack 80;
-
 _i pushBack 'CUP_H_RUS_ZSH_1';
 _u pushBack 4;
 _p pushBack 200;
@@ -425,10 +421,6 @@ _p pushBack 5;
 
 _i pushBack 'G_Aviator';
 _u pushBack 0;
-_p pushBack 5;
-
-_i pushBack 'CUP_H_C_Ushanka_01';
-_u pushBack 10;
 _p pushBack 5;
 
 _i pushBack 'G_Balaclava_blk';
@@ -535,10 +527,6 @@ _i pushBack 'G_Combat';
 _u pushBack 0;
 _p pushBack 5;
 
-_i pushBack 'CUP_H_PMC_EP_Headset';
-_u pushBack 10;
-_p pushBack 5;
-
 _i pushBack 'G_O_Diving';
 _u pushBack 0;
 _p pushBack 5;
@@ -547,28 +535,8 @@ _i pushBack 'CUP_H_NAPA_Fedora';
 _u pushBack 0;
 _p pushBack 5;
 
-_i pushBack 'CUP_H_FR_Headband_Headset';
-_u pushBack 10;
-_p pushBack 5;
-
-_i pushBack 'CUP_H_FR_Headset';
-_u pushBack 10;
-_p pushBack 5;
-
 _i pushBack 'G_Lowprofile';
 _u pushBack 0;
-_p pushBack 5;
-
-_i pushBack 'H_PilotHelmetFighter_O';
-_u pushBack 10;
-_p pushBack 5;
-
-_i pushBack 'CUP_H_PMC_PRR_Headset';
-_u pushBack 10;
-_p pushBack 5;
-
-_i pushBack 'H_Cap_headphones';
-_u pushBack 10;
 _p pushBack 5;
 
 _i pushBack 'H_Shemag_olive';
@@ -963,10 +931,6 @@ _i pushBack 'CUP_U_O_RUS_Gorka_Partizan';
 _u pushBack 1;
 _p pushBack 50;
 
-_i pushBack 'CUP_U_O_TK_Ghillie';
-_u pushBack 10;
-_p pushBack 200;
-
 _i pushBack 'CUP_V_O_Ins_Carrier_Rig_Com';
 _u pushBack 1;
 _p pushBack 50;
@@ -982,22 +946,6 @@ _p pushBack 300;
 _i pushBack 'CUP_optic_PGO7V2';
 _u pushBack 1;
 _p pushBack 150;
-
-_i pushBack 'CUP_V_OI_TKI_Jacket3_04';
-_u pushBack 10;
-_p pushBack 30;
-
-_i pushBack 'CUP_V_OI_TKI_Jacket3_02';
-_u pushBack 10;
-_p pushBack 30;
-
-_i pushBack 'CUP_V_OI_TKI_Jacket3_03';
-_u pushBack 10;
-_p pushBack 30;
-
-_i pushBack 'CUP_V_OI_TKI_Jacket3_01';
-_u pushBack 10;
-_p pushBack 30;
 
 _i pushBack 'CUP_B_AlicePack_Khaki';
 _u pushBack 1;
@@ -1219,18 +1167,6 @@ _i pushBack 'CUP_B_CivPack_WDL';
 _u pushBack 2;
 _p pushBack 300;
 
-_i pushBack 'B_ViperHarness_blk_F';
-_u pushBack 2;
-_p pushBack 350;
-
-_i pushBack 'B_ViperHarness_khk_F';
-_u pushBack 2;
-_p pushBack 350;
-
-_i pushBack 'B_ViperHarness_oli_F';
-_u pushBack 2;
-_p pushBack 350;
-
 _i pushBack 'CUP_launch_Metis';
 _u pushBack 4;
 _p pushBack 1000;
@@ -1286,22 +1222,6 @@ _p pushBack 150;
 _i pushBack 'O_NVGoggles_hex_F';
 _u pushBack 3;
 _p pushBack 150;
-
-_i pushBack 'H_HelmetO_ViperSP_ghex_F';
-_u pushBack 10;
-_p pushBack 450;
-
-_i pushBack 'H_HelmetO_ViperSP_hex_F';
-_u pushBack 10;
-_p pushBack 450;
-
-_i pushBack 'U_O_V_Soldier_Viper_F';
-_u pushBack 10;
-_p pushBack 400;
-
-_i pushBack 'U_O_V_Soldier_Viper_hex_F';
-_u pushBack 10;
-_p pushBack 400;
 
 _i pushBack 'CUP_B_Metis_Gun_Bag';
 _u pushBack 4;

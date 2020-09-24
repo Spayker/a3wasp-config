@@ -28,9 +28,17 @@ _i pushBack  "CUP_lmg_m249_SQuantoon";
 _u pushBack  3;
 _p pushBack  450;
 
+_i pushBack "CUP_sgun_SPAS12";
+_u pushBack 1;
+_p pushBack 300;
+
+_i pushBack "CUP_sgun_M1014_Entry_vfg";
+_u pushBack 0;
+_p pushBack 200;
+
 _i pushBack "CUP_sgun_AA12";
 _u pushBack 3;
-_p pushBack 200;
+_p pushBack 400;
 
 _i pushBack  "CUP_lmg_M60E4_norail";
 _u pushBack  2;

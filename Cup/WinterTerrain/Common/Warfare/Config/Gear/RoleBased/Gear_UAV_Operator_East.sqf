@@ -9,7 +9,7 @@ _p = [];
 
 // East UAV Operator special gear list
 _i pushBack  "O_UGV_02_Demining_backpack_F";
-_u pushBack  3;
+_u pushBack  1;
 _p pushBack  1500;
 
 _i pushBack  "O_Static_Designator_02_weapon_F";

@@ -115,7 +115,7 @@ missionNamespace setVariable ["WF_EAST_DefaultGearSpot", [
 	],
 
 	[
-		["CUP_U_O_RUS_Ratnik_BeigeDigital",["cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m"]],
+		["U_O_GhillieSuit",["cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m"]],
 		["V_BandollierB_khk",["cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
 		["",["FirstAidKit"]]],
 		["h_bandanna_cbr",""],

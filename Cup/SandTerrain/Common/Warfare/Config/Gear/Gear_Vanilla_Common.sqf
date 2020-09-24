@@ -63,6 +63,18 @@ _i pushBack  "B_Kitbag_sgg";
 _u pushBack  3;
 _p pushBack  250;
 
+_i pushBack 'B_ViperHarness_blk_F';
+_u pushBack 2;
+_p pushBack 350;
+
+_i pushBack 'B_ViperHarness_khk_F';
+_u pushBack 2;
+_p pushBack 350;
+
+_i pushBack 'B_ViperHarness_oli_F';
+_u pushBack 2;
+_p pushBack 350;
+
 _i pushBack  "hgun_Pistol_heavy_02_F";
 _u pushBack  2;
 _p pushBack  250;

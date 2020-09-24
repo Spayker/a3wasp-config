@@ -62,7 +62,7 @@ _p pushBack  300;
 
 _i pushBack "CUP_sgun_AA12";
 _u pushBack 3;
-_p pushBack 200;
+_p pushBack 400;
 
 _i pushBack  "CUP_glaunch_6G30";
 _u pushBack  4;
