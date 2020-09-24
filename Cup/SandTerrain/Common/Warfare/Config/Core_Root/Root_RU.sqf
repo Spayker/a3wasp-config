@@ -109,16 +109,16 @@ missionNamespace setVariable ["WF_EAST_DefaultGearEngineer", [
 // Sniper
 missionNamespace setVariable ["WF_EAST_DefaultGearSpot", [
 	[
-		["CUP_srifle_SVD_wdl",["","","CUP_optic_PSO_1",""],["CUP_10Rnd_762x54_SVD_M"]],
+		["cup_srifle_cz550_rail",["","","optic_arco_blk_f",""],["cup_5x_22_lr_17_hmr_m"]],
 		["",["","","",""],[""]],
 		["CUP_hgun_PMM",["","","",""],["CUP_12Rnd_9x18_PMM_M"]]
 	],
 
 	[
-		["U_O_GhillieSuit",["CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M"]],
-		["V_BandollierB_khk",["CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
+		["CUP_U_O_RUS_Ratnik_BeigeDigital",["cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m"]],
+		["V_BandollierB_khk",["cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
 		["",["FirstAidKit"]]],
-		["",""],
+		["h_bandanna_cbr",""],
 		[["","binocular"],["itemmap","","itemradio","itemcompass","itemwatch"]]
 	]
 ];

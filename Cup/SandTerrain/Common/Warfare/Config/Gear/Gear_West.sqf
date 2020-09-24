@@ -443,7 +443,7 @@ _u pushBack 0;
 _p pushBack 5;
 
 _i pushBack 'G_Bandanna_aviator';
-_u pushBack 0;
+_u pushBack 10;
 _p pushBack 5;
 
 _i pushBack 'G_Bandanna_beast';

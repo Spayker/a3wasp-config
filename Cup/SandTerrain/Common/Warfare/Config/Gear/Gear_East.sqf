@@ -70,14 +70,6 @@ _u pushBack 0;
 _p pushBack 600;
 
 //--Automatic rifles--
-_i pushBack 'CUP_smg_bizon';
-_u pushBack 0;
-_p pushBack 300;
-
-_i pushBack 'CUP_smg_EVO';
-_u pushBack 1;
-_p pushBack 400;
-
 _i pushBack 'CUP_arifle_AKS74U';
 _u pushBack 1;
 _p pushBack 400;
@@ -118,9 +110,21 @@ _i pushBack 'CUP_arifle_AKS';
 _u pushBack 0;
 _p pushBack 400;
 
-_i pushBack 'CUP_arifle_AK107';
+_i pushBack 'CUP_arifle_AK107_railed';
 _u pushBack 1;
-_p pushBack 400;
+_p pushBack 625;
+
+_i pushBack 'CUP_arifle_AK109_railed';
+_u pushBack 1;
+_p pushBack 725;
+
+_i pushBack 'CUP_arifle_AK101_railed';
+_u pushBack 1;
+_p pushBack 375;
+
+_i pushBack  "CUP_arifle_AK103_railed";
+_u pushBack  2;
+_p pushBack  475;
 
 _i pushBack 'CUP_arifle_AKS_Gold';
 _u pushBack 2;
@@ -428,8 +432,8 @@ _u pushBack 1;
 _p pushBack 80;
 
 _i pushBack 'CUP_H_RUS_ZSH_Shield_Down';
-_u pushBack 1;
-_p pushBack 80;
+_u pushBack 4;
+_p pushBack 160;
 
 _i pushBack 'H_Booniehat_tan';
 _u pushBack 10;
@@ -655,6 +659,10 @@ _i pushBack 'CUP_T10_Parachute_backpack';
 _u pushBack 0;
 _p pushBack 250;
 
+_i pushBack 'CUP_O_RUS_Patrol_bag_BeigeDigital_AT';
+_u pushBack 1;
+_p pushBack 200;
+
 _i pushBack 'CUP_O_RUS_Patrol_bag_BeigeDigital';
 _u pushBack 1;
 _p pushBack 200;
@@ -688,7 +696,7 @@ _u pushBack 1;
 _p pushBack 25;
 
 _i pushBack 'CUP_20Rnd_9x39_SP5_VSS_M';
-_u pushBack 1;
+_u pushBack 2;
 _p pushBack 25;
 
 _i pushBack 'CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Green_M';
@@ -1280,7 +1288,7 @@ _u pushBack 4;
 _p pushBack 1200;
 
 _i pushBack 'CUP_AT13_M';
-_u pushBack 3;
+_u pushBack 4;
 _p pushBack 400;
 
 _i pushBack 'Vorona_HEAT';
@@ -1292,7 +1300,7 @@ _u pushBack 3;
 _p pushBack 300;
 
 _i pushBack 'CUP_5Rnd_127x108_KSVK_M';
-_u pushBack 3;
+_u pushBack 4;
 _p pushBack 50;
 
 _i pushBack 'CUP_IED_V1_M';

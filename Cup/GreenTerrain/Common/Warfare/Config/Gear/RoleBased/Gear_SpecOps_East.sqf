@@ -12,13 +12,13 @@ _i pushBack  "CUP_arifle_AS_VAL_flash_top";
 _u pushBack  3;
 _p pushBack  270;
 
-_i pushBack  "CUP_20Rnd_9x39_SP5_VSS_M";
-_u pushBack  0;
-_p pushBack  20;
-
 _i pushBack  "CUP_arifle_AS_VAL";
 _u pushBack  2;
 _p pushBack  170;
+
+_i pushBack 'CUP_smg_EVO';
+_u pushBack 1;
+_p pushBack 400;
 
 _i pushBack  "CUP_smg_bizon";
 _u pushBack  1;

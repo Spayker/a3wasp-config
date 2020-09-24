@@ -13,7 +13,7 @@ _u pushBack 0;
 _p pushBack 450;
 
 _i pushBack 'CUP_srifle_CZ550_rail';
-_u pushBack 1;
+_u pushBack 0;
 _p pushBack 450;
 
 _i pushBack 'CUP_srifle_CZ750';

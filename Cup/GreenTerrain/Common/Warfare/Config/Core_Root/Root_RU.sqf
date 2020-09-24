@@ -92,15 +92,15 @@ if (local player) then {
 //Engineer
 missionNamespace setVariable ["WF_EAST_DefaultGearEngineer", [
 	[
-		["CUP_RPK_74",["CUP_optic_Kobra","","",""],["CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M"]],
+		["CUP_sgun_Saiga12K_top_rail",["CUP_optic_HoloBlack","","",""],["CUP_8Rnd_B_Saiga12_74Pellets_M"]],
 		["",["","","",""],[""]],
 		["CUP_hgun_PMM",["","","",""],["CUP_12Rnd_9x18_PMM_M"]]
 	],
 	
 	[
-		["CUP_U_O_RUS_Ratnik_Summer",["CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M"]],
+		["CUP_U_O_RUS_Ratnik_Summer",["CUP_8Rnd_B_Saiga12_74Pellets_M","CUP_8Rnd_B_Saiga12_74Pellets_M"]],
 		["V_BandollierB_khk",["CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
-		["CUP_O_RUS_Patrol_bag_Summer",["FirstAidKit","CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M"]]],
+		["CUP_O_RUS_Patrol_bag_Summer",["FirstAidKit","CUP_8Rnd_B_Saiga12_74Pellets_M","CUP_8Rnd_B_Saiga12_74Pellets_M","CUP_8Rnd_B_Saiga12_74Pellets_M"]]],
 		["h_watchcap_camo",""],
 		[["","binocular"],["itemmap","","itemradio","itemcompass","itemwatch"]]
 	]
@@ -109,14 +109,14 @@ missionNamespace setVariable ["WF_EAST_DefaultGearEngineer", [
 // Sniper
 missionNamespace setVariable ["WF_EAST_DefaultGearSpot", [
 	[
-		["CUP_srifle_SVD_wdl",["","","CUP_optic_PSO_1",""],["CUP_10Rnd_762x54_SVD_M"]],
+		["cup_srifle_cz550_rail",["","","optic_arco_blk_f",""],["cup_5x_22_lr_17_hmr_m"]],
 		["",["","","",""],[""]],
 		["CUP_hgun_PMM",["","","",""],["CUP_12Rnd_9x18_PMM_M"]]
 	],
 
 	[
-		["CUP_U_O_RUS_Ghillie",["CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M"]],
-		["V_BandollierB_khk",["CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
+		["CUP_U_O_RUS_Ratnik_Summer",["cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m"]],
+		["V_BandollierB_khk",["cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
 		["",["FirstAidKit"]]],
 		["H_Bandanna_camo",""],
 		[["","binocular"],["itemmap","","itemradio","itemcompass","itemwatch"]]
@@ -143,7 +143,7 @@ missionNamespace setVariable ["WF_EAST_DefaultGearSoldier", [
 // Lock MAN
 missionNamespace setVariable ["WF_EAST_DefaultGearLock", [
 	[
-		["CUP_arifle_AKS74_Early",["CUP_muzzle_PBS4","","",""],["CUP_30Rnd_545x39_AK_M"]],
+		["CUP_arifle_AKS74U",["CUP_muzzle_PBS4","","CUP_optic_Kobra",""],["CUP_30Rnd_545x39_AK_M"]],
 		["CUP_launch_RPG26",["","","",""],[""]],
 		["CUP_hgun_PMM",["","","",""],["CUP_12Rnd_9x18_PMM_M"]]
 	],
@@ -160,7 +160,7 @@ missionNamespace setVariable ["WF_EAST_DefaultGearLock", [
 // UAVOperator
 missionNamespace setVariable ["WF_EAST_DefaultGearUAVOperator", [
 	[
-		["CUP_arifle_AK74",["CUP_muzzle_PBS4","","CUP_optic_Kobra",""],["CUP_30Rnd_545x39_AK_M"]],
+		["CUP_arifle_AK74",["","","CUP_optic_Kobra",""],["CUP_30Rnd_545x39_AK_M"]],
 		["CUP_launch_RPG26",["","","",""],[""]],
 		["CUP_hgun_PMM",["","","",""],["CUP_12Rnd_9x18_PMM_M"]]
 	],

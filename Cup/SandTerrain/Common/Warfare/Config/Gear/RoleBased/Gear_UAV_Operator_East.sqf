@@ -18,11 +18,11 @@ _p pushBack  1000;
 
 _i pushBack  "O_UAV_06_backpack_F";
 _u pushBack  4;
-_p pushBack  2000;
+_p pushBack  3000;
 
 _i pushBack  "O_UAV_01_backpack_F";
-_u pushBack  4;
-_p pushBack  3000;
+_u pushBack  3;
+_p pushBack  2000;
 
 _i pushBack  "O_UavTerminal";
 _u pushBack  3;

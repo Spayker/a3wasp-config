@@ -13,7 +13,7 @@ _u pushBack  0;
 _p pushBack  300;
 
 _i pushBack 'CUP_sgun_Saiga12K_top_rail';
-_u pushBack 1;
+_u pushBack 0;
 _p pushBack 350;
 
 _i pushBack  "CUP_RPK_74";
