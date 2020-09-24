@@ -380,7 +380,7 @@ _WF_UAV_OPERATOR = [
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_HandGrenade_M67","firstaidkit"]],
                         ["CUP_V_B_IOTV_saw",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
-                        ["O_UAV_01_backpack_F",[]]
+                        ["B_UAV_01_backpack_F",[]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
                     [["","binocular"],["itemmap","itemgps","itemradio","itemcompass","itemwatch"]]

@@ -380,7 +380,7 @@ _WF_UAV_OPERATOR = [
                     [
                         ["CUP_U_B_USMC_FROG4_WMARPAT",["CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_HandGrenade_M67","firstaidkit"]],
                         ["CUP_V_B_IOTV_OEFCP_Rifleman_Deltoid_USArmy",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
-                        ["O_UAV_01_backpack_F",[]]
+                        ["B_UAV_01_backpack_F",[]]
                     ],
                     ["CUP_H_USMC_Goggles_HelmetWDL",""],
                     [["","binocular"],["itemmap","itemgps","itemradio","itemcompass","itemwatch"]]
