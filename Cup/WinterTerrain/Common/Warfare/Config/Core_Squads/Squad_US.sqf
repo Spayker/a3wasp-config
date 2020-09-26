@@ -9,90 +9,90 @@ _aiTeamTemplateName = [];
 _aiTeamUpgrades = [];
 
 //--- Infantry
-_u = ["CUP_B_US_Soldier_TL"];
-_u pushBack "CUP_B_US_Soldier";
-_u pushBack "CUP_B_US_Soldier_MG";
-_u pushBack "CUP_B_US_Soldier_LAT";
-_u pushBack "CUP_B_US_Soldier_LAT";
-_u pushBack "CUP_B_US_Medic";
-_u pushBack "CUP_B_US_Engineer";
-_u pushBack "CUP_B_US_Soldier_GL";
+_u = ["CUP_B_USMC_Soldier_TL_FROG_WDL"];
+_u pushBack "CUP_B_USMC_Soldier_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_MG_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_LAT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_LAT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Medic_FROG_WDL";
+_u pushBack "CUP_B_USMC_Engineer_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_GL_FROG_WDL";
 
 _aiTeamTemplateName pushBack "Light Assault Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 1;
 
-_u		= ["CUP_B_US_Soldier_TL"];
-_u pushBack "CUP_B_US_Soldier_AR";
-_u pushBack "CUP_B_US_Soldier_AR";
-_u pushBack "CUP_B_US_Soldier_AT";
-_u pushBack "CUP_B_US_Soldier_AT";
-_u pushBack "CUP_B_US_Soldier_Marksman";
-_u pushBack "CUP_B_US_Soldier_GL";
-_u pushBack "CUP_B_US_Soldier_AA";
+_u		= ["CUP_B_USMC_Soldier_TL_FROG_WDL"];
+_u pushBack "CUP_B_USMC_Soldier_AR_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AR_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_Marksman_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_GL_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AA_FROG_WDL";
 
 _aiTeamTemplateName pushBack "Medium Assault Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 2;
 
-_u		= ["CUP_B_US_Soldier_TL"];
-_u pushBack "CUP_B_US_Soldier_GL";
-_u pushBack "CUP_B_US_Soldier_MG";
-_u pushBack "CUP_B_US_Soldier_HAT";
-_u pushBack "CUP_B_US_Soldier_AT";
-_u pushBack "CUP_B_US_Soldier_AT";
-_u pushBack "CUP_B_US_Soldier_HAT";
-_u pushBack "CUP_B_US_Soldier_AA";
+_u		= ["CUP_B_USMC_Soldier_TL_FROG_WDL"];
+_u pushBack "CUP_B_USMC_Soldier_GL_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_MG_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_HAT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_HAT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AA_FROG_WDL";
 
 _aiTeamTemplateName pushBack "Heavy Assault Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 3;
 
-_u = ["CUP_B_US_Soldier_LAT"];
-_u pushBack "CUP_B_US_Soldier_LAT";
-_u pushBack "CUP_B_US_Soldier_LAT";
-_u pushBack "CUP_B_US_Soldier_LAT";
-_u pushBack "CUP_B_US_Soldier_LAT";
-_u pushBack "CUP_B_US_Soldier_LAT";
+_u = ["CUP_B_USMC_Soldier_LAT_FROG_WDL"];
+_u pushBack "CUP_B_USMC_Soldier_LAT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_LAT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_LAT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_LAT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_LAT_FROG_WDL";
 
 _aiTeamTemplateName pushBack "Light AT Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 0;
 
-_u = ["CUP_B_US_Soldier_AT"];
-_u pushBack "CUP_B_US_Soldier_AT";
-_u pushBack "CUP_B_US_Soldier_AT";
-_u pushBack "CUP_B_US_Soldier_AT";
-_u pushBack "CUP_B_US_Soldier_AT";
-_u pushBack "CUP_B_US_Soldier_AT";
+_u = ["CUP_B_USMC_Soldier_AT_FROG_WDL"];
+_u pushBack "CUP_B_USMC_Soldier_AT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AT_FROG_WDL";
 
 _aiTeamTemplateName pushBack "AT Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 2;
 
-_u = ["CUP_B_US_Soldier_HAT"];
-_u pushBack "CUP_B_US_Soldier_HAT";
-_u pushBack "CUP_B_US_Soldier_HAT";
-_u pushBack "CUP_B_US_Soldier_HAT";
-_u pushBack "CUP_B_US_Soldier_HAT";
-_u pushBack "CUP_B_US_Soldier_HAT";
+_u = ["CUP_B_USMC_Soldier_HAT_FROG_WDL"];
+_u pushBack "CUP_B_USMC_Soldier_HAT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_HAT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_HAT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_HAT_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_HAT_FROG_WDL";
 
 _aiTeamTemplateName pushBack "Heavy AT Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 3;
 
-_u = ["CUP_B_US_Soldier_AA"];
-_u pushBack "CUP_B_US_Soldier_AA";
-_u pushBack "CUP_B_US_Soldier_AA";
-_u pushBack "CUP_B_US_Soldier_AA";
-_u pushBack "CUP_B_US_Soldier_AA";
-_u pushBack "CUP_B_US_Soldier_AA";
+_u = ["CUP_B_USMC_Soldier_AA_FROG_WDL"];
+_u pushBack "CUP_B_USMC_Soldier_AA_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AA_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AA_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AA_FROG_WDL";
+_u pushBack "CUP_B_USMC_Soldier_AA_FROG_WDL";
 
 _aiTeamTemplateName pushBack "AA Infantry Squad";
 _aiTeamTemplates pushBack _u;
