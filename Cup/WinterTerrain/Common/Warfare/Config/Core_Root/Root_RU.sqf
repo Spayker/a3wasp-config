@@ -32,6 +32,7 @@ missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL3", _side],['CUP_O_RU_S
 
 missionNamespace setVariable [Format["WF_%1PARACARGO", _side], 'CUP_O_C47_SLA'];//--- Paratroopers, Vehicle.
 missionNamespace setVariable [Format["WF_%1PARACARGO_HELI", _side], 'CUP_O_Mi8AMT_RU'];//--- Paratroopers, Helicopter.
+missionNamespace setVariable [Format["WF_%1PARACARGO_HELI", _side], 'CUP_O_Mi24_Mk4_CSAT_T'];//--- Cas Assault Helicopter.
 missionNamespace setVariable [Format["WF_%1REPAIRTRUCK", _side], 'CUP_O_Ural_Repair_RU'];//--- Repair Truck model.
 missionNamespace setVariable [Format["WF_%1STARTINGVEHICLES", _side], ['CUP_O_LR_Ambulance_TKA','CUP_O_Ural_RU']];//--- Starting Vehicles.
 missionNamespace setVariable [Format["WF_%1PARAVEHICARGO", _side], 'CUP_O_Ural_Repair_RU'];//--- Supply Paradropping, Dropped Vehicle.
