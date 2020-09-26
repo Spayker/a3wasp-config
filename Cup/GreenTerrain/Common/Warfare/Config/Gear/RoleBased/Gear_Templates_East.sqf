@@ -11,7 +11,7 @@ _WF_SNIPER = [
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ghillie",["CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_U_O_RUS_Ghillie",["CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","cup_handgrenade_rgd5","firstaidkit"]],
                         ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_10Rnd_762x54_SVD_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["cup_b_alicepack_bedroll",["CUP_PG7V_M","CUP_PG7V_M","CUP_PG7V_M"]]
                     ],
@@ -27,7 +27,7 @@ _WF_SNIPER = [
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ghillie",["CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_U_O_RUS_Ghillie",["CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","cup_handgrenade_rgd5","firstaidkit"]],
                         ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_10Rnd_762x54_SVD_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["cup_pg7vl_m","cup_pg7vl_m","cup_pg7vl_m"]]
                     ],
@@ -43,7 +43,7 @@ _WF_SNIPER = [
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ghillie",["CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_U_O_RUS_Ghillie",["CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","cup_handgrenade_rgd5","firstaidkit"]],
                         ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_20Rnd_9x39_SP5_VSS_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["RPG32_F","RPG32_F","RPG32_F"]]
                     ],
@@ -59,7 +59,7 @@ _WF_SNIPER = [
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ghillie",["CUP_5Rnd_127x108_KSVK_M","CUP_5Rnd_127x108_KSVK_M","CUP_5Rnd_127x108_KSVK_M","CUP_5Rnd_127x108_KSVK_M","CUP_5Rnd_127x108_KSVK_M","CUP_5Rnd_127x108_KSVK_M","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_U_O_RUS_Ghillie",["CUP_5Rnd_127x108_KSVK_M","cup_handgrenade_rgd5","firstaidkit"]],
                         ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_5Rnd_127x108_KSVK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["Vorona_HEAT", "Vorona_HEAT"]]
                     ],
@@ -73,13 +73,13 @@ _WF_SNIPER = [
 _WF_SOLDIER = [
     ["GEAR 1", [
                     [
-                        ["CUP_arifle_AK101_GL_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_1Rnd_HE_GP25_M"]],
+                        ["CUP_arifle_AK101_GL_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_AK","CUP_1Rnd_HE_GP25_M"]],
                         ["cup_launch_rpg7v",["","","cup_optic_pgo7v2",""],["CUP_PG7V_M"]],
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","cup_handgrenade_rgd5","firstaidkit"]],
-                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_556x45_AK","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
                         ["cup_b_alicepack_bedroll",["CUP_PG7V_M","CUP_PG7V_M","CUP_PG7V_M"]]
                     ],
                     ["CUP_H_RUS_SSH68_cover_berezka",""],
@@ -89,13 +89,13 @@ _WF_SOLDIER = [
     ],
     ["GEAR 2", [
                     [
-                        ["CUP_arifle_AK103_GL_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_1Rnd_HE_GP25_M"]],
+                        ["CUP_arifle_AK103_GL_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_AK","CUP_1Rnd_HE_GP25_M"]],
                         ["cup_launch_rpg7v",["","","cup_optic_pgo7v2",""],["cup_pg7vl_m"]],
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","cup_handgrenade_rgd5","firstaidkit"]],
-                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_556x45_AK","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["cup_pg7vl_m","cup_pg7vl_m","cup_pg7vl_m"]]
                     ],
                     ["CUP_H_RUS_6B27",""],
@@ -105,13 +105,13 @@ _WF_SOLDIER = [
     ],
     ["GEAR 3", [
                     [
-                        ["CUP_arifle_AK107_GL_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M"]],
+                        ["CUP_arifle_AK107_GL_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK"]],
                         ["launch_RPG32_green_F",["","","cup_optic_pgo7v2",""],["RPG32_F"]],
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","cup_handgrenade_rgd5","firstaidkit"]],
-                        ["CUP_Vest_RUS_6B45_Sh117_VOG",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_Vest_RUS_6B45_Sh117_VOG",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_556x45_AK","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["RPG32_F","RPG32_F","RPG32_F"]]
                     ],
                     ["CUP_H_RUS_6B47_v2_GogglesUp_Summer",""],
@@ -121,13 +121,13 @@ _WF_SOLDIER = [
     ],
     ["GEAR 4", [
                     [
-                        ["CUP_arifle_AK109_GL_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M"]],
+                        ["CUP_arifle_AK109_GL_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK"]],
                         ["launch_O_Vorona_green_F",["","","cup_optic_pgo7v2",""],["Vorona_HEAT"]],
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","cup_handgrenade_rgd5","firstaidkit"]],
-                        ["CUP_Vest_RUS_6B45_Sh117_VOG",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_Vest_RUS_6B45_Sh117_VOG",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_556x45_AK","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["Vorona_HEAT", "Vorona_HEAT"]]
                     ],
                     ["CUP_H_RUS_ZSH_1",""],
@@ -145,8 +145,8 @@ _WF_ENGINEER = [
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","cup_handgrenade_rgd5","firstaidkit"]],
-                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_556x45_AK","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M"]],
                         ["cup_b_alicepack_bedroll",["CUP_PG7V_M","CUP_PG7V_M","CUP_PG7V_M"]]
                     ],
                     ["CUP_H_RUS_SSH68_cover_berezka",""],
@@ -161,7 +161,7 @@ _WF_ENGINEER = [
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","cup_handgrenade_rgd5","firstaidkit"]],
                         ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["cup_pg7vl_m","cup_pg7vl_m","cup_pg7vl_m"]]
                     ],
@@ -177,7 +177,7 @@ _WF_ENGINEER = [
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Green_M","CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Green_M","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Green_M","cup_handgrenade_rgd5","firstaidkit"]],
                         ["CUP_Vest_RUS_6B45_Sh117_PKP",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["RPG32_F","RPG32_F","RPG32_F"]]
                     ],
@@ -193,7 +193,7 @@ _WF_ENGINEER = [
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_20Rnd_B_AA12_Pellets","CUP_20Rnd_B_AA12_Pellets","CUP_20Rnd_B_AA12_Pellets","CUP_20Rnd_B_AA12_Pellets","CUP_20Rnd_B_AA12_Pellets","CUP_20Rnd_B_AA12_Pellets","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_20Rnd_B_AA12_Pellets","CUP_20Rnd_B_AA12_Pellets","cup_handgrenade_rgd5","firstaidkit"]],
                         ["CUP_Vest_RUS_6B45_Sh117_PKP",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_20Rnd_B_AA12_Pellets","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["Vorona_HEAT", "Vorona_HEAT"]]
                     ],
@@ -212,7 +212,7 @@ _WF_SPECOPS = [
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_64Rnd_9x19_Bizon_M","CUP_64Rnd_9x19_Bizon_M","CUP_64Rnd_9x19_Bizon_M","CUP_64Rnd_9x19_Bizon_M","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_64Rnd_9x19_Bizon_M","cup_handgrenade_rgd5","firstaidkit"]],
                         ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_64Rnd_9x19_Bizon_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_64Rnd_9x19_Bizon_M"]],
                         ["cup_b_alicepack_bedroll",["CUP_PG7V_M","CUP_PG7V_M","CUP_PG7V_M"]]
                     ],
@@ -228,7 +228,7 @@ _WF_SPECOPS = [
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_20Rnd_9x39_SP5_VSS_M","cup_handgrenade_rgd5","firstaidkit"]],
                         ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_20Rnd_9x39_SP5_VSS_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["cup_pg7vl_m","cup_pg7vl_m","cup_pg7vl_m"]]
                     ],
@@ -244,7 +244,7 @@ _WF_SPECOPS = [
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_20Rnd_9x39_SP5_VSS_M","cup_handgrenade_rgd5","firstaidkit"]],
                         ["CUP_Vest_RUS_6B45_Sh117_PKP",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["RPG32_F","RPG32_F","RPG32_F"]]
                     ],
@@ -260,7 +260,7 @@ _WF_SPECOPS = [
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","cup_handgrenade_rgd5","firstaidkit"]],
                         ["CUP_Vest_RUS_6B45_Sh117_PKP",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_20Rnd_9x39_SP5_VSS_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["Vorona_HEAT", "Vorona_HEAT"]]
                     ],
@@ -274,13 +274,13 @@ _WF_SPECOPS = [
 _WF_ARTY_OPERATOR = [
     ["GEAR 1", [
                     [
-                        ["CUP_arifle_AK101_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_1Rnd_HE_GP25_M"]],
+                        ["CUP_arifle_AK101_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_AK","CUP_1Rnd_HE_GP25_M"]],
                         ["cup_launch_rpg7v",["","","cup_optic_pgo7v2",""],["CUP_PG7V_M"]],
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","cup_handgrenade_rgd5","firstaidkit"]],
-                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_556x45_AK","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
                         ["cup_b_alicepack_bedroll",["CUP_PG7V_M","CUP_PG7V_M","CUP_PG7V_M"]]
                     ],
                     ["CUP_H_RUS_SSH68_cover_berezka",""],
@@ -290,13 +290,13 @@ _WF_ARTY_OPERATOR = [
     ],
     ["GEAR 2", [
                     [
-                        ["CUP_arifle_AK103_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_1Rnd_HE_GP25_M"]],
+                        ["CUP_arifle_AK103_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_AK","CUP_1Rnd_HE_GP25_M"]],
                         ["cup_launch_rpg7v",["","","cup_optic_pgo7v2",""],["cup_pg7vl_m"]],
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","cup_handgrenade_rgd5","firstaidkit"]],
-                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_556x45_AK","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["cup_pg7vl_m","cup_pg7vl_m","cup_pg7vl_m"]]
                     ],
                     ["CUP_H_RUS_6B27",""],
@@ -306,13 +306,13 @@ _WF_ARTY_OPERATOR = [
     ],
     ["GEAR 3", [
                     [
-                        ["CUP_arifle_AK107_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M"]],
+                        ["CUP_arifle_AK107_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK"]],
                         ["launch_RPG32_green_F",["","","cup_optic_pgo7v2",""],["RPG32_F"]],
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","cup_handgrenade_rgd5","firstaidkit"]],
-                        ["CUP_Vest_RUS_6B45_Sh117",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_Vest_RUS_6B45_Sh117",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_556x45_AK","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["RPG32_F","RPG32_F","RPG32_F"]]
                     ],
                     ["CUP_H_RUS_6B47_v2_GogglesUp_Summer",""],
@@ -322,13 +322,13 @@ _WF_ARTY_OPERATOR = [
     ],
     ["GEAR 4", [
                     [
-                        ["CUP_arifle_AK109_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M"]],
+                        ["CUP_arifle_AK109_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK"]],
                         ["launch_O_Vorona_green_F",["","","cup_optic_pgo7v2",""],["Vorona_HEAT"]],
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","cup_handgrenade_rgd5","firstaidkit"]],
-                        ["CUP_Vest_RUS_6B45_Sh117",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_Vest_RUS_6B45_Sh117",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_556x45_AK","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["B_ViperHarness_khk_F",["Vorona_HEAT", "Vorona_HEAT"]]
                     ],
                     ["CUP_H_RUS_ZSH_1",""],
@@ -341,13 +341,13 @@ _WF_ARTY_OPERATOR = [
 _WF_UAV_OPERATOR = [
     ["GEAR 1", [
                     [
-                        ["CUP_arifle_AK101_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_1Rnd_HE_GP25_M"]],
+                        ["CUP_arifle_AK101_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_AK","CUP_1Rnd_HE_GP25_M"]],
                         ["cup_launch_rpg7v",["","","cup_optic_pgo7v2",""],["CUP_PG7V_M"]],
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","cup_handgrenade_rgd5","firstaidkit"]],
-                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_556x45_AK","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
                         ["O_UGV_02_Demining_backpack_F",[]]
                     ],
                     ["CUP_H_RUS_SSH68_cover_berezka",""],
@@ -357,13 +357,13 @@ _WF_UAV_OPERATOR = [
     ],
     ["GEAR 2", [
                     [
-                        ["CUP_arifle_AK103_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_1Rnd_HE_GP25_M"]],
+                        ["CUP_arifle_AK103_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_AK","CUP_1Rnd_HE_GP25_M"]],
                         ["cup_launch_rpg7v",["","","cup_optic_pgo7v2",""],["cup_pg7vl_m"]],
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","cup_handgrenade_rgd5","firstaidkit"]],
-                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["V_TacVest_khk",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_556x45_AK","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","cup_20rnd_b_765x17_ball_m"]],
                         ["O_UGV_02_Demining_backpack_F",[]]
                     ],
                     ["CUP_H_RUS_6B27",""],
@@ -373,13 +373,13 @@ _WF_UAV_OPERATOR = [
     ],
     ["GEAR 3", [
                     [
-                        ["CUP_arifle_AK107_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M"]],
+                        ["CUP_arifle_AK107_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK"]],
                         ["launch_RPG32_green_F",["","","cup_optic_pgo7v2",""],["RPG32_F"]],
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","cup_handgrenade_rgd5","firstaidkit"]],
-                        ["CUP_Vest_RUS_6B45_Sh117",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_Vest_RUS_6B45_Sh117",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_556x45_AK","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["O_UAV_01_backpack_F",[]]
                     ],
                     ["CUP_H_RUS_6B47_v2_GogglesUp_Summer",""],
@@ -389,13 +389,13 @@ _WF_UAV_OPERATOR = [
     ],
     ["GEAR 4", [
                     [
-                        ["CUP_arifle_AK109_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M"]],
+                        ["CUP_arifle_AK109_railed",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK"]],
                         ["launch_O_Vorona_green_F",["","","cup_optic_pgo7v2",""],["Vorona_HEAT","Vorona_HEAT"]],
                         ["cup_hgun_sa61",["","","",""],["cup_20rnd_b_765x17_ball_m"]]
                     ],
                     [
-                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","cup_handgrenade_rgd5","firstaidkit"]],
-                        ["CUP_Vest_RUS_6B45_Sh117",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
+                        ["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_556x45_AK","CUP_30Rnd_556x45_AK","cup_handgrenade_rgd5","firstaidkit"]],
+                        ["CUP_Vest_RUS_6B45_Sh117",["cup_handgrenade_rgd5","cup_handgrenade_rgd5","CUP_30Rnd_556x45_AK","firstaidkit","firstaidkit","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_handgrenade_rgd5","cup_20rnd_b_765x17_ball_m"]],
                         ["O_UAV_06_backpack_F",[]]
                     ],
                     ["CUP_H_RUS_ZSH_1",""],
