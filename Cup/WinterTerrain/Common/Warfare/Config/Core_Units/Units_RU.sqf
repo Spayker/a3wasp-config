@@ -130,6 +130,9 @@ _u pushBack "CUP_C_Ural_Civ_01";
 _u pushBack "CUP_C_Ural_Civ_02";
 _u pushBack "CUP_C_Ural_Open_Civ_01";
 _u pushBack "C_Truck_02_fuel_F";
+_u pushBack "CUP_O_PBX_RU";
+_u pushBack "O_Boat_Transport_01_F";
+_u pushBack "O_Boat_Armed_01_hmg_F";
 if ((missionNamespace getVariable "WF_C_UNITS_TOWN_PURCHASE") > 0) then {
 	_u pushBack (missionNamespace getVariable "WF_EASTSOLDIER");
 	_u pushBack 'CUP_O_RU_Medic_Ratnik_Summer';

@@ -231,6 +231,10 @@ _i pushBack 'CUP_30Rnd_762x39_AK103_bakelite_M';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_30Rnd_545x39_AK74M_M';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_30Rnd_556x45_AK';
 _u pushBack 0;
 _p pushBack 25;

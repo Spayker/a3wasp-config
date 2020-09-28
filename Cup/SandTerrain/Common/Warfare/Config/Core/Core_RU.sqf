@@ -189,6 +189,12 @@ _i pushBack ['','',1200,24,-2,1,1,0,'CUP - Russia',[]];
 _c pushBack 'CUP_O_PBX_RU';
 _i pushBack ['','',225,15,-2,0,1,0,'CUP - Russia',[]];
 
+_c pushBack 'O_Boat_Transport_01_F';
+_i pushBack ['','',250,15,-2,0,1,0,'CUP - Russia',[]];
+
+_c pushBack 'O_Boat_Armed_01_hmg_F';
+_i pushBack ['','',750,15,-2,0,1,0,'CUP - Russia',[]];
+
 _c pushBack 'CUP_O_UAZ_METIS_TKA';
 _i pushBack ['','',1350,24,-2,3,1,0,'CUP - Russia',[]];
 
