@@ -160,6 +160,14 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 2;
 
+_u = ["CUP_O_Kamaz_Repair_RU"];
+_u pushBack "CUP_O_Kamaz_Repair_RU";
+
+_aiTeamTemplateName pushBack "Repair Truck Team";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Light';
+_aiTeamUpgrades pushBack 2;
+
 _u = ["CUP_O_BTR90_RU"];
 _u pushBack "CUP_O_BTR90_RU";
 

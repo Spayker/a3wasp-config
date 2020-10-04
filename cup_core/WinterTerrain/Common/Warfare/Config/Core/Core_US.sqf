@@ -256,7 +256,7 @@ _c pushBack 'CUP_B_MTVR_Refuel_USMC';
 _i pushBack ['(Fuel Truck) MTVR','',600,24,-2,1,1,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_MTVR_Repair_USMC';
-_i pushBack ['(Repair Truck) MTVR','',3046,24,-2,1,1,0,'USA (Army - W)',[]];
+_i pushBack ['(Repair Truck) MTVR','',3046,24,-2,2,1,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_MTVR_USMC';
 _i pushBack ['(Salvage Truck) MTVR','',556,21,-2,0,1,0,'USA (Army - W)',[]];

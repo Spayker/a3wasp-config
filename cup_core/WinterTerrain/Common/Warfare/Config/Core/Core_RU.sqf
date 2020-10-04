@@ -262,7 +262,7 @@ _c pushBack 'CUP_O_GAZ_Vodnik_MedEvac_RU';
 _i pushBack ['GAZ-Vodnik (AMBU)','',3380,23,-2,2,1,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_Kamaz_Repair_RU' ;
-_i pushBack ['(Repair Truck) kamaz','',2880,23,-2,1,1,0,'CUP - Russia',[]];
+_i pushBack ['(Repair Truck) kamaz','',2880,23,-2,2,1,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_Kamaz_RU';
 _i pushBack ['(Salvage Truck) kamaz','',825,21,-2,0,1,0,'CUP - Russia',[]];
