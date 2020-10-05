@@ -125,7 +125,7 @@ _i pushBack['','',600,4,-1,3,0,0.85,'Russia (VDV - recon)',[]];
 _c pushBack 'CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital';
 _i pushBack ['','',240,4,-1,0,0,0.85,'CUP - Russia',[]];
 
-_c pushBack 'CUP_O_RU_Engineer_Ratnik_BeigeDigital';
+_c pushBack 'CUP_O_RU_Soldier_Engineer_Ratnik_BeigeDigital';
 _i pushBack ['','',200,5,-1,2,0,0.9,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_RU_Explosive_Specialist';
@@ -160,9 +160,6 @@ _i pushBack ['','',240,4,-1,3,0,0.85,'Russia (MVD)',[]];
 
 _c pushBack 'CUP_O_MVD_Soldier';
 _i pushBack ['','',140,4,-1,1,0,0.85,'Russia (MVD)',[]];
-
-_c pushBack 'CUP_O_MVD_Soldier_AT';
-_i pushBack ['','',140,4,-1,3,0,0.85,'Russia (MVD)',[]];
 
 //Light
 _c pushBack 'dbo_CIV_new_bike';

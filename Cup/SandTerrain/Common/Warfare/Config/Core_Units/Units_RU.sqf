@@ -3,7 +3,7 @@ Private ['_side','_tiMode','_u'];
 _side = _this;
 
 _u=      ['CUP_O_RU_Soldier_Ratnik_BeigeDigital'];
-_u pushBack  'CUP_O_RU_Engineer_Ratnik_BeigeDigital';
+_u pushBack  'CUP_O_RU_Soldier_Engineer_Ratnik_BeigeDigital';
 _u pushBack  'CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital';
 _u pushBack  'CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital';
 _u pushBack  'CUP_O_RU_Soldier_Marksman_Ratnik_BeigeDigital';
@@ -139,7 +139,7 @@ _u pushBack "O_Boat_Armed_01_hmg_F";
 if ((missionNamespace getVariable "WF_C_UNITS_TOWN_PURCHASE") > 0) then {
 	_u pushBack (missionNamespace getVariable "WF_EASTSOLDIER");
 	_u pushBack 'CUP_O_RU_Medic_Ratnik_BeigeDigital';
-	_u pushBack 'CUP_O_RU_Engineer_Ratnik_BeigeDigital';
+	_u pushBack 'CUP_O_RU_Soldier_Engineer_Ratnik_BeigeDigital';
 	_u pushBack 'CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital';
 	_u pushBack 'CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital';
 	_u pushBack 'CUP_O_RU_Soldier_AA_Ratnik_BeigeDigital';

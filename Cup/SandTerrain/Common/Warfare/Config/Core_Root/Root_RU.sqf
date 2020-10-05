@@ -7,7 +7,7 @@ missionNamespace setVariable [Format["WF_%1WHEELEDCREW", _side], 'CUP_O_RU_Soldi
 missionNamespace setVariable [Format["WF_%1TRACKEDCREW", _side], 'CUP_O_RU_Crew'];
 missionNamespace setVariable [Format["WF_%1PILOT", _side], 'CUP_O_RU_Pilot'];
 missionNamespace setVariable [Format["WF_%1SOLDIER", _side], 'CUP_O_RU_Soldier_Ratnik_BeigeDigital'];
-missionNamespace setVariable [Format["WF_%1ENGINEER", _side], 'CUP_O_RU_Engineer_Ratnik_BeigeDigital'];
+missionNamespace setVariable [Format["WF_%1ENGINEER", _side], 'CUP_O_RU_Soldier_Engineer_Ratnik_BeigeDigital'];
 
 //--- Flag texture.
 missionNamespace setVariable [Format["WF_%1FLAG", _side], 'RSC\Pictures\flag_rus_co.paa'];
