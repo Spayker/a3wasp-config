@@ -12,7 +12,7 @@ _WF_SNIPER = [
                     ],
                     [
                         ["U_B_GhillieSuit",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["V_TacVest_khk",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_30Rnd_556x45_Stanag","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["V_TacVest_khk",["CUP_30Rnd_556x45_Stanag","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_MAAWS_HEAT_M","CUP_MAAWS_HEAT_M"]]
                     ],
                     ["h_milcap_gry",""],
@@ -28,7 +28,7 @@ _WF_SNIPER = [
                     ],
                     [
                         ["U_B_GhillieSuit",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["CUP_V_B_USArmy_PilotVest",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_30Rnd_556x45_Stanag","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["CUP_V_B_USArmy_PilotVest",["CUP_30Rnd_556x45_Stanag","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_MAAWS_HEAT_M","CUP_MAAWS_HEAT_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -44,7 +44,7 @@ _WF_SNIPER = [
                     ],
                     [
                         ["U_B_GhillieSuit",["CUP_5Rnd_127x99_as50_M","CUP_5Rnd_127x99_as50_M","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["CUP_V_B_IOTV_saw",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_5Rnd_127x99_as50_M","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["CUP_V_B_IOTV_saw",["CUP_5Rnd_127x99_as50_M","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_SMAW_HEAA_M","CUP_SMAW_HEAA_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -60,7 +60,7 @@ _WF_SNIPER = [
                     ],
                     [
                         ["U_B_GhillieSuit",["CUP_10Rnd_127x99_M107","CUP_10Rnd_127x99_M107","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["V_PlateCarrierSpec_mtp",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_10Rnd_127x99_M107","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["V_PlateCarrierSpec_mtp",["CUP_10Rnd_127x99_M107","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_SMAW_HEAA_M", "CUP_SMAW_HEAA_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -79,7 +79,7 @@ _WF_SOLDIER = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_30Rnd_556x45_XM8","CUP_30Rnd_556x45_XM8","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["V_TacVest_khk",["CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_30Rnd_556x45_XM8","firstaidkit","firstaidkit","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["V_TacVest_khk",["CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_30Rnd_556x45_XM8","firstaidkit","firstaidkit","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_MAAWS_HEAT_M","CUP_MAAWS_HEAT_M"]]
                     ],
                     ["h_milcap_gry",""],
@@ -95,7 +95,7 @@ _WF_SOLDIER = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["CUP_V_B_USArmy_PilotVest",["CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_30Rnd_556x45_Stanag","firstaidkit","firstaidkit","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["CUP_V_B_USArmy_PilotVest",["CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_30Rnd_556x45_Stanag","firstaidkit","firstaidkit","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_MAAWS_HEAT_M","CUP_MAAWS_HEAT_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -111,7 +111,7 @@ _WF_SOLDIER = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["CUP_V_B_IOTV_saw",["CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["CUP_V_B_IOTV_saw",["CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_SMAW_HEAA_M","CUP_SMAW_HEAA_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -127,7 +127,7 @@ _WF_SOLDIER = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["V_PlateCarrierSpec_mtp",["CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["V_PlateCarrierSpec_mtp",["CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_SMAW_HEAA_M", "CUP_SMAW_HEAA_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -146,7 +146,7 @@ _WF_ENGINEER = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_8Rnd_12Gauge_Pellets_No00_Buck","CUP_8Rnd_12Gauge_Pellets_No00_Buck","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["V_TacVest_khk",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_8Rnd_12Gauge_Pellets_No00_Buck","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["V_TacVest_khk",["CUP_8Rnd_12Gauge_Pellets_No00_Buck","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_MAAWS_HEAT_M","CUP_MAAWS_HEAT_M"]]
                     ],
                     ["h_milcap_gry",""],
@@ -162,7 +162,7 @@ _WF_ENGINEER = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["CUP_V_B_USArmy_PilotVest",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["CUP_V_B_USArmy_PilotVest",["CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_MAAWS_HEAT_M","CUP_MAAWS_HEAT_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -178,7 +178,7 @@ _WF_ENGINEER = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_20Rnd_B_AA12_Pellets","CUP_20Rnd_B_AA12_Pellets","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["CUP_V_B_IOTV_saw",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_20Rnd_B_AA12_Pellets","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["CUP_V_B_IOTV_saw",["CUP_20Rnd_B_AA12_Pellets","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_SMAW_HEAA_M","CUP_SMAW_HEAA_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -194,7 +194,7 @@ _WF_ENGINEER = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_20Rnd_B_AA12_Pellets","CUP_20Rnd_B_AA12_Pellets","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["V_PlateCarrierSpec_mtp",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_20Rnd_B_AA12_Pellets","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["V_PlateCarrierSpec_mtp",["CUP_20Rnd_B_AA12_Pellets","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_SMAW_HEAA_M", "CUP_SMAW_HEAA_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -213,7 +213,7 @@ _WF_SPECOPS = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_30Rnd_9x19_MP5","CUP_30Rnd_9x19_MP5","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["V_TacVest_khk",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_30Rnd_9x19_MP5","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["V_TacVest_khk",["CUP_30Rnd_9x19_MP5","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_MAAWS_HEAT_M","CUP_MAAWS_HEAT_M"]]
                     ],
                     ["h_milcap_gry",""],
@@ -229,7 +229,7 @@ _WF_SPECOPS = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_30Rnd_545x39_Fort224_M","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["CUP_V_B_USArmy_PilotVest",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_30Rnd_545x39_Fort224_M","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["CUP_V_B_USArmy_PilotVest",["CUP_30Rnd_545x39_Fort224_M","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_MAAWS_HEAT_M","CUP_MAAWS_HEAT_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -245,7 +245,7 @@ _WF_SPECOPS = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["50Rnd_570x28_SMG_03","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["CUP_V_B_IOTV_saw",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","50Rnd_570x28_SMG_03","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["CUP_V_B_IOTV_saw",["50Rnd_570x28_SMG_03","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_SMAW_HEAA_M","CUP_SMAW_HEAA_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -261,7 +261,7 @@ _WF_SPECOPS = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["50Rnd_570x28_SMG_03","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["V_PlateCarrierSpec_mtp",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","50Rnd_570x28_SMG_03","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["V_PlateCarrierSpec_mtp",["50Rnd_570x28_SMG_03","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_SMAW_HEAA_M", "CUP_SMAW_HEAA_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -280,7 +280,7 @@ _WF_ARTY_OPERATOR = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_30Rnd_556x45_XM8","CUP_30Rnd_556x45_XM8","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["V_TacVest_khk",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_30Rnd_556x45_XM8","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["V_TacVest_khk",["CUP_30Rnd_556x45_XM8","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_MAAWS_HEAT_M","CUP_MAAWS_HEAT_M"]]
                     ],
                     ["h_milcap_gry",""],
@@ -296,7 +296,7 @@ _WF_ARTY_OPERATOR = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["CUP_V_B_USArmy_PilotVest",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["CUP_V_B_USArmy_PilotVest",["CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_MAAWS_HEAT_M","CUP_MAAWS_HEAT_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -312,7 +312,7 @@ _WF_ARTY_OPERATOR = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["CUP_V_B_IOTV_saw",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["CUP_V_B_IOTV_saw",["CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_SMAW_HEAA_M","CUP_SMAW_HEAA_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -328,7 +328,7 @@ _WF_ARTY_OPERATOR = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["V_PlateCarrierSpec_mtp",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["V_PlateCarrierSpec_mtp",["CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_ViperHarness_oli_F",["CUP_SMAW_HEAA_M", "CUP_SMAW_HEAA_M"]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -347,7 +347,7 @@ _WF_UAV_OPERATOR = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_30Rnd_556x45_XM8","CUP_30Rnd_556x45_XM8","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["V_TacVest_khk",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_30Rnd_556x45_XM8","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["V_TacVest_khk",["CUP_30Rnd_556x45_XM8","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_UGV_02_Demining_backpack_F",[]]
                     ],
                     ["h_milcap_gry",""],
@@ -363,7 +363,7 @@ _WF_UAV_OPERATOR = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["CUP_V_B_USArmy_PilotVest",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["CUP_V_B_USArmy_PilotVest",["CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_UGV_02_Demining_backpack_F",[]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -379,7 +379,7 @@ _WF_UAV_OPERATOR = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["CUP_V_B_IOTV_saw",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["CUP_V_B_IOTV_saw",["CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_UAV_01_backpack_F",[]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
@@ -395,7 +395,7 @@ _WF_UAV_OPERATOR = [
                     ],
                     [
                         ["CUP_U_B_USArmy_Base",["CUP_20Rnd_762x51_B_SCAR_bkl","CUP_20Rnd_762x51_B_SCAR_bkl","CUP_HandGrenade_M67","firstaidkit"]],
-                        ["V_PlateCarrierSpec_mtp",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
+                        ["V_PlateCarrierSpec_mtp",["CUP_20Rnd_762x51_B_SCAR_bkl","firstaidkit","firstaidkit","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17"]],
                         ["B_UAV_06_backpack_F",[]]
                     ],
                     ["CUP_H_USArmy_Helmet_ECH2_Sand",""],
