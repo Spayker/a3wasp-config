@@ -98,7 +98,7 @@ _i pushBack ['','',180,6,-1,1,0,0.95,'CUP - Russia',[]];
 _c pushBack 'CUP_O_RU_Sniper_KSVK';
 _i pushBack ['','',380,6,-1,3,0,0.95,'CUP - Russia',[]];
 
-_c pushBack 'CUP_O_RU_Medic_Ratnik_BeigeDigital';
+_c pushBack 'CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital';
 _i pushBack ['','',160,5,-1,0,0,0.9,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital';

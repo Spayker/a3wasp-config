@@ -7,7 +7,7 @@ _u pushBack  'CUP_O_RU_Soldier_Engineer_Ratnik_Summer';
 _u pushBack  'CUP_O_RU_Soldier_AT_Ratnik_Summer';
 _u pushBack  'CUP_O_RU_Soldier_MG_Ratnik_Summer';
 _u pushBack  'CUP_O_RU_Soldier_Marksman_Ratnik_Summer';
-_u pushBack  'CUP_O_RU_Medic_Ratnik_Summer';
+_u pushBack  'CUP_O_RU_Soldier_Medic_Ratnik_Summer';
 _u pushBack  'CUP_O_RU_Soldier_AR_Ratnik_Summer';
 _u pushBack  'CUP_O_RU_Officer_M_EMR';
 _u pushBack  'CUP_O_RU_Soldier_SL_Ratnik_Summer';
@@ -135,7 +135,7 @@ _u pushBack "O_Boat_Transport_01_F";
 _u pushBack "O_Boat_Armed_01_hmg_F";
 if ((missionNamespace getVariable "WF_C_UNITS_TOWN_PURCHASE") > 0) then {
 	_u pushBack (missionNamespace getVariable "WF_EASTSOLDIER");
-	_u pushBack 'CUP_O_RU_Medic_Ratnik_Summer';
+	_u pushBack 'CUP_O_RU_Soldier_Medic_Ratnik_Summer';
 	_u pushBack 'CUP_O_RU_Soldier_Engineer_Ratnik_Summer';
 	_u pushBack 'CUP_O_RU_Soldier_LAT_Ratnik_Summer';
 	_u pushBack 'CUP_O_RU_Soldier_AR_Ratnik_Summer';

@@ -15,7 +15,7 @@ _u pushBack "CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Squad_1";
@@ -24,7 +24,7 @@ _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_SL_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_SL_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Squad_2";
@@ -33,7 +33,7 @@ _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Squad_3";
@@ -42,7 +42,7 @@ _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Squad_4";
@@ -51,7 +51,7 @@ _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Squad_Advanced";
@@ -68,7 +68,7 @@ _u pushBack "CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Team_1";
@@ -77,7 +77,7 @@ _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Team_2";
@@ -85,7 +85,7 @@ _u 		= ["CUP_O_RU_Soldier_SL_Ratnik_BeigeDigital"];
 _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_Marksman_Ratnik_BeigeDigital";
 _l pushBack _u;
 
@@ -124,7 +124,7 @@ _u		= ["CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital"];
 _u pushBack "CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Team_MG_1";
@@ -132,7 +132,7 @@ _u		= ["CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital"];
 _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Team_MG_2";
@@ -140,7 +140,7 @@ _u		= ["CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital"];
 _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Team_MG_3";
@@ -148,7 +148,7 @@ _u		= ["CUP_O_RU_Soldier_AR_VDV_M_EMR"];
 _u pushBack "CUP_O_RU_Soldier_AR_VDV_M_EMR";
 _u pushBack "CUP_O_RU_Soldier_AR_VDV_M_EMR";
 _u pushBack "CUP_O_RU_Soldier_AR_VDV_M_EMR";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Team_AT_0";
@@ -156,7 +156,7 @@ _u		= ["CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital"];
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Team_AT_1";
@@ -164,7 +164,7 @@ _u		= ["CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital"];
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Team_AT_2";
@@ -172,7 +172,7 @@ _u		= ["CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital"];
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Team_AT_3";
@@ -181,7 +181,7 @@ _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_HAT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_HAT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_HAT_Ratnik_BeigeDigital";
-_u pushBack "CUP_O_RU_Medic_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Team_AA";
