@@ -919,6 +919,14 @@ _i pushBack 'CUP_muzzle_PBS4';
 _u pushBack 1;
 _p pushBack 300;
 
+_i pushBack 'CUP_muzzle_snds_KZRZP_PK';
+_u pushBack 3;
+_p pushBack 300;
+
+_i pushBack 'CUP_muzzle_snds_KZRZP_AK545_woodland';
+_u pushBack 3;
+_p pushBack 300;
+
 _i pushBack 'CUP_U_O_RUS_Ghillie';
 _u pushBack 1;
 _p pushBack 200;
