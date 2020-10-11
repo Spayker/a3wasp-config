@@ -56,6 +56,14 @@ _i pushBack  "CUP_arifle_AKMN_railed_desert";
 _u pushBack  1;
 _p pushBack  400;
 
+_i pushBack  "CUP_arifle_AKM_GL_Early";
+_u pushBack  1;
+_p pushBack  350;
+
+_i pushBack  "CUP_arifle_AKM_GL_top_rail";
+_u pushBack  1;
+_p pushBack  450;
+
 _i pushBack  "CUP_arifle_OTS14_GROZA_GL";
 _u pushBack  2;
 _p pushBack  350;

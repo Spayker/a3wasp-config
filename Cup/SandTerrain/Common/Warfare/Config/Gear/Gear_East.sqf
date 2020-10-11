@@ -211,6 +211,10 @@ _i pushBack 'CUP_30Rnd_762x39_AK47_M';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_30Rnd_762x39_AK47_bakelite_M';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_30Rnd_545x39_AK_M';
 _u pushBack 0;
 _p pushBack 25;
@@ -963,6 +967,10 @@ _i pushBack 'CUP_optic_TrijiconRx01_desert';
 _u pushBack 1;
 _p pushBack 50;
 
+_i pushBack 'CUP_optic_Aimpoint_5000';
+_u pushBack 2;
+_p pushBack 150;
+
 _i pushBack 'CUP_bipod_VLTOR_Modpod';
 _u pushBack 1;
 _p pushBack 50;
@@ -974,6 +982,14 @@ _p pushBack 300;
 _i pushBack 'CUP_muzzle_Bizon';
 _u pushBack 1;
 _p pushBack 300;
+
+_i pushBack 'CUP_muzzle_snds_KZRZP_AK762';
+_u pushBack 2;
+_p pushBack 400;
+
+_i pushBack 'CUP_muzzle_mfsup_Flashhider_762x39_Black';
+_u pushBack 1;
+_p pushBack 150;
 
 _i pushBack 'CUP_muzzle_PBS4';
 _u pushBack 1;
