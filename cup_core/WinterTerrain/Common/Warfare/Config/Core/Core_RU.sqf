@@ -280,6 +280,9 @@ _c pushBack 'CUP_C_SUV_TK';
 _i pushBack ['','',855,21,-2,1,1,0,'CUP - Russia',[]];
 
 //Heavy
+_c pushBack 'CUP_O_MTLB_pk_WDL_RU';
+_i pushBack ['','',1000,23,-2,0,2,0,'CUP - Russia',[]];
+
 _c pushBack 'CUP_O_BMP1P_CSAT';
 _i pushBack ['','',2600,23,-2,0,2,0,'CUP - Russia',[]];
 
