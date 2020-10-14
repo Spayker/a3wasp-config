@@ -28,6 +28,10 @@ _i pushBack 'CUP_hgun_TT';
 _u pushBack 1;
 _p pushBack 300;
 
+_i pushBack 'CUP_hgun_PMM';
+_u pushBack 0;
+_p pushBack 275;
+
 _i pushBack 'CUP_hgun_PB6P9';
 _u pushBack 0;
 _p pushBack 275;

@@ -32,6 +32,10 @@ _i pushBack 'CUP_hgun_PB6P9';
 _u pushBack 0;
 _p pushBack 275;
 
+_i pushBack 'CUP_hgun_PMM';
+_u pushBack 0;
+_p pushBack 275;
+
 _i pushBack 'CUP_hgun_Compact';
 _u pushBack 1;
 _p pushBack 300;
