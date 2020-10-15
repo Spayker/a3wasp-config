@@ -26,6 +26,9 @@ _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
 _c pushBack 'O_crew_F';
 _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
 
+_c pushBack 'O_T_crew_F';
+_i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
+
 _c pushBack 'CUP_O_RU_Crew_VDV_EMR';
 _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
 
@@ -283,11 +286,11 @@ _i pushBack ['','',855,21,-2,1,1,0,'CUP - Russia',[]];
 _c pushBack 'CUP_O_MTLB_pk_WDL_RU';
 _i pushBack ['','',1000,23,-2,0,2,0,'CUP - Russia',[]];
 
-_c pushBack 'CUP_O_BMP1P_CSAT';
+_c pushBack 'CUP_O_BMP1P_CSAT_T';
 _i pushBack ['','',2600,23,-2,0,2,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_BMP1_CSAT';
-_i pushBack ['','',2400,23,-2,0,2,0,'CUP - Russia',[]];
+_i pushBack ['','',2400,23,-2,0,2,0,'CUP - Russia',[], 1];
 
 _c pushBack 'CUP_O_BMP2_RU' ;
 _i pushBack ['','',3000,23,-2,1,2,0,'CUP - Russia',[]];

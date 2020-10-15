@@ -264,7 +264,7 @@ _u pushBack "CUP_O_BMP1_CSAT";
 _l pushBack _u;
 
 _k pushBack "Mechanized_1";
-_u		= ["CUP_O_BMP1P_CSAT"];
+_u		= ["CUP_O_BMP1P_CSAT_T"];
 _u pushBack "CUP_O_BMP2_RU";
 _l pushBack _u;
 
