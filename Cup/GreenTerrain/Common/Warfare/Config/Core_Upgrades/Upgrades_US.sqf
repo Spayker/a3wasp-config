@@ -103,7 +103,7 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_LINKS", _side], [
 		[[WF_UP_HEAVY,3],[WF_UP_GEAR,4]]
 	], //--- Tanks Ammo
 	[[],[],[],[]], //--- High Command group quantity
-	[] //--Remote control--
+	[[]] //--Remote control--
 ]];
 
 missionNamespace setVariable [Format["WF_C_UPGRADES_%1_TIMES", _side], [
