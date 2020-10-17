@@ -99,6 +99,10 @@ _i pushBack 'CUP_arifle_G36C';
 _u pushBack 0;
 _p pushBack 400;
 
+_i pushBack 'CUP_arifle_G36K_KSK_VFG_hex';
+_u pushBack 0;
+_p pushBack 400;
+
 _i pushBack 'CUP_arifle_G36C_camo';
 _u pushBack 0;
 _p pushBack 400;
@@ -176,6 +180,10 @@ _u pushBack 1;
 _p pushBack 500;
 
 _i pushBack 'CUP_launch_M136';
+_u pushBack 0;
+_p pushBack 650;
+
+_i pushBack 'CUP_launch_BF3';
 _u pushBack 0;
 _p pushBack 650;
 
@@ -260,6 +268,10 @@ _u pushBack 0;
 _p pushBack 15;
 
 _i pushBack 'CUP_30Rnd_556x45_Stanag_Mk16';
+_u pushBack 0;
+_p pushBack 30;
+
+_i pushBack 'CUP_30Rnd_556x45_PMAG_QP_Tan';
 _u pushBack 0;
 _p pushBack 30;
 
@@ -364,6 +376,14 @@ _i pushBack 'V_PlateCarrierL_CTRG';
 _u pushBack 3;
 _p pushBack 150;
 
+_i pushBack 'CUP_V_B_GER_PVest_Trop_TL';
+_u pushBack 3;
+_p pushBack 200;
+
+_i pushBack 'CUP_V_B_GER_PVest_Trop_TL_LT';
+_u pushBack 3;
+_p pushBack 200;
+
 _i pushBack 'V_PlateCarrier1_blk';
 _u pushBack 3;
 _p pushBack 150;
@@ -390,6 +410,10 @@ _p pushBack 300;
 
 //--Uniform--
 _i pushBack 'U_B_CombatUniform_mcam';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_B_GER_Tropentarn_1';
 _u pushBack 0;
 _p pushBack 25;
 
@@ -439,6 +463,18 @@ _u pushBack 2;
 _p pushBack 120;
 
 _i pushBack 'CUP_H_USArmy_Helmet_ECH2_Sand';
+_u pushBack 2;
+_p pushBack 120;
+
+_i pushBack 'CUP_H_Ger_M92_Cover_Trop_GG_CB';
+_u pushBack 2;
+_p pushBack 120;
+
+_i pushBack 'CUP_H_OpsCore_Tan_SF';
+_u pushBack 2;
+_p pushBack 120;
+
+_i pushBack 'CUP_H_Ger_M92_Cover_Trop_GG';
 _u pushBack 2;
 _p pushBack 120;
 
@@ -510,6 +546,10 @@ _i pushBack 'CUP_FR_NeckScarf';
 _u pushBack 0;
 _p pushBack 5;
 
+_i pushBack 'CUP_G_ESS_BLK_Scarf_Face_White';
+_u pushBack 0;
+_p pushBack 5;
+
 _i pushBack 'CUP_FR_NeckScarf2';
 _u pushBack 0;
 _p pushBack 5;
@@ -559,6 +599,10 @@ _u pushBack 0;
 _p pushBack 5;
 
 _i pushBack 'H_ShemagOpen_tan';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_G_PMC_Facewrap_Black_Glasses_Ember';
 _u pushBack 0;
 _p pushBack 5;
 
@@ -615,6 +659,14 @@ _u pushBack 0;
 _p pushBack 50;
 
 _i pushBack 'optic_Aco';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_acc_LLM01_coyote_F';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_optic_G33_HWS_TAN';
 _u pushBack 0;
 _p pushBack 50;
 
@@ -1055,6 +1107,10 @@ _u pushBack 1;
 _p pushBack 300;
 
 _i pushBack 'CUP_muzzle_snds_M16_camo';
+_u pushBack 1;
+_p pushBack 300;
+
+_i pushBack 'CUP_muzzle_snds_M16_coyote';
 _u pushBack 1;
 _p pushBack 300;
 

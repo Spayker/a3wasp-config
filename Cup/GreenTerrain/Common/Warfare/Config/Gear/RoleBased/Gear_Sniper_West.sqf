@@ -84,6 +84,10 @@ _i pushBack  "U_B_FullGhillie_ard";
 _u pushBack  2;
 _p pushBack  200;
 
+_i pushBack  "CUP_U_B_GER_Fleck_Ghillie";
+_u pushBack  2;
+_p pushBack  200;
+
 _i pushBack  "U_B_GhillieSuit";
 _u pushBack  1;
 _p pushBack  200;
