@@ -365,6 +365,9 @@ _i pushBack ['','',13500,46,-2,0,3,0,'USA Army',[]];
 _c pushBack 'CUP_B_C47_USA';
 _i pushBack ['','',15500,46,-2,1,3,0,'USA Army',[]];
 
+_c pushBack 'CUP_B_AC47_Spooky_USA';
+_i pushBack ['','',20500,46,-2,1,3,0,'USA Army',[]];
+
 _c pushBack 'CUP_B_UH60M_Unarmed_FFV_MEV_US';
 _i pushBack ['(AMBU) UH-60M MEV (ESSS)','',19000,34,-2,2,3,0,'USA (Army - W)',[],2];
 

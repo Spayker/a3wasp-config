@@ -126,6 +126,7 @@ _u pushBack 'CUP_B_C130J_Cargo_USMC';
 _u pushBack 'CUP_B_F35B_USMC';
 _u pushBack 'CUP_B_MV22_USMC';
 _u pushBack 'CUP_B_C47_USA';
+_u pushBack 'CUP_B_AC47_Spooky_USA';
 
 missionNamespace setVariable [Format ["WF_%1AIRCRAFTUNITS", _side], _u];
 if (local player) then {['AIRCRAFT', _side, _u] Call WFCL_fnc_initFaction};
@@ -140,6 +141,7 @@ _u pushBack 'CUP_B_C130J_Cargo_USMC';
 _u pushBack 'CUP_B_F35B_USMC';
 _u pushBack 'CUP_B_MV22_USMC';
 _u pushBack 'CUP_B_C47_USA';
+_u pushBack 'CUP_B_AC47_Spooky_USA';
 
 missionNamespace setVariable [Format ["WF_%1AIRPORTUNITS", _side], _u];
 if (local player) then {['AIRPORT', _side, _u] Call WFCL_fnc_initFaction};
