@@ -40,7 +40,7 @@ _i pushBack 'CUP_srifle_M24_wdl';
 _u pushBack 1;
 _p pushBack 500;
 
-_i pushBack 'CUP_arifle_HK417_20_Wood';
+_i pushBack 'CUP_arifle_HK417_20_Desert';
 _u pushBack 1;
 _p pushBack 700;
 

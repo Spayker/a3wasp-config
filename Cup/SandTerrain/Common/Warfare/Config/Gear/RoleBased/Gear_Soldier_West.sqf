@@ -56,7 +56,15 @@ _i pushBack 'CUP_arifle_Mk17_STD_EGLM_black';
 _u pushBack 3;
 _p pushBack 600;
 
+_i pushBack 'CUP_arifle_HK417_12_AG36_Desert';
+_u pushBack 3;
+_p pushBack 600;
+
 _i pushBack 'CUP_arifle_M4A1_GL_carryhandle';
+_u pushBack 2;
+_p pushBack 200;
+
+_i pushBack 'CUP_arifle_G36A3_AG36_camo';
 _u pushBack 2;
 _p pushBack 200;
 

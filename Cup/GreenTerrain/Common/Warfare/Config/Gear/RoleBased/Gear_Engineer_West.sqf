@@ -12,6 +12,10 @@ _i pushBack  "CUP_lmg_minimi_railed";
 _u pushBack  0;
 _p pushBack  250;
 
+_i pushBack  "CUP_lmg_M60";
+_u pushBack  0;
+_p pushBack  250;
+
 _i pushBack 'CUP_lmg_M240';
 _u pushBack 2;
 _p pushBack 600;

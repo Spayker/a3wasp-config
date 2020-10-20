@@ -187,6 +187,10 @@ _i pushBack 'CUP_launch_BF3';
 _u pushBack 0;
 _p pushBack 650;
 
+_i pushBack 'CUP_launch_HCPF3';
+_u pushBack 0;
+_p pushBack 650;
+
 _i pushBack 'CUP_launch_MAAWS';
 _u pushBack 1;
 _p pushBack 500;
@@ -311,6 +315,10 @@ _i pushBack 'CUP_30Rnd_556x45_G36';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_30Rnd_556x45_G36_camo';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_30Rnd_TE1_Red_Tracer_556x45_G36';
 _u pushBack 0;
 _p pushBack 25;
@@ -409,11 +417,19 @@ _u pushBack 4;
 _p pushBack 300;
 
 //--Uniform--
-_i pushBack 'U_B_CombatUniform_mcam';
+_i pushBack 'CUP_U_CRYE_G3C_MC_US';
 _u pushBack 0;
 _p pushBack 25;
 
 _i pushBack 'CUP_U_B_GER_Tropentarn_1';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_B_GER_Tropentarn_2';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_B_GER_Overalls_Tank';
 _u pushBack 0;
 _p pushBack 25;
 

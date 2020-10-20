@@ -317,11 +317,19 @@ _i pushBack 'CUP_U_O_RUS_EMR_1';
 _u pushBack 10;
 _p pushBack 25;
 
+_i pushBack 'CUP_U_CRYE_MCAM_RUS_Full';
+_u pushBack 10;
+_p pushBack 25;
+
 _i pushBack 'CUP_U_O_RUS_BeigeDigital_VDV';
 _u pushBack 0;
 _p pushBack 25;
 
 _i pushBack 'CUP_U_O_RUS_Ratnik_BeigeDigital';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_CRYE_ATACSAU_Roll';
 _u pushBack 0;
 _p pushBack 25;
 
@@ -412,6 +420,10 @@ _u pushBack 1;
 _p pushBack 80;
 
 _i pushBack 'CUP_H_RUS_6B46';
+_u pushBack 2;
+_p pushBack 120;
+
+_i pushBack 'CUP_H_RUS_6B47_SF_headset_goggles_desert';
 _u pushBack 2;
 _p pushBack 120;
 

@@ -191,6 +191,10 @@ _i pushBack 'CUP_launch_BF3';
 _u pushBack 0;
 _p pushBack 650;
 
+_i pushBack 'CUP_launch_HCPF3';
+_u pushBack 0;
+_p pushBack 650;
+
 _i pushBack 'CUP_launch_M72A6';
 _u pushBack 1;
 _p pushBack 450;
@@ -311,6 +315,10 @@ _i pushBack 'CUP_30Rnd_556x45_G36';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_30Rnd_556x45_G36_wdl';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_30Rnd_TE1_Red_Tracer_556x45_G36';
 _u pushBack 0;
 _p pushBack 25;
@@ -328,6 +336,10 @@ _i pushBack 'CUP_U_B_USMC_FROG4_WMARPAT';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_U_CRYE_G3C_RGR';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_U_B_GER_Flecktarn_2';
 _u pushBack 0;
 _p pushBack 25;
@@ -340,7 +352,7 @@ _i pushBack 'CUP_U_B_GER_Fleck_Crye2';
 _u pushBack 0;
 _p pushBack 25;
 
-_i pushBack 'U_B_CombatUniform_mcam';
+_i pushBack 'CUP_U_CRYE_G3C_MC_US';
 _u pushBack 0;
 _p pushBack 25;
 
@@ -386,6 +398,10 @@ _u pushBack 1;
 _p pushBack 100;
 
 _i pushBack 'CUP_V_B_GER_PVest_Fleck_RFL_LT';
+_u pushBack 3;
+_p pushBack 200;
+
+_i pushBack 'CUP_V_CPC_tlbelt_rngr';
 _u pushBack 3;
 _p pushBack 200;
 
@@ -579,6 +595,10 @@ _u pushBack 0;
 _p pushBack 5;
 
 _i pushBack 'H_Cap_headphones';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'H_HelmetB_grass';
 _u pushBack 0;
 _p pushBack 5;
 

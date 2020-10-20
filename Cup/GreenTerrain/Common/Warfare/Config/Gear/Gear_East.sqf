@@ -321,6 +321,10 @@ _i pushBack 'CUP_U_O_RUS_EMR_1';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_U_CRYE_ATACSFG_Full';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_U_O_RUS_EMR_2';
 _u pushBack 0;
 _p pushBack 25;

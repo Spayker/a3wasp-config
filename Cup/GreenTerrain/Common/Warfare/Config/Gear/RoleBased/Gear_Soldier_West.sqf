@@ -64,5 +64,8 @@ _i pushBack 'CUP_arifle_M4A1_GL_carryhandle';
 _u pushBack 2;
 _p pushBack 200;
 
+_i pushBack 'CUP_arifle_G36A3_AG36_wdl';
+_u pushBack 2;
+_p pushBack 200;
 
 [_faction, _i, _u, _p, WF_SOLDIER] call compile preprocessFileLineNumbers "Common\Warfare\Config\Gear\Gear_Role_Config_Set.sqf";
