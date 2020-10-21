@@ -280,6 +280,9 @@ _i pushBack ['','',855,21,-2,1,1,0,'CUP - Russia',[]];
 _c pushBack 'CUP_O_MTLB_pk_TKA';
 _i pushBack ['','',1000,23,-2,0,2,0,'CUP - Russia',[]];
 
+_c pushBack 'CUP_O_BMP_HQ_TKA';
+_i pushBack ['BMP-2 (AMBU)','',3880,23,-2,0,2,0,'CUP - Russia',[]];
+
 _c pushBack 'CUP_O_BMP1P_TKA';
 _i pushBack ['','',2600,23,-2,0,2,0,'CUP - Russia',[]];
 

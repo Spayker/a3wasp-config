@@ -10,6 +10,7 @@ EAST_StartVeh pushBack 'CUP_O_BTR60_RU';
  EAST_StartVeh pushBack 'CUP_O_BTR80_GREEN_RU';
 EAST_StartVeh pushBack 'CUP_O_BTR80A_CAMO_RU';
  
+ 
 WEST_StartVeh = ['CUP_B_M113_USA'];
 WEST_StartVeh pushBack 'CUP_B_HMMWV_M2_USMC';
 WEST_StartVeh pushBack 'CUP_B_HMMWV_MK19_USMC';

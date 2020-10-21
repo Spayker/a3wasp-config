@@ -78,6 +78,7 @@ missionNamespace setVariable [Format ["WF_%1LIGHTUNITS", _side], _u];
 if (local player) then {['LIGHT', _side, _u] Call WFCL_fnc_initFaction};
 
 _u =      ['CUP_O_MTLB_pk_TKA'];
+_u  pushBack  'CUP_O_BMP_HQ_TKA';
 _u  pushBack  'CUP_O_BMP1_TKA';
 _u  pushBack  'CUP_O_BMP1P_TKA';
 _u  pushBack  'CUP_O_BMP2_TKA';

@@ -319,9 +319,6 @@ _i pushBack ['','',3000,24,-2,1,2,0,'USA (Army - W)',[]];
 _c pushBack 'CUP_B_MCV80_GB_D_SLAT';
 _i pushBack ['','',3200,24,-2,1,2,0,'USA (Army - W)',[]];
 
-_c pushBack 'CUP_B_FV432_GB_Ambulance';
-_i pushBack ['FV432 (AMBU)','',3880,24,-2,0,2,0,'British Forces (Woodland)',[]];
-
 _c pushBack 'CUP_B_FV510_GB_D';
 _i pushBack ['','',3500,24,-2,2,2,0,'USA (Army - W)',[]];
 
@@ -344,7 +341,7 @@ _c pushBack 'CUP_B_M1A1_DES_US_Army';
 _i pushBack ['','',8600,26,-2,3,2,0,'USA Army',[]];
 
 _c pushBack 'CUP_B_Leopard2A6DST_GER';
-_i pushBack ['','',10500,35,-2,4,2,0,'USA (Army - W)',[]];
+_i pushBack ['','',10500,27,-2,4,2,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_M1A2_TUSK_MG_DES_US_Army';
 _i pushBack ['','',12500,45,-2,4,2,0,'USA (Army - W)',[]];
