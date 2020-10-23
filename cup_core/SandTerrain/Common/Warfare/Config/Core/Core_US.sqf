@@ -368,6 +368,9 @@ _i pushBack ['','',13500,46,-2,0,3,0,'USA Army',[]];
 _c pushBack 'CUP_B_C47_USA';
 _i pushBack ['','',15500,46,-2,1,3,0,'USA Army',[]];
 
+_c pushBack 'CUP_B_CH47F_USA';
+_i pushBack ['','',14500,46,-2,1,3,0,'USA Army',[]];
+
 _c pushBack 'CUP_B_AC47_Spooky_USA';
 _i pushBack ['','',20500,46,-2,1,3,0,'USA Army',[]];
 

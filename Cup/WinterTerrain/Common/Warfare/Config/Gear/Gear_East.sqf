@@ -935,9 +935,17 @@ _i pushBack 'CUP_muzzle_snds_KZRZP_AK762';
 _u pushBack 2;
 _p pushBack 400;
 
+_i pushBack 'CUP_muzzle_snds_KZRZP_SVD';
+_u pushBack 2;
+_p pushBack 400;
+
 _i pushBack 'CUP_muzzle_mfsup_Flashhider_762x39_Black';
 _u pushBack 1;
 _p pushBack 150;
+
+_i pushBack 'CUP_muzzle_snds_AWM';
+_u pushBack 1;
+_p pushBack 300;
 
 _i pushBack 'CUP_muzzle_PBS4';
 _u pushBack 1;
@@ -1234,6 +1242,10 @@ _p pushBack 300;
 _i pushBack 'CUP_5Rnd_127x108_KSVK_M';
 _u pushBack 4;
 _p pushBack 50;
+
+_i pushBack 'CUP_5Rnd_86x70_L115A1';
+_u pushBack 3;
+_p pushBack 30;
 
 _i pushBack 'CUP_IED_V1_M';
 _u pushBack 3;

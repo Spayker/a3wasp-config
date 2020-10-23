@@ -8,9 +8,9 @@ _u = [];
 _p = [];
 
 // East sniper special gear list
-_i pushBack 'CUP_srifle_VSSVintorez';
-_u pushBack 3;
-_p pushBack 550;
+_i pushBack "CUP_srifle_CZ750";
+_u pushBack 0;
+_p pushBack 500;
 
 _i pushBack 'CUP_srifle_SVD';
 _u pushBack 1;
@@ -20,9 +20,9 @@ _i pushBack 'CUP_srifle_SVD_wdl';
 _u pushBack 2;
 _p pushBack 600;
 
-_i pushBack 'CUP_srifle_SVD_des';
-_u pushBack 2;
-_p pushBack 500;
+_i pushBack 'CUP_srifle_SVD_wdl_top_rail';
+_u pushBack 3;
+_p pushBack 700;
 
 _i pushBack 'CUP_srifle_CZ550';
 _u pushBack 0;
@@ -32,13 +32,18 @@ _i pushBack 'CUP_srifle_CZ550_rail';
 _u pushBack 0;
 _p pushBack 450;
 
+_i pushBack 'CUP_srifle_AWM_wdl';
+_u pushBack 3;
+_p pushBack 700;
+
+_i pushBack 'CUP_srifle_VSSVintorez';
+_u pushBack 3;
+_p pushBack 550;
+
 _i pushBack 'CUP_srifle_ksvk';
 _u pushBack 3;
 _p pushBack 650;
 
-_i pushBack "CUP_srifle_CZ750";
-_u pushBack 0;
-_p pushBack 500;
 
 _i pushBack "CUP_srifle_ksvk_PSO3";
 _u pushBack 4;

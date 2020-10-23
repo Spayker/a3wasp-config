@@ -15,6 +15,14 @@ _i pushBack 'CUP_hgun_Glock17';
 _u pushBack 0;
 _p pushBack 275;
 
+_i pushBack 'CUP_hgun_Mk23';
+_u pushBack 1;
+_p pushBack 375;
+
+_i pushBack 'CUP_hgun_Deagle';
+_u pushBack 2;
+_p pushBack 400;
+
 _i pushBack 'CUP_hgun_Colt1911';
 _u pushBack 0;
 _p pushBack 300;
@@ -183,6 +191,10 @@ _i pushBack 'CUP_launch_M136';
 _u pushBack 0;
 _p pushBack 650;
 
+_i pushBack 'CUP_launch_MAAWS';
+_u pushBack 1;
+_p pushBack 500;
+
 _i pushBack 'CUP_launch_BF3';
 _u pushBack 0;
 _p pushBack 650;
@@ -190,10 +202,6 @@ _p pushBack 650;
 _i pushBack 'CUP_launch_HCPF3';
 _u pushBack 0;
 _p pushBack 650;
-
-_i pushBack 'CUP_launch_MAAWS';
-_u pushBack 1;
-_p pushBack 500;
 
 _i pushBack 'CUP_launch_M72A6';
 _u pushBack 1;
@@ -242,6 +250,10 @@ _p pushBack 100;
 _i pushBack 'CUP_17Rnd_9x19_glock17';
 _u pushBack 0;
 _p pushBack 15;
+
+_i pushBack 'CUP_7Rnd_50AE_Deagle';
+_u pushBack 2;
+_p pushBack 30;
 
 _i pushBack 'CUP_M136_M';
 _u pushBack 0;
@@ -490,6 +502,14 @@ _i pushBack 'CUP_H_OpsCore_Tan_SF';
 _u pushBack 2;
 _p pushBack 120;
 
+_i pushBack 'CUP_H_OpsCore_Covered_Tropen_SF';
+_u pushBack 2;
+_p pushBack 120;
+
+_i pushBack 'CUP_H_OpsCore_Covered_MCAM_SF';
+_u pushBack 2;
+_p pushBack 120;
+
 _i pushBack 'CUP_H_Ger_M92_Cover_Trop_GG';
 _u pushBack 2;
 _p pushBack 120;
@@ -702,6 +722,10 @@ _i pushBack 'CUP_acc_ANPEQ_15';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_acc_mk23_lam_f';
+_u pushBack 1;
+_p pushBack 25;
+
 _i pushBack 'CUP_acc_ANPEQ_2';
 _u pushBack 0;
 _p pushBack 25;
@@ -819,6 +843,10 @@ _u pushBack 0;
 _p pushBack 250;
 
 _i pushBack 'CUP_5Rnd_762x51_M24';
+_u pushBack 1;
+_p pushBack 30;
+
+_i pushBack 'CUP_12Rnd_45ACP_mk23';
 _u pushBack 1;
 _p pushBack 30;
 
@@ -1082,6 +1110,10 @@ _i pushBack 'CUP_muzzle_snds_G36_black';
 _u pushBack 1;
 _p pushBack 300;
 
+_i pushBack 'CUP_muzzle_snds_mk23';
+_u pushBack 1;
+_p pushBack 150;
+
 _i pushBack 'CUP_muzzle_snds_G36_desert';
 _u pushBack 1;
 _p pushBack 300;
@@ -1139,6 +1171,10 @@ _u pushBack 1;
 _p pushBack 200;
 
 _i pushBack 'CUP_optic_ZDDot';
+_u pushBack 1;
+_p pushBack 150;
+
+_i pushBack 'CUP_acc_LLM01_od_F';
 _u pushBack 1;
 _p pushBack 150;
 

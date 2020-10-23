@@ -312,6 +312,10 @@ _i pushBack 'CUP_optic_1p63';
 _u pushBack 1;
 _p pushBack 50;
 
+_i pushBack  "CUP_optic_AIMM_COMPM4_BLK";
+_u pushBack  0;
+_p pushBack  200;
+
 //--Uniform--
 _i pushBack 'CUP_U_O_RUS_EMR_1';
 _u pushBack 10;
@@ -991,6 +995,10 @@ _i pushBack 'CUP_bipod_VLTOR_Modpod';
 _u pushBack 1;
 _p pushBack 50;
 
+_i pushBack 'CUP_bipod_VLTOR_Modpod_black';
+_u pushBack 1;
+_p pushBack 50;
+
 _i pushBack 'CUP_muzzle_PB6P9';
 _u pushBack 1;
 _p pushBack 300;
@@ -1003,9 +1011,17 @@ _i pushBack 'CUP_muzzle_snds_KZRZP_AK762';
 _u pushBack 2;
 _p pushBack 400;
 
+_i pushBack 'CUP_muzzle_snds_KZRZP_SVD_desert';
+_u pushBack 2;
+_p pushBack 400;
+
 _i pushBack 'CUP_muzzle_mfsup_Flashhider_762x39_Black';
 _u pushBack 1;
 _p pushBack 150;
+
+_i pushBack 'CUP_muzzle_snds_AWM';
+_u pushBack 1;
+_p pushBack 300;
 
 _i pushBack 'CUP_muzzle_PBS4';
 _u pushBack 1;
@@ -1044,7 +1060,7 @@ _u pushBack 0;
 _p pushBack 50;
 
 _i pushBack 'CUP_V_O_Ins_Carrier_Rig_MG';
-_u pushBack 0;
+_u pushBack 1;
 _p pushBack 50;
 
 _i pushBack 'muzzle_snds_L';
@@ -1346,6 +1362,10 @@ _p pushBack 300;
 _i pushBack 'CUP_5Rnd_127x108_KSVK_M';
 _u pushBack 4;
 _p pushBack 50;
+
+_i pushBack 'CUP_5Rnd_86x70_L115A1';
+_u pushBack 3;
+_p pushBack 30;
 
 _i pushBack 'CUP_IED_V1_M';
 _u pushBack 3;
