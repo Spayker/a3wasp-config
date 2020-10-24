@@ -111,6 +111,9 @@ _u pushBack 'CUP_O_AN2_TK';
 _u  pushBack 'CUP_O_C47_SLA';
 _u pushBack 'CUP_O_L39_TK';
 _u pushBack 'CUP_O_SU34_RU';
+_u pushBack 'CUP_O_Pchela1T_RU';
+_u pushBack 'O_UAV_02_dynamicLoadout_F';
+_u pushBack 'O_T_UAV_04_CAS_F';
 
 missionNamespace setVariable [Format ["WF_%1AIRCRAFTUNITS", _side], _u];
 if (local player) then {['AIRCRAFT', _side, _u] Call WFCL_fnc_initFaction};
@@ -122,6 +125,9 @@ _u pushBack 'CUP_O_AN2_TK';
 _u  pushBack 'CUP_O_C47_SLA';
 _u pushBack 'CUP_O_L39_TK';
 _u pushBack 'CUP_O_SU34_RU';
+_u pushBack 'CUP_O_Pchela1T_RU';
+_u pushBack 'O_UAV_02_dynamicLoadout_F';
+_u pushBack 'O_T_UAV_04_CAS_F';
 
 missionNamespace setVariable [Format ["WF_%1AIRPORTUNITS", _side], _u];
 if (local player) then {['AIRPORT', _side, _u] Call WFCL_fnc_initFaction};

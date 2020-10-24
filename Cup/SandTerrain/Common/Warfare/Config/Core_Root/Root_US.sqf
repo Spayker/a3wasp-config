@@ -17,7 +17,6 @@ missionNamespace setVariable [format["WF_AMBULANCES_%1", _side], ['CUP_B_M113_Me
 missionNamespace setVariable [Format["WF_%1REPAIRTRUCKS", _side], ['CUP_B_MTVR_Repair_USA']];
 missionNamespace setVariable [Format["WF_%1SALVAGETRUCK", _side], ['CUP_B_MTVR_USA']];
 missionNamespace setVariable [Format["WF_%1SUPPLY_TRUCK", _side], 'CUP_B_MTVR_Ammo_USMC'];
-missionNamespace setVariable [Format["WF_%1UAV", _side], 'CUP_B_USMC_DYN_MQ9'];
 
 //--- Radio Announcers.
 missionNamespace setVariable [Format ["WF_%1_RadioAnnouncers", _side], ['WFHQ_EN0_EP1','WFHQ_EN1_EP1','WFHQ_EN2_EP1','WFHQ_EN4_EP1','WFHQ_EN5_EP1']];
