@@ -143,6 +143,9 @@ _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
 _c pushBack 'CUP_O_RU_Soldier';
 _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
 
+_c pushBack 'CUP_O_INS_Soldier';
+_i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
+
 _c pushBack 'CUP_O_TK_Soldier';
 _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
 
