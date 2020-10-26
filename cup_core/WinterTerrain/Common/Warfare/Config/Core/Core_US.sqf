@@ -426,10 +426,10 @@ _i pushBack ['','',51500,65,-2,4,3,0,'CUP - USMC',[]];
 _c pushBack 'CUP_B_USMC_DYN_MQ9';
 _i pushBack ['','',8500,28,-2,1,3,0,'USA Army',[]];
 
-_c pushBack 'B_UAV_05_F';
+_c pushBack 'B_UAV_02_dynamicLoadout_F';
 _i pushBack ['','',30000,55,-2,2,3,0,'NATO',[]];
 
-_c pushBack 'B_UAV_02_dynamicLoadout_F';
+_c pushBack 'B_UAV_05_F';
 _i pushBack ['','',35000,55,-2,3,3,0,'NATO',[]];
 
 //Defenses
