@@ -623,6 +623,10 @@ _i pushBack 'CUP_T10_Parachute_backpack';
 _u pushBack 0;
 _p pushBack 250;
 
+_i pushBack 'B_Bergen_mcamo_F';
+_u pushBack 4;
+_p pushBack 500;
+
 _i pushBack 'CUP_6Rnd_45ACP_M';
 _u pushBack 1;
 _p pushBack 15;

@@ -858,6 +858,10 @@ _i pushBack 'CUP_B_Backpack_SpecOps_Fleck';
 _u pushBack 0;
 _p pushBack 100;
 
+_i pushBack 'B_Bergen_mcamo_F';
+_u pushBack 4;
+_p pushBack 500;
+
 _i pushBack 'CUP_5Rnd_762x51_M24';
 _u pushBack 1;
 _p pushBack 30;
