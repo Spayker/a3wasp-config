@@ -50,7 +50,7 @@ _o pushBack 1100;
 _t pushBack "Defense";
 _k pushBack "";
 
-_c pushBack 'CUP_B_M119_US';
+_c pushBack 'CUP_B_D30_CDF';
 _n pushBack '';
 _o pushBack 1800;
 _t pushBack "Defense";

@@ -433,7 +433,7 @@ _i pushBack ['','',35000,55,-2,3,3,0,'NATO',[]];
 _c pushBack 'CUP_B_M252_USMC';
 _i pushBack ['','',1000,0,1,0,'Defense',0,'CUP - USA',[]];
 
-_c pushBack 'CUP_B_M119_US';
+_c pushBack 'CUP_B_D30_CDF';
 _i pushBack ['','',2000,0,1,0,'Defense',0,'CUP - USA',[]];
 
 _c pushBack 'CUP_B_CUP_Stinger_AA_pod_US';

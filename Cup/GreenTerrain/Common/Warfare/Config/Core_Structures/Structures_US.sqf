@@ -406,7 +406,7 @@ missionNamespace setVariable [Format["WF_%1AIR_BASE_DISCOUNT_PROGRAM", _side], [
 
 // static defence
 _n =         ["CUP_B_M252_USMC"];
-_n pushBack "CUP_B_M119_US";
+_n pushBack "CUP_B_D30_CDF";
 _n pushBack "CUP_B_CUP_Stinger_AA_pod_US";
 _n pushBack "CUP_B_M2StaticMG_US";
 _n pushBack "CUP_B_M2StaticMG_MiniTripod_US";
@@ -448,7 +448,7 @@ missionNamespace setVariable [Format["WF_%1DEFENSES_MG", _side], ["CUP_B_M2Stati
 missionNamespace setVariable [Format["WF_%1DEFENSES_GL", _side], ["CUP_B_AGS_ACR"]];
 missionNamespace setVariable [Format["WF_%1DEFENSES_AAPOD", _side], ["CUP_B_Igla_AA_pod_CDF"]];
 missionNamespace setVariable [Format["WF_%1DEFENSES_ATPOD", _side], ["CUP_B_TOW_TriPod_US"]];
-missionNamespace setVariable [Format["WF_%1DEFENSES_CANNON", _side], ["CUP_B_M119_US"]];
+missionNamespace setVariable [Format["WF_%1DEFENSES_CANNON", _side], ["CUP_B_D30_CDF"]];
 missionNamespace setVariable [Format["WF_%1DEFENSES_MASH", _side], ["MASH"]];
 missionNamespace setVariable [Format["WF_%1DEFENSES_MORTAR", _side], ["CUP_B_M252_USMC"]];
 
