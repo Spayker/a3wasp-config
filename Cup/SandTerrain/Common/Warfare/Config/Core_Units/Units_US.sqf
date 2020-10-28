@@ -84,7 +84,7 @@ missionNamespace setVariable [Format ["WF_%1LIGHTUNITS", _side], _u];
 if (local player) then {['LIGHT', _side, _u] Call WFCL_fnc_initFaction};
 
 _u=      ['CUP_B_M113_desert_USA'];
-_u pushBack 'CUP_B_FV432_GB_Ambulance';
+_u pushBack 'CUP_B_M113_Med_USA';
 _u pushBack 'CUP_B_AAV_USMC';
 _u pushBack 'CUP_B_FV432_Bulldog_GB_D_RWS';
 _u pushBack 'CUP_B_MCV80_GB_D';
