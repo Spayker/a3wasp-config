@@ -11,6 +11,10 @@ _i pushBack 'MineDetector';
 _u pushBack 0;
 _p pushBack 75;
 
+_i pushBack 'CUP_NVG_HMNVS';
+_u pushBack 0;
+_p pushBack 150;
+
 _i pushBack 'CUP_hgun_Glock17';
 _u pushBack 0;
 _p pushBack 275;
@@ -686,10 +690,6 @@ _i pushBack 'G_Tactical_Black';
 _u pushBack 0;
 _p pushBack 5;
 
-_i pushBack 'CUP_NVG_PVS7';
-_u pushBack 0;
-_p pushBack 5;
-
 _i pushBack 'optic_ACO_grn';
 _u pushBack 0;
 _p pushBack 50;
@@ -1329,10 +1329,6 @@ _p pushBack 300;
 _i pushBack 'CUP_Vector21Nite';
 _u pushBack 1;
 _p pushBack 300;
-
-_i pushBack 'CUP_NVG_PVS14';
-_u pushBack 1;
-_p pushBack 250;
 
 _i pushBack 'CUP_B_HikingPack_Civ';
 _u pushBack 1;

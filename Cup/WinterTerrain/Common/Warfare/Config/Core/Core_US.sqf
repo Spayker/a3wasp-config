@@ -5,7 +5,7 @@ _c = [];
 _i = [];
 
 //Infantry
-_c pushBack 'CUP_B_USMC_Crewman_FROG_WDL';
+_c pushBack 'CUP_B_US_Crew';
 _i pushBack ['','',120,4,-1,0,0,0.85,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_GER_Fleck_Crew';
@@ -62,47 +62,50 @@ _i pushBack ['','',220,7,-1,3,0,1,'USA (SOCOM)',[]];
 _c pushBack 'CUP_B_US_SpecOps_MG';
 _i pushBack ['','',350,7,-1,3,0,1,'USA (SOCOM)',[]];
 
-_c pushBack 'CUP_B_USMC_Sniper_M40A3';
+_c pushBack 'CUP_B_US_Sniper';
 _i pushBack ['','',500,7,-1,3,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Medic_FROG_WDL';
+_c pushBack 'CUP_B_US_Medic';
 _i pushBack ['','',150,4,-1,0,0,0.85,'USA Army',[]];
 
 _c pushBack 'CUP_B_US_Soldier_ACOG';
 _i pushBack ['','',300,7,-1,2,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Spotter';
+_c pushBack 'CUP_B_US_Spotter';
 _i pushBack ['','',320,7,-1,2,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Soldier_LAT_FROG_WDL';
+_c pushBack 'CUP_B_US_Soldier_LAT';
 _i pushBack ['','',180,4,-1,0,0,0.85,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Soldier_GL_FROG_WDL';
+_c pushBack 'CUP_B_US_Soldier_GL';
 _i pushBack ['','',250,7,-1,3,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Soldier_AR_FROG_WDL';
+_c pushBack 'CUP_B_US_Soldier_AR';
 _i pushBack ['','',320,7,-1,1,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Soldier_Marksman_FROG_WDL';
+_c pushBack 'CUP_B_US_Soldier_Marksman';
 _i pushBack ['','',420,7,-1,2,0,1,'USA Army',[]];
 
 _c pushBack 'CUP_B_US_Sniper_M110_TWS';
 _i pushBack ['','',410,7,-1,3,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Sniper_M107';
+_c pushBack 'CUP_B_US_Sniper_M107';
 _i pushBack ['','',650,7,-1,3,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Soldier_HAT_FROG_WDL';
+_c pushBack 'CUP_B_US_Soldier_HAT';
 _i pushBack ['','',1000,7,-1,3,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Soldier_SL_FROG_WDL';
+_c pushBack 'CUP_B_US_Soldier_SL';
 _i pushBack ['','',380,7,-1,2,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Soldier_AT_FROG_WDL';
+_c pushBack 'CUP_B_US_Soldier_AT';
 _i pushBack ['','',620,7,-1,2,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Soldier_FROG_WDL';
+_c pushBack 'CUP_B_US_Soldier';
 _i pushBack ['','',300,7,-1,0,0,1,'USA Army',[]];
+
+_c pushBack 'CUP_B_USMC_Soldier';
+_i pushBack ['','',120,7,-1,0,0,1,'USMC Army',[]];
 
 _c pushBack 'B_Soldier_F';
 _i pushBack ['','',300,7,-1,0,0,1,'USA Army',[]];
@@ -122,13 +125,16 @@ _i pushBack ['','',300,7,-1,0,0,1,'British Army',[]];
 _c pushBack 'CUP_B_CZ_Soldier_805_WDL';
 _i pushBack ['','',300,7,-1,0,0,1,'Czech Republic Army',[]];
 
+_c pushBack 'CUP_B_US_Crew';
+_i pushBack ['','',210,7,-1,0,0,1,'USA Army',[]];
+
 _c pushBack 'CUP_B_US_Soldier_AAR';
 _i pushBack ['','',220,5,-1,0,0,0.9,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Engineer_FROG_WDL';
+_c pushBack 'CUP_B_US_Engineer';
 _i pushBack ['','',280,7,-1,2,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Soldier_MG_FROG_WDL';
+_c pushBack 'CUP_B_US_Soldier_MG';
 _i pushBack ['','',280,7,-1,2,0,1,'USA Army',[]];
 
 _c pushBack 'CUP_B_US_Soldier_Light';
@@ -140,13 +146,13 @@ _i pushBack ['','',290,7,-1,3,0,1,'USA Army',[]];
 _c pushBack 'CUP_B_US_Soldier_Engineer_Sapper';
 _i pushBack ['','',290,7,-1,3,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Soldier_TL_FROG_WDL';
+_c pushBack 'CUP_B_US_Soldier_TL';
 _i pushBack ['','',310,7,-1,2,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Officer_FROG_WDL';
+_c pushBack 'CUP_B_US_Officer';
 _i pushBack ['','',330,7,-1,2,0,1,'USA Army',[]];
 
-_c pushBack 'CUP_B_USMC_Soldier_AA_FROG_WDL';
+_c pushBack 'CUP_B_US_Soldier_AA';
 _i pushBack ['','',520,7,-1,3,0,1,'USA Army',[]];
 
 _c pushBack 'CUP_B_US_Pilot';

@@ -3,11 +3,11 @@ Private ["_side"];
 _side = "WEST";
 
 //--- Generic.
-missionNamespace setVariable [Format["WF_%1WHEELEDCREW", _side], 'CUP_B_USMC_Soldier_FROG_WDL'];
-missionNamespace setVariable [Format["WF_%1TRACKEDCREW", _side], 'CUP_B_USMC_Crewman_FROG_WDL'];
+missionNamespace setVariable [Format["WF_%1WHEELEDCREW", _side], 'CUP_B_US_Soldier'];
+missionNamespace setVariable [Format["WF_%1TRACKEDCREW", _side], 'CUP_B_US_Crew'];
 missionNamespace setVariable [Format["WF_%1PILOT", _side], 'CUP_B_US_Pilot'];
-missionNamespace setVariable [Format["WF_%1SOLDIER", _side], 'CUP_B_USMC_Soldier_FROG_WDL'];
-missionNamespace setVariable [Format["WF_%1ENGINEER", _side], 'CUP_B_USMC_Engineer_FROG_WDL'];
+missionNamespace setVariable [Format["WF_%1SOLDIER", _side], 'CUP_B_US_Soldier'];
+missionNamespace setVariable [Format["WF_%1ENGINEER", _side], 'CUP_B_US_Engineer'];
 
 //--- Flag texture.
 missionNamespace setVariable [Format["WF_%1FLAG", _side], 'RSC\Pictures\flag_us_co.paa'];
@@ -29,9 +29,9 @@ missionNamespace setVariable [Format ["WF_%1_RadioAnnouncers_Type", _side], [['\
 																			   ['\CUP_Dubbing_Radio_EN\RadioProtocol\Male05EN\DEFAULT\', 'ogg']]];
 																			   
 //--- Paratroopers.
-missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL1", _side],['CUP_B_USMC_Soldier_SL_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_US_SpecOps_AR','CUP_B_USMC_Soldier_Marksman_FROG_WDL','CUP_B_USMC_Soldier_LAT_FROG_WDL']];
-missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL2", _side],['CUP_B_US_SpecOps_TL','CUP_B_US_SpecOps','CUP_B_US_SpecOps_M','CUP_B_USMC_Sniper_M107','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_US_SpecOps_MG','CUP_B_USMC_Soldier_AA_FROG_WDL']];
-missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL3", _side],['CUP_B_USMC_Soldier_HAT_FROG_WDL','CUP_B_USMC_Soldier_AR_FROG_WDL','CUP_B_USMC_Soldier_AR_FROG_WDL','CUP_B_US_Sniper_M110_TWS','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_USMC_Soldier_HAT_FROG_WDL','CUP_B_USMC_Soldier_AA_FROG_WDL','CUP_B_US_Soldier_AMG']];
+missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL1", _side],['CUP_B_US_Soldier_SL','CUP_B_US_Soldier_AT','CUP_B_US_Soldier_AT','CUP_B_US_SpecOps_AR','CUP_B_US_Soldier_Marksman','CUP_B_US_Soldier_LAT']];
+missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL2", _side],['CUP_B_US_SpecOps_TL','CUP_B_US_SpecOps','CUP_B_US_SpecOps_M','CUP_B_US_Sniper_M107','CUP_B_US_Soldier_AT','CUP_B_US_Soldier_AT','CUP_B_US_Soldier_AT','CUP_B_US_SpecOps_MG','CUP_B_US_Soldier_AA']];
+missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL3", _side],['CUP_B_US_Soldier_HAT','CUP_B_US_Soldier_AR','CUP_B_US_Soldier_AR','CUP_B_US_Sniper_M110_TWS','CUP_B_US_Soldier_AT','CUP_B_US_Soldier_AT','CUP_B_US_Soldier_HAT','CUP_B_US_Soldier_AA','CUP_B_US_Soldier_AMG']];
 
 missionNamespace setVariable [Format["WF_%1PARACARGO", _side], 'CUP_B_C130J_USMC'];//--- Paratroopers, Vehicle.
 missionNamespace setVariable [Format["WF_%1PARACARGO_HELI", _side], 'CUP_B_UH60M_US'];//--- Paratroopers, Helicopter.
@@ -44,11 +44,11 @@ missionNamespace setVariable [Format["WF_%1PARACHUTE", _side], 'O_Parachute_02_F
 
 //--- Base Patrols.
 if ((missionNamespace getVariable "WF_C_BASE_PATROLS_INFANTRY") > 0) then {
-	missionNamespace setVariable [Format["WF_%1BASEPATROLS_0", _side],['CUP_B_USMC_Soldier_SL_FROG_WDL','CUP_B_USMC_Soldier_FROG_WDL','CUP_B_USMC_Soldier_FROG_WDL','CUP_B_USMC_Soldier_GL_FROG_WDL','CUP_B_USMC_Soldier_GL_FROG_WDL','CUP_B_USMC_Soldier_FROG_WDL']];
-	missionNamespace setVariable [Format["WF_%1BASEPATROLS_1", _side],['CUP_B_USMC_Soldier_SL_FROG_WDL','CUP_B_USMC_Medic_FROG_WDL','CUP_B_USMC_Soldier_AR_FROG_WDL','CUP_B_US_Soldier_AAR','CUP_B_US_Soldier_AMG','CUP_B_USMC_Engineer_FROG_WDL']];
-	missionNamespace setVariable [Format["WF_%1BASEPATROLS_2", _side],['CUP_B_USMC_Soldier_SL_FROG_WDL','CUP_B_USMC_Soldier_FROG_WDL','CUP_B_USMC_Soldier_MG_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_USMC_Soldier_Marksman_FROG_WDL']];
-	missionNamespace setVariable [Format["WF_%1BASEPATROLS_3", _side],['CUP_B_USMC_Soldier_SL_FROG_WDL','CUP_B_USMC_Soldier_AA_FROG_WDL','CUP_B_USMC_Soldier_MG_FROG_WDL','CUP_B_USMC_Soldier_HAT_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_USMC_Soldier_GL_FROG_WDL']];
-	missionNamespace setVariable [Format["WF_%1BASEPATROLS_4", _side],['CUP_B_USMC_Soldier_SL_FROG_WDL','CUP_B_USMC_Soldier_AA_FROG_WDL','CUP_B_USMC_Soldier_MG_FROG_WDL','CUP_B_USMC_Soldier_HAT_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_USMC_Soldier_GL_FROG_WDL']];
+	missionNamespace setVariable [Format["WF_%1BASEPATROLS_0", _side],['CUP_B_US_Soldier_SL','CUP_B_US_Soldier','CUP_B_US_Soldier','CUP_B_US_Soldier_GL','CUP_B_US_Soldier_GL','CUP_B_US_Soldier']];
+	missionNamespace setVariable [Format["WF_%1BASEPATROLS_1", _side],['CUP_B_US_Soldier_SL','CUP_B_US_Medic','CUP_B_US_Soldier_AR','CUP_B_US_Soldier_AAR','CUP_B_US_Soldier_AMG','CUP_B_US_Engineer']];
+	missionNamespace setVariable [Format["WF_%1BASEPATROLS_2", _side],['CUP_B_US_Soldier_SL','CUP_B_US_Soldier','CUP_B_US_Soldier_MG','CUP_B_US_Soldier_AT','CUP_B_US_Soldier_AT','CUP_B_US_Soldier_Marksman']];
+	missionNamespace setVariable [Format["WF_%1BASEPATROLS_3", _side],['CUP_B_US_Soldier_SL','CUP_B_US_Soldier_AA','CUP_B_US_Soldier_MG','CUP_B_US_Soldier_HAT','CUP_B_US_Soldier_AT','CUP_B_US_Soldier_GL']];
+	missionNamespace setVariable [Format["WF_%1BASEPATROLS_4", _side],['CUP_B_US_Soldier_SL','CUP_B_US_Soldier_AA','CUP_B_US_Soldier_MG','CUP_B_US_Soldier_HAT','CUP_B_US_Soldier_AT','CUP_B_US_Soldier_GL']];
 };
 
 //--- Squads.
@@ -58,22 +58,22 @@ if ((missionNamespace getVariable "WF_C_BASE_PATROLS_INFANTRY") > 0) then {
 if (isServer) then {
 	//--- Patrols.
 	missionNamespace setVariable [Format["WF_%1_PATROL_LIGHT", _side], [
-		['CUP_B_USMC_Soldier_TL_FROG_WDL','CUP_B_USMC_Soldier_MG_FROG_WDL','CUP_B_US_SpecOps_M','CUP_B_USMC_Medic_FROG_WDL'],
-		['CUP_B_USMC_Soldier_TL_FROG_WDL','CUP_B_US_SpecOps_AR','CUP_B_USMC_Soldier_GL_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_USMC_Soldier_FROG_WDL'],
-		['CUP_B_M1126_ICV_M2_Woodland_Slat','CUP_B_M1151_Mk19_USMC']
+		['CUP_B_US_Soldier_TL','CUP_B_US_Soldier_MG','CUP_B_US_SpecOps_M','CUP_B_US_Medic'],
+		['CUP_B_US_Soldier_TL','CUP_B_US_SpecOps_AR','CUP_B_US_Soldier_GL','CUP_B_US_Soldier_AT','CUP_B_US_Soldier'],
+		['CUP_B_M1126_ICV_M2_Desert','CUP_B_M1151_Mk19_DSRT_USMC']
 	]];
 
 	missionNamespace setVariable [Format["WF_%1_PATROL_MEDIUM", _side], [
 		['CUP_B_M1151_M2_USMC','CUP_B_M1151_M2_USMC'],
-		['CUP_B_M1151_M2_USMC','CUP_B_USMC_Soldier_SL_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_USMC_Soldier_MG_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL'],
-		['CUP_B_M2Bradley_USA_W','CUP_B_USMC_Soldier_AA_FROG_WDL','CUP_B_USMC_Soldier_AA_FROG_WDL','CUP_B_USMC_Medic_FROG_WDL']
+		['CUP_B_M1151_M2_USMC','CUP_B_US_Soldier_SL','CUP_B_US_Soldier_AT','CUP_B_US_Soldier_MG','CUP_B_US_Soldier_AT'],
+		['CUP_B_M2Bradley_USA_W','CUP_B_US_Soldier_AA','CUP_B_US_Soldier_AA','CUP_B_US_Medic']
 	]];
 
 	missionNamespace setVariable [Format["WF_%1_PATROL_HEAVY", _side], [
 		['CUP_B_M2Bradley_USA_W','CUP_B_M2Bradley_USA_W'],
 		['CUP_B_Mastiff_HMG_GB_W','CUP_B_Mastiff_HMG_GB_W'],
-		['CUP_B_M2Bradley_USA_W','CUP_B_M2Bradley_USA_W','CUP_B_USMC_Soldier_SL_FROG_WDL','CUP_B_USMC_Soldier_MG_FROG_WDL','CUP_B_US_Sniper_M110_TWS','CUP_B_USMC_Medic_FROG_WDL','CUP_B_USMC_Soldier_HAT_FROG_WDL','CUP_B_USMC_Soldier_HAT_FROG_WDL','CUP_B_USMC_Soldier_FROG_WDL'],
-		['CUP_B_M2Bradley_USA_W','CUP_B_USMC_Soldier_SL_FROG_WDL','CUP_B_USMC_Medic_FROG_WDL','CUP_B_USMC_Soldier_GL_FROG_WDL','CUP_B_USMC_Soldier_FROG_WDL','CUP_B_USMC_Soldier_AR_FROG_WDL']
+		['CUP_B_M2Bradley_USA_W','CUP_B_M2Bradley_USA_W','CUP_B_US_Soldier_SL','CUP_B_US_Soldier_MG','CUP_B_US_Sniper_M110_TWS','CUP_B_US_Medic','CUP_B_US_Soldier_HAT','CUP_B_US_Soldier_HAT','CUP_B_US_Soldier'],
+		['CUP_B_M2Bradley_USA_W','CUP_B_US_Soldier_SL','CUP_B_US_Medic','CUP_B_US_Soldier_GL','CUP_B_US_Soldier','CUP_B_US_Soldier_AR']
 	]];
 };
 
@@ -101,10 +101,10 @@ missionNamespace setVariable ["WF_WEST_DefaultGearEngineer", [
 	],
 	
 	[
-		["CUP_U_B_USMC_FROG4_WMARPAT",["CUP_6Rnd_12Gauge_Pellets_No00_Buck","CUP_6Rnd_12Gauge_Pellets_No00_Buck","CUP_6Rnd_12Gauge_Pellets_No00_Buck", "CUP_6Rnd_12Gauge_Pellets_No00_Buck"]],
-		["CUP_V_B_ALICE",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
-		["B_Kitbag_rgr",["FirstAidKit"]]],
-		["h_cap_grn",""],
+		["CUP_U_B_USArmy_Base",["CUP_6Rnd_12Gauge_Pellets_No00_Buck","CUP_6Rnd_12Gauge_Pellets_No00_Buck","CUP_6Rnd_12Gauge_Pellets_No00_Buck","CUP_6Rnd_12Gauge_Pellets_No00_Buck"]],
+		["V_HarnessO_brn",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
+		["CUP_V_B_IOTV_Rifleman",["FirstAidKit"]]],
+		["h_milcap_gry",""],
 		[["","Leupold_Mk4"],["itemmap","","itemradio","itemcompass","itemwatch"]]
 	]
 ];
@@ -119,7 +119,7 @@ missionNamespace setVariable ["WF_WEST_DefaultGearSpot", [
 	
 	[
 		["U_B_GhillieSuit",["CUP_10Rnd_762x51_CZ750","CUP_10Rnd_762x51_CZ750","CUP_10Rnd_762x51_CZ750","CUP_10Rnd_762x51_CZ750"]],
-		["CUP_V_B_ALICE",["CUP_10Rnd_762x51_CZ750","CUP_10Rnd_762x51_CZ750","CUP_32Rnd_9x19_TEC9","CUP_32Rnd_9x19_TEC9","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
+		["V_HarnessO_brn",["CUP_10Rnd_762x51_CZ750","CUP_10Rnd_762x51_CZ750","CUP_32Rnd_9x19_TEC9","CUP_32Rnd_9x19_TEC9","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
 		["",["FirstAidKit"]]],
 		["H_Bandanna_sgg",""],
 		[["","Leupold_Mk4"],["itemmap","","itemradio","itemcompass","itemwatch"]]
@@ -135,10 +135,10 @@ missionNamespace setVariable ["WF_WEST_DefaultGearSoldier", [
 	],
 	
 	[
-		["CUP_U_B_USMC_FROG4_WMARPAT",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag"]],
-		["CUP_V_B_ALICE",["CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
-		["B_Kitbag_rgr",["FirstAidKit"]]],
-		["h_cap_grn",""],
+		["CUP_U_B_USArmy_Base",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag"]],
+		["V_HarnessO_brn",["CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
+		["CUP_V_B_IOTV_Rifleman",["FirstAidKit"]]],
+		["h_milcap_gry",""],
 		[["","Leupold_Mk4"],["itemmap","","itemradio","itemcompass","itemwatch"]]
 	]
 ];
@@ -152,10 +152,10 @@ missionNamespace setVariable ["WF_WEST_DefaultGearLock", [
 	],
 	
 	[
-		["CUP_U_B_USMC_FROG4_WMARPAT",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag"]],
-		["CUP_V_B_ALICE",["CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
-		["B_Kitbag_rgr",["FirstAidKit"]]],
-		["CUP_H_USMC_BOONIE_PRR_WDL",""],
+		["CUP_U_B_USArmy_Base",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag"]],
+		["V_HarnessO_brn",["CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
+		["CUP_V_B_IOTV_Rifleman",["FirstAidKit"]]],
+		["h_milcap_gry",""],
 		[["","Leupold_Mk4"],["itemmap","","itemradio","itemcompass","itemwatch"]]
 	]
 ];
@@ -169,10 +169,10 @@ missionNamespace setVariable ["WF_WEST_DefaultGearUAVOperator", [
 	],
 	
 	[
-		["CUP_U_B_USMC_FROG4_WMARPAT",["CUP_30Rnd_556x45_G36","CUP_30Rnd_556x45_G36","CUP_30Rnd_556x45_G36","CUP_30Rnd_556x45_G36"]],
-		["CUP_V_B_ALICE",["CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
+		["CUP_U_B_USArmy_Base",["CUP_30Rnd_556x45_G36","CUP_30Rnd_556x45_G36","CUP_30Rnd_556x45_G36","CUP_30Rnd_556x45_G36"]],
+		["V_HarnessO_brn",["CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
 		["B_UGV_02_Demining_backpack_F",[""]]],
-		["CUP_H_USMC_BOONIE_PRR_WDL",""],
+		["h_milcap_gry",""],
 		[["B_UavTerminal","Leupold_Mk4"],["itemmap","","itemradio","itemcompass","itemwatch"]]
 	]
 ];
@@ -186,10 +186,10 @@ missionNamespace setVariable ["WF_WEST_DefaultGearArtOperator", [
 	],
 	
 	[
-		["CUP_U_B_USMC_FROG4_WMARPAT",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag"]],
-		["CUP_V_B_ALICE",["CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
-		["B_Kitbag_rgr",["FirstAidKit"]]],
-		["h_cap_grn",""],
+		["CUP_U_B_USArmy_Base",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag"]],
+		["V_HarnessO_brn",["CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
+		["CUP_V_B_IOTV_Rifleman",["FirstAidKit"]]],
+		["h_milcap_gry",""],
 		[["","Rangefinder"],["itemmap","","itemradio","itemcompass","itemwatch"]]
 	]
 ];

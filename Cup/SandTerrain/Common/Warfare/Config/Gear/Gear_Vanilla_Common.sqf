@@ -135,14 +135,6 @@ _i pushBack  "ItemGPS";
 _u pushBack  1;
 _p pushBack  200;
 
-_i pushBack  "NVGoggles";
-_u pushBack  0;
-_p pushBack  50;
-
-_i pushBack  "NVGogglesB_blk_F";
-_u pushBack  5;
-_p pushBack  750;
-
 _i pushBack  "ToolKit";
 _u pushBack  0;
 _p pushBack  160;

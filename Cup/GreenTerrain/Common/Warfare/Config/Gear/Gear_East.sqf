@@ -13,7 +13,7 @@ _p pushBack 75;
 
 _i pushBack 'CUP_NVG_HMNVS';
 _u pushBack 0;
-_p pushBack 5;
+_p pushBack 150;
 
 //--Pistols--
 _i pushBack 'CUP_hgun_Glock17';
@@ -939,17 +939,9 @@ _i pushBack 'CUP_muzzle_snds_KZRZP_AK762';
 _u pushBack 2;
 _p pushBack 400;
 
-_i pushBack 'CUP_muzzle_snds_KZRZP_SVD';
-_u pushBack 2;
-_p pushBack 400;
-
 _i pushBack 'CUP_muzzle_mfsup_Flashhider_762x39_Black';
 _u pushBack 1;
 _p pushBack 150;
-
-_i pushBack 'CUP_muzzle_snds_AWM';
-_u pushBack 1;
-_p pushBack 300;
 
 _i pushBack 'CUP_muzzle_PBS4';
 _u pushBack 1;
@@ -1266,14 +1258,6 @@ _p pushBack 200;
 _i pushBack 'CUP_IED_V4_M';
 _u pushBack 3;
 _p pushBack 200;
-
-_i pushBack 'O_NVGoggles_ghex_F';
-_u pushBack 3;
-_p pushBack 150;
-
-_i pushBack 'O_NVGoggles_hex_F';
-_u pushBack 3;
-_p pushBack 150;
 
 _i pushBack 'CUP_B_Metis_Gun_Bag';
 _u pushBack 4;
