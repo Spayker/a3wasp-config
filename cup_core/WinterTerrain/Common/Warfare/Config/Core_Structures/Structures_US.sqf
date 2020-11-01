@@ -3,8 +3,8 @@ private ['_c','_count','_d','_dir','_dis','_n','_s','_side','_t','_v','_mhp','_i
 _side = _this;
 
 /* Root Definition */
-_MHQ = "CUP_B_LAV25_HQ_desert_USMC";
-_HQ = "M1130_HQ_unfolded_Base_EP1";
+_MHQ = "CUP_B_LAV25_HQ_USMC";
+_HQ = "LAV25_HQ_unfolded";
 _BAR = "US_WarfareBBarracks_Base_EP1";
 _LVF = "US_WarfareBLightFactory_base_EP1";
 _CC = "US_WarfareBUAVterminal_Base_EP1";
