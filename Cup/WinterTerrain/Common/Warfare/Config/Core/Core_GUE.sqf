@@ -8,6 +8,9 @@ _i = [];
 _c pushBack 'CUP_I_GUE_Officer';
 _i pushBack ['','',150,4,-1,0,0,1,'Guerilla',[]];
 
+_c pushBack 'CUP_I_GUE_Commander';
+_i pushBack ['','',175,4,-1,0,0,1,'Guerilla',[]];
+
 _c pushBack 'CUP_I_GUE_Soldier_AKS74';
 _i pushBack ['','',150,4,-1,0,0,1,'Guerilla',[]];
 
@@ -16,6 +19,9 @@ _i pushBack ['','',150,4,-1,0,0,1,'Guerilla',[]];
 
 _c pushBack 'CUP_I_GUE_Soldier_AKSU';
 _i pushBack ['Soldier AKSU','',150,4,-1,0,0,1,'Guerilla',[]];
+
+_c pushBack 'CUP_I_GUE_Soldier_AKM';
+_i pushBack ['Soldier AKM','',150,4,-1,0,0,1,'Guerilla',[]];
 
 _c pushBack 'CUP_I_GUE_Medic';
 _i pushBack ['','',140,4,-1,0,0,1,'Guerilla',[]];
@@ -65,7 +71,13 @@ _i pushBack ['','',165,5,-1,1,0,1,'Guerilla',[]];
 _c pushBack 'CUP_I_GUE_Sniper';
 _i pushBack ['Sniper','',265,5,-1,1,0,1,'Guerilla',[]];
 
+_c pushBack 'CUP_I_PMC_Sniper';
+_i pushBack ['Sniper','',265,5,-1,1,0,1,'Guerilla',[]];
+
 _c pushBack 'CUP_I_GUE_Forester';
+_i pushBack ['','',165,5,-1,1,0,1,'Guerilla',[]];
+
+_c pushBack 'CUP_I_GUE_Woodman';
 _i pushBack ['','',165,5,-1,1,0,1,'Guerilla',[]];
 
 _c pushBack 'CUP_I_GUE_Engineer';
@@ -74,10 +86,10 @@ _i pushBack ['','',185,5,-1,1,0,1,'Guerilla',[]];
 _c pushBack 'CUP_I_GUE_Pilot';
 _i pushBack ['','',120,5,-1,1,0,1,'Guerilla',[]];
 
-_c pushBack 'CUP_I_RACS_Pilot';
+_c pushBack 'I_helipilot_F';
 _i pushBack ['','',120,5,-1,1,0,1,'Guerilla',[]];
 
-_c pushBack 'I_helipilot_F';
+_c pushBack 'CUP_I_RACS_Pilot';
 _i pushBack ['','',120,5,-1,1,0,1,'Guerilla',[]];
 
 _c pushBack 'CUP_I_UN_CDF_Crew_MNT';
@@ -228,6 +240,9 @@ _i pushBack ['','',250,17,-2,0,1,0,'Guerilla',[],7];
 _c pushBack 'CUP_I_UAZ_SPG9_UN';
 _i pushBack ['','',290,17,-2,0,1,0,'Guerilla',[], 7];
 
+_c pushBack 'CUP_I_BTR40_MG_TKG';
+_i pushBack ['','',800,22,-2,0,1,0,'Guerilla',[]];
+
 _c pushBack 'CUP_I_BTR60_UN';
 _i pushBack ['','',1200,25,-2,3,1,0,'Guerilla',[],5];
 
@@ -255,7 +270,7 @@ _c pushBack 'CUP_I_M60A3_TTS_RACS';
 _i pushBack ['','',2100,30,-2,1,2,0,'Guerilla',[], 1];
 
 _c pushBack 'CUP_I_M113_AAF';
-_i pushBack ['','',1600,30,-2,0,2,0,'Guerilla',[], 1];
+_i pushBack ['','',1600,30,-2,0,2,0,'Guerilla',[], 2];
 
 _c pushBack 'CUP_I_M163_AAF';
 _i pushBack ['','',3600,30,-2,2,2,0,'Guerilla',[], 1];

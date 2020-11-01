@@ -20,7 +20,7 @@ _u pushBack "CUP_I_GUE_Medic";
 _l pushBack _u;
 
 _k pushBack "Squad_1";
-_u		= ["CUP_I_GUE_Officer"];
+_u		= ["CUP_I_GUE_Commander"];
 _u pushBack "CUP_I_GUE_Soldier_MG";
 _u pushBack "CUP_I_GUE_Saboteur";
 _u pushBack "CUP_I_GUE_Soldier_AR";
@@ -40,12 +40,12 @@ _u pushBack "CUP_I_GUE_Medic";
 _l pushBack _u;
 
 _k pushBack "Squad_3";
-_u		= ["CUP_I_GUE_Officer"];
+_u		= ["CUP_I_GUE_Commander"];
 _u pushBack "CUP_I_GUE_Soldier_MG";
 _u pushBack "CUP_I_GUE_Saboteur";
 _u pushBack "CUP_I_GUE_Soldier_AR";
 _u pushBack "CUP_I_GUE_Soldier_GL";
-_u pushBack "CUP_I_GUE_Local";
+_u pushBack "CUP_I_PMC_Bodyguard_M4";
 _u pushBack "CUP_I_GUE_Medic";
 _l pushBack _u;
 
@@ -60,10 +60,10 @@ _u pushBack "CUP_I_PMC_Medic";
 _l pushBack _u;
 
 _k pushBack "Team_0";
-_u		= ["CUP_I_GUE_Officer"];
+_u		= ["CUP_I_GUE_Commander"];
 _u pushBack "CUP_I_GUE_Soldier_AT";
 _u pushBack "CUP_I_GUE_Soldier_MG";
-_u pushBack "CUP_I_GUE_Soldier_Scout";
+_u pushBack "CUP_I_GUE_Woodman";
 _u pushBack "CUP_I_GUE_Soldier_AR";
 _u pushBack "CUP_I_GUE_Soldier_GL";
 _l pushBack _u;
@@ -72,16 +72,16 @@ _k pushBack "Team_1";
 _u		= ["CUP_I_GUE_Officer"];
 _u pushBack "CUP_I_GUE_Soldier_AT";
 _u pushBack "CUP_I_GUE_Soldier_MG";
-_u pushBack "CUP_I_GUE_Soldier_Scout";
+_u pushBack "CUP_I_GUE_Soldier_AKSU";
 _u pushBack "CUP_I_GUE_Soldier_AR";
 _u pushBack "CUP_I_GUE_Soldier_GL";
 _l pushBack _u;
 
 _k pushBack "Team_2";
-_u		= ["CUP_I_GUE_Officer"];
+_u		= ["CUP_I_GUE_Commander"];
 _u pushBack "CUP_I_GUE_Soldier_AT";
 _u pushBack "CUP_I_GUE_Soldier_MG";
-_u pushBack "CUP_I_GUE_Soldier_Scout";
+_u pushBack "CUP_I_GUE_Soldier_AKM";
 _u pushBack "CUP_I_GUE_Soldier_AR";
 _u pushBack "CUP_I_GUE_Soldier_GL";
 _l pushBack _u;
@@ -90,7 +90,7 @@ _k pushBack "Team_3";
 _u		= ["CUP_I_GUE_Officer"];
 _u pushBack "CUP_I_GUE_Soldier_AT";
 _u pushBack "CUP_I_GUE_Soldier_MG";
-_u pushBack "CUP_I_GUE_Soldier_Scout";
+_u pushBack "CUP_I_PMC_Contractor2";
 _u pushBack "CUP_I_GUE_Soldier_AR";
 _u pushBack "CUP_I_GUE_Soldier_GL";
 _l pushBack _u;
@@ -99,28 +99,28 @@ _k pushBack "Team_MG_0";
 _u =      ["CUP_I_GUE_Soldier_MG"];
 _u pushBack "CUP_I_GUE_Soldier_MG";
 _u pushBack "CUP_I_GUE_Ammobearer";
-_u pushBack "CUP_I_GUE_Ammobearer";
+_u pushBack "CUP_I_GUE_Soldier_LAT";
 _l pushBack _u;
 
 _k pushBack "Team_MG_1";
 _u =      ["CUP_I_GUE_Soldier_AR"];
 _u pushBack "CUP_I_GUE_Soldier_MG";
 _u pushBack "CUP_I_GUE_Ammobearer";
-_u pushBack "CUP_I_GUE_Ammobearer";
+_u pushBack "CUP_I_GUE_Soldier_LAT";
 _l pushBack _u;
 
 _k pushBack "Team_MG_2";
 _u =      ["CUP_I_GUE_Soldier_AR"];
 _u pushBack "CUP_I_GUE_Soldier_MG";
 _u pushBack "CUP_I_GUE_Ammobearer";
-_u pushBack "CUP_I_GUE_Ammobearer";
+_u pushBack "CUP_I_GUE_Soldier_LAT";
 _l pushBack _u;
 
 _k pushBack "Team_MG_3";
 _u =      ["CUP_I_GUE_Soldier_MG"];
 _u pushBack "CUP_I_PMC_Soldier_MG";
 _u pushBack "CUP_I_GUE_Ammobearer";
-_u pushBack "CUP_I_GUE_Ammobearer";
+_u pushBack "CUP_I_GUE_Soldier_LAT";
 _l pushBack _u;
 
 _k pushBack "Team_AT_0";
@@ -164,21 +164,26 @@ _l pushBack _u;
 _k pushBack "Team_Sniper_0";
 _u		= ["CUP_I_GUE_Sniper"];
 _u pushBack "CUP_I_PMC_Sniper_KSVK";
+_u pushBack "CUP_I_GUE_Soldier_Scout";
 _l pushBack _u;
 
 _k pushBack "Team_Sniper_1";
 _u		= ["CUP_I_GUE_Sniper"];
 _u pushBack "CUP_I_PMC_Sniper_KSVK";
+_u pushBack "CUP_I_GUE_Soldier_Scout";
+_u pushBack "CUP_I_PMC_Sniper";
 _l pushBack _u;
 
 _k pushBack "Team_Sniper_2";
 _u		= ["CUP_I_GUE_Sniper"];
 _u pushBack "CUP_I_PMC_Sniper_KSVK";
+_u pushBack "CUP_I_PMC_Sniper";
 _l pushBack _u;
 
 _k pushBack "Team_Sniper_3";
 _u		= ["CUP_I_GUE_Sniper"];
 _u pushBack "CUP_I_PMC_Sniper_KSVK";
+_u pushBack "CUP_I_PMC_Sniper";
 _l pushBack _u;
 
 _k pushBack "Motorized_0";
@@ -237,18 +242,18 @@ _u pushBack "CUP_I_Hilux_igla_TK";
 _l pushBack _u;
 
 _k pushBack "Mechanized_0";
-_u =      ["CUP_I_BMP1_TK_GUE"];
+_u =      ["CUP_I_BTR40_MG_TKG"];
 _u pushBack "CUP_I_BMP1_TK_GUE";
 _l pushBack _u;
 
 _k pushBack "Mechanized_1";
 _u =      ["CUP_I_BMP2_NAPA"];
-_u pushBack "CUP_I_BMP1_TK_GUE";
+_u pushBack "CUP_I_M113_AAF";
 _l pushBack _u;
 
 _k pushBack "Mechanized_2";
 _u =      ["CUP_I_BMP2_NAPA"];
-_u pushBack "CUP_I_BMP2_NAPA";
+_u pushBack "CUP_I_BMP1_TK_GUE";
 _l pushBack _u;
 
 _k pushBack "Armored_0";
