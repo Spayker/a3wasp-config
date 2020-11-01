@@ -173,10 +173,26 @@ _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 4;
 
 //--- Heavy Vehicles
+_u = ["CUP_B_M113_desert_USA"];
+_u pushBack "CUP_B_M113_desert_USA";
+
+_aiTeamTemplateName pushBack "M113 Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Heavy';
+_aiTeamUpgrades pushBack 0;
+
 _u = ["CUP_B_FV432_Bulldog_GB_D_RWS"];
 _u pushBack "CUP_B_FV432_Bulldog_GB_D_RWS";
 
 _aiTeamTemplateName pushBack "Bulldog MG RWS Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Heavy';
+_aiTeamUpgrades pushBack 0;
+
+_u = ["CUP_B_AAV_USMC"];
+_u pushBack "CUP_B_AAV_USMC";
+
+_aiTeamTemplateName pushBack "AAV Apc Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 0;
@@ -196,6 +212,14 @@ _aiTeamTemplateName pushBack "M113 Vulcan AA Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 2;
+
+_u = ["CUP_B_MCV80_GB_D"];
+_u pushBack "CUP_B_MCV80_GB_D";
+
+_aiTeamTemplateName pushBack "MCV80 Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Heavy';
+_aiTeamUpgrades pushBack 1;
 
 _u = ["CUP_B_M2Bradley_USA_D"];
 _u pushBack "CUP_B_M2Bradley_USA_D";
