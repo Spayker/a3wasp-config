@@ -12,8 +12,8 @@ missionNamespace setVariable [Format["WF_%1ENGINEER", _side], 'CUP_O_RU_Soldier_
 //--- Flag texture.
 missionNamespace setVariable [Format["WF_%1FLAG", _side], 'RSC\Pictures\flag_rus_co.paa'];
 
-missionNamespace setVariable ["WF_AMBULANCES", (missionNamespace getVariable ["WF_AMBULANCES", []]) + ['CUP_O_LR_Ambulance_TKA','CUP_O_BMP2_AMB_RU','CUP_O_Mi8_medevac_RU','CUP_O_GAZ_Vodnik_MedEvac_RU']];
-missionNamespace setVariable [format["WF_AMBULANCES_%1", _side], ['CUP_O_LR_Ambulance_TKA','CUP_O_BMP2_AMB_RU','CUP_O_Mi8_medevac_RU','CUP_O_GAZ_Vodnik_MedEvac_RU']];
+missionNamespace setVariable ["WF_AMBULANCES", (missionNamespace getVariable ["WF_AMBULANCES", []]) + ['CUP_O_LR_Ambulance_TKA','CUP_O_BMP_HQ_TKA','CUP_O_Mi8_medevac_RU','CUP_O_GAZ_Vodnik_MedEvac_RU']];
+missionNamespace setVariable [format["WF_AMBULANCES_%1", _side], ['CUP_O_LR_Ambulance_TKA','CUP_O_BMP_HQ_TKA','CUP_O_Mi8_medevac_RU','CUP_O_GAZ_Vodnik_MedEvac_RU']];
 missionNamespace setVariable [Format["WF_%1REPAIRTRUCKS", _side], ['CUP_O_Ural_Repair_TKA','CUP_O_Kamaz_Repair_RU']];
 missionNamespace setVariable [Format["WF_%1SALVAGETRUCK", _side], ['CUP_O_Kamaz_RU']];
 missionNamespace setVariable [Format["WF_%1SUPPLY_TRUCK", _side], 'CUP_O_Kamaz_Reammo_RU'];
