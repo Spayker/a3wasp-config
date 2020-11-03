@@ -27,7 +27,7 @@ _u pushBack "CUP_O_RU_Soldier_MG_Ratnik_Summer";
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_Summer";
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_Summer";
 _u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_Summer";
-_u pushBack "CUP_O_RU_Engineer_Ratnik_Summer";
+_u pushBack "CUP_O_RU_Soldier_Engineer_Ratnik_Summer";
 _u pushBack "CUP_O_RU_Soldier_GL_Ratnik_Summer";
 
 _aiTeamTemplateName pushBack "Medium Assault Infantry Squad";

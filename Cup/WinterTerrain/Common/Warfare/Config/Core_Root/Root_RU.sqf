@@ -65,7 +65,7 @@ if (isServer) then {
 //--- Base Patrols.
 if ((missionNamespace getVariable "WF_C_BASE_PATROLS_INFANTRY") > 0) then {
 	missionNamespace setVariable [Format["WF_%1BASEPATROLS_0", _side],['CUP_O_RU_Soldier_SL_Ratnik_Summer','CUP_O_RU_Soldier_Ratnik_Summer','CUP_O_RU_Soldier_Ratnik_Summer','CUP_O_RU_Soldier_GL_Ratnik_Summer','CUP_O_RU_Soldier_GL_Ratnik_Summer','']];
-	missionNamespace setVariable [Format["WF_%1BASEPATROLS_1", _side],['CUP_O_RU_Soldier_SL_Ratnik_Summer','CUP_O_RU_Medic_Ratnik_Summer','CUP_O_RU_Soldier_Ratnik_Summer','CUP_O_RU_Soldier_AR_Ratnik_Summer','','CUP_O_RU_Engineer_Ratnik_Summer']];
+	missionNamespace setVariable [Format["WF_%1BASEPATROLS_1", _side],['CUP_O_RU_Soldier_SL_Ratnik_Summer','CUP_O_RU_Medic_Ratnik_Summer','CUP_O_RU_Soldier_Ratnik_Summer','CUP_O_RU_Soldier_AR_Ratnik_Summer','','CUP_O_RU_Soldier_Engineer_Ratnik_Summer']];
 	missionNamespace setVariable [Format["WF_%1BASEPATROLS_2", _side],['CUP_O_RU_Soldier_SL_Ratnik_Summer','CUP_O_RU_Soldier_Ratnik_Summer','CUP_O_RU_Soldier_MG_Ratnik_Summer','CUP_O_RU_Soldier_LAT_Ratnik_Summer','CUP_O_RU_Soldier_LAT_Ratnik_Summer','CUP_O_RU_Soldier_Marksman_Ratnik_Summer']];
 	missionNamespace setVariable [Format["WF_%1BASEPATROLS_3", _side],['CUP_O_RU_Soldier_SL_Ratnik_Summer','CUP_O_RU_Soldier_AA_Ratnik_Summer','CUP_O_RU_Soldier_MG_Ratnik_Summer','CUP_O_RU_Soldier_AT_Ratnik_Summer','CUP_O_RU_Soldier_LAT_Ratnik_Summer','CUP_O_RU_Soldier_GL_Ratnik_Summer']];
 	missionNamespace setVariable [Format["WF_%1BASEPATROLS_4", _side],['CUP_O_RU_Soldier_SL_Ratnik_Summer','CUP_O_RU_Soldier_AA_Ratnik_Summer','CUP_O_RU_Soldier_MG_Ratnik_Summer','CUP_O_RU_Soldier_AT_Ratnik_Summer','CUP_O_RU_Soldier_LAT_Ratnik_Summer','CUP_O_RU_Soldier_GL_Ratnik_Summer']];
