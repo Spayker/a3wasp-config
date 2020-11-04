@@ -305,7 +305,7 @@ _c pushBack 'CUP_B_AAV_USMC';
 _i pushBack ['','',1500,21,-2,0,1,0,'USA (Army - W)',[],1];
 
 _c pushBack 'CUP_B_M113_Med_USA';
-_i pushBack ['M113 (AMBU)','',3880,24,-2,0,2,0,'USA (Army - W)',[], 1];
+_i pushBack ['(AMBU) M113','',3880,24,-2,0,2,0,'USA (Army - W)',[], 1];
 
 _c pushBack 'CUP_B_M7Bradley_USA_D';
 _i pushBack ['','',2200,24,-2,0,2,0,'USA (Army - W)',[]];
