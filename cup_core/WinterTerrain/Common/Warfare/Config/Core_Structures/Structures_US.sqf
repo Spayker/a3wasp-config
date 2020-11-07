@@ -161,6 +161,8 @@ _n pushBack "CUP_B_TOW_TriPod_US";
 _n pushBack "CUP_B_MK19_TriPod_US";
 _n pushBack "B_Radar_System_01_F";
 _n pushBack "B_SAM_System_03_F";
+_n pushBack "CUP_WV_B_CRAM";
+_n pushBack "B_AAA_System_01_F";
 
 // static walls
 _n pushBack "Land_BagFenceShort";

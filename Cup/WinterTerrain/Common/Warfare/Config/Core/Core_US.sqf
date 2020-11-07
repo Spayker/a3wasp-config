@@ -463,6 +463,12 @@ _i pushBack ['','',2000,0,1,0,'Defense',0,'USA (Army - D)',[]];
 _c pushBack 'B_SAM_System_03_F';
 _i pushBack ['','',10000,0,1,0,'Defense',0,'USA (Army - D)',[]];
 
+_c pushBack 'CUP_WV_B_CRAM';
+_i pushBack ['','',10000,0,1,0,'Defense',0,'USA (Army - D)',[]];
+
+_c pushBack 'B_AAA_System_01_F';
+_i pushBack ['','',10000,0,1,0,'Defense',0,'USA (Army - D)',[]];
+
 //Defense Structures
 _c pushBack 'CamoNet_BLUFOR_F';
 _i pushBack ['','',1350,0,0,0,'Strategic',0,'USA (NATO)',[]];
