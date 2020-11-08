@@ -262,7 +262,7 @@ _c pushBack 'CUP_O_BM21_RU';
 _i pushBack ['','',25879,28,-2,4,1,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_GAZ_Vodnik_MedEvac_RU';
-_i pushBack ['GAZ-Vodnik (AMBU)','',3380,23,-2,2,1,0,'CUP - Russia',[]];
+_i pushBack ['(AMBU) GAZ-Vodnik','',3380,23,-2,2,1,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_Kamaz_Repair_RU' ;
 _i pushBack ['(Repair Truck) kamaz','',2880,23,-2,2,1,0,'CUP - Russia',[]];
@@ -290,7 +290,7 @@ _c pushBack 'CUP_O_MTLB_pk_WDL_RU';
 _i pushBack ['','',1000,23,-2,0,2,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_BMP2_AMB_RU';
-_i pushBack ['BMP-2 (AMBU)','',3880,23,-2,0,2,0,'CUP - Russia',[]];
+_i pushBack ['(AMBU) BMP-2','',3880,23,-2,0,2,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_BMP1P_CSAT_T';
 _i pushBack ['','',2600,23,-2,0,2,0,'CUP - Russia',[]];
@@ -420,6 +420,12 @@ _c pushBack 'O_Radar_System_02_F';
 _i pushBack ['','',2000,0,1,0,'Defense',0,'CUP - Russia',[]];
 
 _c pushBack 'O_SAM_System_04_F';
+_i pushBack ['','',10000,0,1,0,'Defense',0,'CUP - Russia',[]];
+
+_c pushBack 'CUP_WV_B_CRAM_OPFOR';
+_i pushBack ['','',10000,0,1,0,'Defense',0,'CUP - Russia',[]];
+
+_c pushBack 'B_AAA_System_01_F_OPFOR';
 _i pushBack ['','',10000,0,1,0,'Defense',0,'CUP - Russia',[]];
 
 //Defense Structures

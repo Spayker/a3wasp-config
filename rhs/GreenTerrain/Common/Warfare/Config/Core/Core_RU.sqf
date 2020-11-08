@@ -544,7 +544,7 @@ _c pushBack'rhs_gaz66_zu23_msv' ;
 _i pushBack['','',955,21,-2,2,1,0,'Russia (MSV)',[]];
 
 _c pushBack'rhs_gaz66_ap2_msv';
-_i pushBack['GAZ-66-AP-2(AMBU)','',3380,23,-2,2,1,0,'Russia (MSV)',[]];
+_i pushBack['(AMBU) GAZ-66-AP-2','',3380,23,-2,2,1,0,'Russia (MSV)',[]];
 
 _c pushBack'rhs_gaz66_repair_msv' ;
 _i pushBack['(Repair Truck) gaz66','',2880,23,-2,1,1,0,'Russia (MSV)',[]];

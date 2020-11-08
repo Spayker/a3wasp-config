@@ -408,6 +408,8 @@ _n pushBack "CUP_O_SPG9_ChDKZ";
 _n pushBack "CUP_O_ZU23_RU";
 _n pushBack "O_Radar_System_02_F";
 _n pushBack "O_SAM_System_04_F";
+_n pushBack "CUP_WV_B_CRAM_OPFOR";
+_n pushBack "B_AAA_System_01_F_OPFOR";
 
 // static walls
 _n pushBack "Land_HBarrier_Big_F";
