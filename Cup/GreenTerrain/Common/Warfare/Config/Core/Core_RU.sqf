@@ -362,6 +362,9 @@ _i pushBack ['Su-25','',41760,61,-2,3,3,0,'CUP - Russia',[]];
 _c pushBack 'CUP_O_AN2_TK';
 _i pushBack ['','',13560,67,-2,0,3,0,'CUP - Russia',[]];
 
+_c pushBack 'il76td_RussianAirForce';
+_i pushBack ['','',15800,43,-2,1,3,0,'CUP - Russia',[]];
+
 _c pushBack 'CUP_O_C47_SLA';
 _i pushBack ['','',15560,67,-2,0,3,0,'CUP - Russia',[]];
 
