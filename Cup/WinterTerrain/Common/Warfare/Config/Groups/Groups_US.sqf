@@ -262,9 +262,9 @@ _u pushBack "CUP_B_M1A1_Woodland_US_Army";
 _l pushBack _u;
 
 _k pushBack "Armored_3";
-_u		= ["CUP_B_M1A1_Woodland_US_Army"];
-_u pushBack "CUP_B_M1A2_TUSK_MG_US_Army";
-_u pushBack "CUP_B_M1A2_TUSK_MG_US_Army";
+_u		= ["CUP_B_Leopard2A6_GER"];
+_u pushBack "CUP_B_Leopard2A6_GER";
+_u pushBack "CUP_B_Leopard2A6_GER";
 _l pushBack _u;
 
 _k pushBack "Air_Light_0";

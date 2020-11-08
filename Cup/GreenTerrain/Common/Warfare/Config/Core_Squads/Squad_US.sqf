@@ -253,18 +253,11 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 3;
 
+
 _u		= ["CUP_B_Leopard2A6_GER"];
 _u pushBack "CUP_B_Leopard2A6_GER";
 
 _aiTeamTemplateName pushBack "Leopard Group";
-_aiTeamTemplates pushBack _u;
-_aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 4;
-
-_u		= ["CUP_B_M1A2_TUSK_MG_US_Army"];
-_u pushBack "CUP_B_M1A2_TUSK_MG_US_Army";
-
-_aiTeamTemplateName pushBack "M1A2 Abrams Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 4;
