@@ -422,6 +422,12 @@ _i pushBack ['','',2000,0,1,0,'Defense',0,'CUP - Russia',[]];
 _c pushBack 'O_SAM_System_04_F';
 _i pushBack ['','',10000,0,1,0,'Defense',0,'CUP - Russia',[]];
 
+_c pushBack 'CUP_WV_B_CRAM_OPFOR';
+_i pushBack ['','',10000,0,1,0,'Defense',0,'CUP - Russia',[]];
+
+_c pushBack 'B_AAA_System_01_F_OPFOR';
+_i pushBack ['','',10000,0,1,0,'Defense',0,'CUP - Russia',[]];
+
 //Defense Structures
 _c pushBack'CamoNet_INDP_F';
 _i pushBack['','',350,0,0,0,'Strategic',0,'CUP - Russia',[]];
