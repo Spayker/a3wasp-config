@@ -11,7 +11,7 @@ _i pushBack 'MineDetector';
 _u pushBack 0;
 _p pushBack 75;
 
-_i pushBack 'CUP_NVG_HMNVS_WASP';
+_i pushBack 'CUP_NVG_HMNVS';
 _u pushBack 0;
 _p pushBack 150;
 
