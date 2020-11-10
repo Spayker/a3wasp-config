@@ -139,6 +139,10 @@ _i pushBack 'CUP_arifle_L85A2_G';
 _u pushBack 0;
 _p pushBack 400;
 
+_i pushBack 'CUP_arifle_L85A2_Elcan_Laser';
+_u pushBack 1;
+_p pushBack 450;
+
 _i pushBack 'CUP_arifle_XM8_Railed';
 _u pushBack 0;
 _p pushBack 400;
@@ -400,6 +404,18 @@ _i pushBack 'CUP_V_B_USArmy_PilotVest';
 _u pushBack 2;
 _p pushBack 150;
 
+_i pushBack 'CUP_V_B_BAF_MTP_Osprey_Mk4_AutomaticRifleman';
+_u pushBack 3;
+_p pushBack 200;
+
+_i pushBack 'CUP_V_B_BAF_MTP_Osprey_Mk4_Officer';
+_u pushBack 3;
+_p pushBack 200;
+
+_i pushBack 'CUP_V_B_BAF_DDPM_Osprey_Mk3_Rifleman';
+_u pushBack 3;
+_p pushBack 200;
+
 _i pushBack 'CUP_V_B_IOTV_Rifleman';
 _u pushBack 3;
 _p pushBack 200;
@@ -445,6 +461,18 @@ _u pushBack 4;
 _p pushBack 300;
 
 //--Uniform--
+_i pushBack 'CUP_U_B_BAF_MTP_UBACSLONGKNEE';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_B_BAF_MTP_UBACSROLLED_Gloves';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_B_BAF_DDPM_UBACSLONGKNEE_Gloves';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_U_CRYE_G3C_MC_US';
 _u pushBack 0;
 _p pushBack 25;
@@ -517,6 +545,18 @@ _p pushBack 50;
 _i pushBack 'G_AirPurifyingRespirator_01_F';
 _u pushBack 0;
 _p pushBack 50;
+
+_i pushBack 'CUP_H_BAF_MTP_Mk7';
+_u pushBack 2;
+_p pushBack 120;
+
+_i pushBack 'CUP_H_BAF_MTP_Mk7_PRR_SCRIM_A';
+_u pushBack 2;
+_p pushBack 120;
+
+_i pushBack 'CUP_H_BAF_DDPM_Mk6_GOGGLES_PRR';
+_u pushBack 2;
+_p pushBack 120;
 
 _i pushBack 'CUP_H_USArmy_Helmet_ECH2_Black';
 _u pushBack 2;

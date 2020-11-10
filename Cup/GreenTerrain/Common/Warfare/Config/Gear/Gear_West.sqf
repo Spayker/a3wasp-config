@@ -127,6 +127,10 @@ _i pushBack 'CUP_arifle_G36K';
 _u pushBack 1;
 _p pushBack 450;
 
+_i pushBack 'CUP_CZ_BREN2_556_11_Grn';
+_u pushBack 1;
+_p pushBack 350;
+
 _i pushBack 'CUP_arifle_G36A_camo';
 _u pushBack 1;
 _p pushBack 450;
@@ -138,6 +142,10 @@ _p pushBack 450;
 _i pushBack 'CUP_arifle_L85A2_G';
 _u pushBack 0;
 _p pushBack 400;
+
+_i pushBack 'CUP_arifle_L85A2_Elcan_Laser';
+_u pushBack 1;
+_p pushBack 450;
 
 _i pushBack 'CUP_arifle_XM8_Railed';
 _u pushBack 0;
@@ -348,6 +356,22 @@ _u pushBack 1;
 _p pushBack 50;
 
 //--Uniform--
+_i pushBack 'CUP_U_B_BAF_MTP_UBACSLONGKNEE';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_B_BAF_MTP_UBACSROLLED_Gloves';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_B_BAF_DPM_UBACSLONGKNEE_Gloves';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_B_CZ_WDL_Kneepads';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_U_B_USMC_FROG4_WMARPAT';
 _u pushBack 0;
 _p pushBack 25;
@@ -425,11 +449,27 @@ _i pushBack 'V_TacVest_oli';
 _u pushBack 1;
 _p pushBack 100;
 
+_i pushBack 'CUP_V_B_BAF_MTP_Osprey_Mk4_AutomaticRifleman';
+_u pushBack 3;
+_p pushBack 200;
+
+_i pushBack 'CUP_V_B_BAF_DPM_Osprey_Mk3_Rifleman';
+_u pushBack 3;
+_p pushBack 200;
+
 _i pushBack 'CUP_V_B_GER_PVest_Fleck_RFL_LT';
 _u pushBack 3;
 _p pushBack 200;
 
 _i pushBack 'CUP_V_CPC_tlbelt_rngr';
+_u pushBack 3;
+_p pushBack 200;
+
+_i pushBack 'CUP_V_CZ_vest08';
+_u pushBack 3;
+_p pushBack 200;
+
+_i pushBack 'CUP_V_B_BAF_MTP_Osprey_Mk4_Officer';
 _u pushBack 3;
 _p pushBack 200;
 
@@ -510,9 +550,25 @@ _i pushBack 'CUP_H_USArmy_Helmet_Pro_gog';
 _u pushBack 1;
 _p pushBack 80;
 
+_i pushBack 'CUP_H_BAF_MTP_Mk7';
+_u pushBack 2;
+_p pushBack 120;
+
+_i pushBack 'CUP_H_BAF_MTP_Mk7_PRR_SCRIM_A';
+_u pushBack 2;
+_p pushBack 120;
+
+_i pushBack 'CUP_H_BAF_DPM_Mk6_GOGGLES_PRR';
+_u pushBack 2;
+_p pushBack 120;
+
 _i pushBack 'CUP_H_USArmy_Helmet_ECH2_GREEN';
 _u pushBack 2;
-_p pushBack 35;
+_p pushBack 120;
+
+_i pushBack 'CUP_H_CZ_Helmet04';
+_u pushBack 2;
+_p pushBack 120;
 
 _i pushBack 'CUP_H_GER_LWH_Flecktarn';
 _u pushBack 2;

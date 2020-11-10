@@ -435,25 +435,29 @@ _i pushBack 'CUP_H_SLA_TankerHelmet';
 _u pushBack 1;
 _p pushBack 80;
 
+_i pushBack 'CUP_H_RUS_6B27_cover_BeigeDigital_goggles';
+_u pushBack 2;
+_p pushBack 120;
+
 _i pushBack 'CUP_H_RUS_6B46';
 _u pushBack 2;
 _p pushBack 120;
 
 _i pushBack 'CUP_H_RUS_6B47_SF_headset_goggles_desert';
-_u pushBack 2;
-_p pushBack 120;
-
-_i pushBack 'CUP_H_RUS_6B27_cover_BeigeDigital_goggles';
-_u pushBack 2;
-_p pushBack 120;
+_u pushBack 3;
+_p pushBack 160;
 
 _i pushBack 'CUP_H_RUS_6B47_v2_GogglesDown_BeigeDigital';
-_u pushBack 2;
-_p pushBack 120;
+_u pushBack 3;
+_p pushBack 160;
 
 _i pushBack 'CUP_H_RUS_6B47_goggles_desert';
-_u pushBack 2;
-_p pushBack 120;
+_u pushBack 3;
+_p pushBack 160;
+
+_i pushBack 'CUP_H_RUS_6B47_headset_goggles';
+_u pushBack 3;
+_p pushBack 160;
 
 _i pushBack 'CUP_H_RUS_Altyn_Shield_Up_black';
 _u pushBack 4;

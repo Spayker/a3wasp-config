@@ -435,6 +435,10 @@ _i pushBack 'CUP_H_RUS_6B47_v2_GogglesDown_Summer';
 _u pushBack 3;
 _p pushBack 160;
 
+_i pushBack 'CUP_H_RUS_6B47_headset_goggles';
+_u pushBack 3;
+_p pushBack 160;
+
 _i pushBack 'CUP_H_RUS_ZSH_1_Goggles';
 _u pushBack 4;
 _p pushBack 200;
