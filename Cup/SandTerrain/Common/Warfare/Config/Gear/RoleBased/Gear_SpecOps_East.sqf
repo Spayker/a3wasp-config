@@ -36,17 +36,5 @@ _i pushBack  "CUP_arifle_AS_VAL_flash_top";
 _u pushBack  3;
 _p pushBack  235;
 
-_i pushBack  "U_O_Wetsuit";
-_u pushBack  3;
-_p pushBack  300;
-
-_i pushBack  "V_RebreatherIR";
-_u pushBack  3;
-_p pushBack  100;
-
-_i pushBack  "G_O_Diving";
-_u pushBack  1;
-_p pushBack  130;
-
 
 [_faction, _i, _u, _p, WF_SPECOPS] call compile preprocessFileLineNumbers "Common\Warfare\Config\Gear\Gear_Role_Config_Set.sqf";

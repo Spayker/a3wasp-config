@@ -347,7 +347,15 @@ _i pushBack 'CUP_30Rnd_556x45_XM8';
 _u pushBack 1;
 _p pushBack 50;
 
+_i pushBack 'U_B_Wetsuit';
+_u pushBack 0;
+_p pushBack 100;
+
 //--Vests--
+_i pushBack 'V_RebreatherB';
+_u pushBack 0;
+_p pushBack 50;
+
 _i pushBack 'V_Rangemaster_belt';
 _u pushBack 0;
 _p pushBack 50;

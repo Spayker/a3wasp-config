@@ -28,17 +28,5 @@ _i pushBack  "20Rnd_556x45_UW_mag";
 _u pushBack  0;
 _p pushBack  15;
 
-_i pushBack  "U_B_Wetsuit";
-_u pushBack  3;
-_p pushBack  300;
-
-_i pushBack  "V_RebreatherB";
-_u pushBack  3;
-_p pushBack  100;
-
-_i pushBack  "G_B_Diving";
-_u pushBack  4;
-_p pushBack  150;
-
 
 [_faction, _i, _u, _p, WF_SPECOPS] call compile preprocessFileLineNumbers "Common\Warfare\Config\Gear\Gear_Role_Config_Set.sqf";

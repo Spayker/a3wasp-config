@@ -39,10 +39,6 @@ _i pushBack  "V_TacVest_camo";
 _u pushBack  1;
 _p pushBack  100;
 
-//_i pushBack  "V_RebreatherB";
-//_u pushBack  3;
-//_p pushBack  100;
-
 //_i pushBack  "B_UAV_01_backpack_F";
 //_u pushBack  4;
 //_p pushBack  1000;

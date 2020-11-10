@@ -333,7 +333,15 @@ _i pushBack 'CUP_U_O_RUS_Ratnik_Summer';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'U_O_Wetsuit';
+_u pushBack 0;
+_p pushBack 100;
+
 //--Vests--
+_i pushBack 'V_RebreatherIR';
+_u pushBack 0;
+_p pushBack 50;
+
 _i pushBack 'CUP_V_CDF_OfficerBelt';
 _u pushBack 0;
 _p pushBack 50;
@@ -939,9 +947,17 @@ _i pushBack 'CUP_muzzle_snds_KZRZP_AK762';
 _u pushBack 2;
 _p pushBack 400;
 
+_i pushBack 'CUP_muzzle_snds_KZRZP_SVD';
+_u pushBack 2;
+_p pushBack 400;
+
 _i pushBack 'CUP_muzzle_mfsup_Flashhider_762x39_Black';
 _u pushBack 1;
 _p pushBack 150;
+
+_i pushBack 'CUP_muzzle_snds_AWM';
+_u pushBack 1;
+_p pushBack 300;
 
 _i pushBack 'CUP_muzzle_PBS4';
 _u pushBack 1;

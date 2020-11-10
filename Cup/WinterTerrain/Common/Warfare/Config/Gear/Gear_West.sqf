@@ -392,7 +392,15 @@ _i pushBack 'CUP_U_B_USMC_MARPAT_WDL_TwoKneepads';
 _u pushBack 3;
 _p pushBack 55;
 
+_i pushBack 'U_B_Wetsuit';
+_u pushBack 0;
+_p pushBack 100;
+
 //--Vests--
+_i pushBack 'V_RebreatherB';
+_u pushBack 0;
+_p pushBack 50;
+
 _i pushBack 'CUP_V_B_ALICE';
 _u pushBack 0;
 _p pushBack 50;

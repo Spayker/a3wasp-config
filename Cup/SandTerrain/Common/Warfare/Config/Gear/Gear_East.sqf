@@ -357,7 +357,15 @@ _i pushBack 'CUP_U_O_RUS_Gorka_Partizan_A_gloves_kneepads';
 _u pushBack 4;
 _p pushBack 65;
 
+_i pushBack 'U_O_Wetsuit';
+_u pushBack 0;
+_p pushBack 100;
+
 //--Vests--
+_i pushBack 'V_RebreatherIR';
+_u pushBack 0;
+_p pushBack 50;
+
 _i pushBack 'CUP_V_O_TK_Vest_1';
 _u pushBack 0;
 _p pushBack 50;
