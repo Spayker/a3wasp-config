@@ -39,6 +39,10 @@ _i pushBack  "Chemlight_blue";
 _u pushBack  0;
 _p pushBack  2;
 
+_i pushBack  "ChemicalDetector_01_watch_F";
+_u pushBack  0;
+_p pushBack  75;
+
 _i pushBack  "DemoCharge_Remote_Mag";
 _u pushBack  1;
 _p pushBack  150;
@@ -202,5 +206,9 @@ _p pushBack  250;
 _i pushBack  "bipod_01_F_mtp";
 _u pushBack  3;
 _p pushBack  50;
+
+_i pushBack  "B_CombinationUnitRespirator_01_F";
+_u pushBack  0;
+_p pushBack  150;
 
 [_faction, _i, _u, _p] call compile preprocessFileLineNumbers "Common\Warfare\Config\Gear\Gear_Config_Set.sqf";

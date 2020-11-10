@@ -396,6 +396,10 @@ _i pushBack 'U_B_Wetsuit';
 _u pushBack 0;
 _p pushBack 100;
 
+_i pushBack 'U_B_CBRN_Suit_01_Wdl_F';
+_u pushBack 0;
+_p pushBack 100;
+
 //--Vests--
 _i pushBack 'V_RebreatherB';
 _u pushBack 0;
@@ -593,6 +597,22 @@ _p pushBack 5;
 _i pushBack 'G_B_Diving';
 _u pushBack 0;
 _p pushBack 5;
+
+_i pushBack 'G_RegulatorMask_F';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'G_AirPurifyingRespirator_02_sand_F';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'G_AirPurifyingRespirator_02_black_F';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'G_AirPurifyingRespirator_01_F';
+_u pushBack 0;
+_p pushBack 50;
 
 _i pushBack 'CUP_H_FR_Headset';
 _u pushBack 0;

@@ -337,6 +337,10 @@ _i pushBack 'U_O_Wetsuit';
 _u pushBack 0;
 _p pushBack 100;
 
+_i pushBack 'U_O_R_Gorka_01_camo_F';
+_u pushBack 0;
+_p pushBack 100;
+
 //--Vests--
 _i pushBack 'V_RebreatherIR';
 _u pushBack 0;
@@ -554,6 +558,22 @@ _p pushBack 5;
 _i pushBack 'G_O_Diving';
 _u pushBack 0;
 _p pushBack 5;
+
+_i pushBack 'G_RegulatorMask_F';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'G_AirPurifyingRespirator_02_sand_F';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'G_AirPurifyingRespirator_02_black_F';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'G_AirPurifyingRespirator_01_F';
+_u pushBack 0;
+_p pushBack 50;
 
 _i pushBack 'CUP_H_NAPA_Fedora';
 _u pushBack 0;
