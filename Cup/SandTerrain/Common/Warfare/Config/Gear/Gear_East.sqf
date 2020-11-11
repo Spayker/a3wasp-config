@@ -615,6 +615,10 @@ _i pushBack 'G_AirPurifyingRespirator_02_sand_F';
 _u pushBack 0;
 _p pushBack 50;
 
+_i pushBack 'G_AirPurifyingRespirator_02_olive_F';
+_u pushBack 0;
+_p pushBack 50;
+
 _i pushBack 'G_AirPurifyingRespirator_02_black_F';
 _u pushBack 0;
 _p pushBack 50;
