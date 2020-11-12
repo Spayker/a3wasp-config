@@ -98,6 +98,10 @@ _i pushBack 'CUP_arifle_AK74M_railed_afg';
 _u pushBack 1;
 _p pushBack 350;
 
+_i pushBack 'CUP_arifle_AK74M_railed_desert';
+_u pushBack 1;
+_p pushBack 350;
+
 _i pushBack 'CUP_arifle_AKM';
 _u pushBack 0;
 _p pushBack 400;
@@ -723,7 +727,7 @@ _i pushBack 'CUP_T10_Parachute_backpack';
 _u pushBack 0;
 _p pushBack 250;
 
-_i pushBack 'B_Bergen_mcamo_F';
+_i pushBack 'B_Bergen_dgtl_F';
 _u pushBack 4;
 _p pushBack 500;
 

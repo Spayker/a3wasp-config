@@ -98,6 +98,10 @@ _i pushBack 'CUP_arifle_AK74M_railed_afg';
 _u pushBack 1;
 _p pushBack 350;
 
+_i pushBack 'CUP_arifle_AK74M_railed_camo';
+_u pushBack 1;
+_p pushBack 350;
+
 _i pushBack 'CUP_arifle_AKM';
 _u pushBack 0;
 _p pushBack 400;
@@ -377,6 +381,14 @@ _p pushBack 225;
 _i pushBack 'CUP_Vest_RUS_6B45_Sh117_PKP';
 _u pushBack 3;
 _p pushBack 250;
+
+_i pushBack 'V_CarrierRigKBT_01_light_Olive_F';
+_u pushBack 3;
+_p pushBack 250;
+
+_i pushBack 'V_CarrierRigKBT_01_heavy_Olive_F';
+_u pushBack 4;
+_p pushBack 300;
 
 _i pushBack 'CUP_V_RUS_6B3_1';
 _u pushBack 3;
@@ -659,7 +671,7 @@ _i pushBack 'CUP_T10_Parachute_backpack';
 _u pushBack 0;
 _p pushBack 250;
 
-_i pushBack 'B_Bergen_mcamo_F';
+_i pushBack 'B_Bergen_dgtl_F';
 _u pushBack 4;
 _p pushBack 500;
 

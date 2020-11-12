@@ -465,11 +465,11 @@ _i pushBack 'CUP_V_CPC_tlbelt_rngr';
 _u pushBack 3;
 _p pushBack 200;
 
-_i pushBack 'CUP_V_CZ_vest08';
+_i pushBack 'CUP_V_B_BAF_MTP_Osprey_Mk4_Officer';
 _u pushBack 3;
 _p pushBack 200;
 
-_i pushBack 'CUP_V_B_BAF_MTP_Osprey_Mk4_Officer';
+_i pushBack 'CUP_V_CZ_vest08';
 _u pushBack 3;
 _p pushBack 200;
 
