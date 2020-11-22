@@ -259,6 +259,26 @@ _i pushBack 'CUP_8Rnd_B_Saiga12_74Slug_M';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_5Rnd_B_Saiga12_Slug';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_12Rnd_B_Saiga12_Buck_2';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_12Rnd_B_Saiga12_Bird_4';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_12Rnd_B_Saiga12_HE';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_5Rnd_B_Saiga12_HE';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_64Rnd_9x19_Bizon_M';
 _u pushBack 0;
 _p pushBack 25;
@@ -1399,7 +1419,15 @@ _i pushBack 'Vorona_HEAT';
 _u pushBack 4;
 _p pushBack 500;
 
+_i pushBack 'Vorona_HE';
+_u pushBack 4;
+_p pushBack 500;
+
 _i pushBack 'RPG32_F';
+_u pushBack 3;
+_p pushBack 300;
+
+_i pushBack 'RPG32_HE_F';
 _u pushBack 3;
 _p pushBack 300;
 
