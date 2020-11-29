@@ -45,7 +45,7 @@ _t pushBack "Defense";
 _k pushBack "";
 
 //--- Defenses management for towns.
-if (isServer) then {[_side, _c, _k] Call Compile preprocessFile "Common\Warfare\Config\Config_Defenses_Towns.sqf"};
+if (isServer || isHeadLessClient) then {[_side, _c, _k] Call Compile preprocessFile "Common\Warfare\Config\Config_Defenses_Towns.sqf"};
 
 //--- Fortitications and rest.
 
