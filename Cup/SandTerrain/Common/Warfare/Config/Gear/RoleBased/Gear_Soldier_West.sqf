@@ -60,6 +60,10 @@ _i pushBack 'CUP_arifle_HK417_12_AG36_Desert';
 _u pushBack 3;
 _p pushBack 600;
 
+_i pushBack 'CUP_arifle_HK416_AGL_Desert';
+_u pushBack 2;
+_p pushBack 400;
+
 _i pushBack 'CUP_arifle_ACR_EGLM_tan_68';
 _u pushBack 2;
 _p pushBack 500;
