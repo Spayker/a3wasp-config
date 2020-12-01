@@ -40,7 +40,15 @@ _i pushBack 'CUP_arifle_Mk17_STD_EGLM_black';
 _u pushBack 2;
 _p pushBack 500;
 
+_i pushBack 'CUP_arifle_HK417_12_AG36_Wood';
+_u pushBack 3;
+_p pushBack 500;
+
 _i pushBack 'CUP_arifle_HK416_CQB_AG36';
+_u pushBack 2;
+_p pushBack 400;
+
+_i pushBack 'CUP_arifle_HK416_AGL_Wood';
 _u pushBack 2;
 _p pushBack 400;
 
@@ -53,6 +61,10 @@ _u pushBack 2;
 _p pushBack 400;
 
 _i pushBack 'CUP_arifle_Mk16_CQC_EGLM_black';
+_u pushBack 2;
+_p pushBack 500;
+
+_i pushBack 'CUP_arifle_ACR_EGLM_wdl_68';
 _u pushBack 2;
 _p pushBack 500;
 

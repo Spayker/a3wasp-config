@@ -48,6 +48,10 @@ _i pushBack 'CUP_srifle_M24_des';
 _u pushBack 1;
 _p pushBack 500;
 
+_i pushBack 'CUP_arifle_ACR_DMR_tan_68';
+_u pushBack 1;
+_p pushBack 550;
+
 _i pushBack 'CUP_srifle_M40A3';
 _u pushBack 1;
 _p pushBack 500;

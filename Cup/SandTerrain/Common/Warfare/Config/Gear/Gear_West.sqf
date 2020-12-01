@@ -191,6 +191,30 @@ _i pushBack 'CUP_arifle_Mk20';
 _u pushBack 2;
 _p pushBack 500;
 
+_i pushBack 'CUP_arifle_AUG_A1';
+_u pushBack 1;
+_p pushBack 350;
+
+_i pushBack 'CUP_arifle_ACRC_tan_68';
+_u pushBack 1;
+_p pushBack 350;
+
+_i pushBack 'CUP_arifle_HK417_12_Desert';
+_u pushBack 3;
+_p pushBack 450;
+
+_i pushBack 'CUP_arifle_HK416_Desert';
+_u pushBack 1;
+_p pushBack 350;
+
+_i pushBack 'CUP_Famas_F1_Rail_Arid';
+_u pushBack 1;
+_p pushBack 350;
+
+_i pushBack 'CUP_arifle_Mk17_STD_FG';
+_u pushBack 3;
+_p pushBack 350;
+
 _i pushBack 'CUP_glaunch_Mk13';
 _u pushBack 1;
 _p pushBack 500;
@@ -295,7 +319,19 @@ _i pushBack 'CUP_30Rnd_556x45_Stanag_Mk16';
 _u pushBack 0;
 _p pushBack 30;
 
+_i pushBack 'CUP_30Rnd_680x43_Stanag';
+_u pushBack 0;
+_p pushBack 30;
+
 _i pushBack 'CUP_30Rnd_556x45_PMAG_QP_Tan';
+_u pushBack 0;
+_p pushBack 30;
+
+_i pushBack 'CUP_30Rnd_556x45_PMAG_QP';
+_u pushBack 0;
+_p pushBack 30;
+
+_i pushBack 'CUP_25Rnd_556x45_Famas';
 _u pushBack 0;
 _p pushBack 30;
 
@@ -306,6 +342,10 @@ _p pushBack 30;
 _i pushBack 'CUP_20Rnd_556x45_Stanag';
 _u pushBack 0;
 _p pushBack 20;
+
+_i pushBack 'CUP_30Rnd_556x45_AUG';
+_u pushBack 0;
+_p pushBack 30;
 
 _i pushBack 'CUP_200Rnd_TE4_Green_Tracer_556x45_L110A1';
 _u pushBack 1;
@@ -1459,8 +1499,8 @@ _u pushBack 2;
 _p pushBack 40;
 
 _i pushBack 'CUP_20Rnd_762x51_B_SCAR';
-_u pushBack 2;
-_p pushBack 40;
+_u pushBack 3;
+_p pushBack 50;
 
 _i pushBack 'CUP_20Rnd_TE1_Red_Tracer_762x51_SCAR';
 _u pushBack 2;

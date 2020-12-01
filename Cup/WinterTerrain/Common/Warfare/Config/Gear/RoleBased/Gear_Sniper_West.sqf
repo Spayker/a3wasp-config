@@ -28,6 +28,10 @@ _i pushBack 'CUP_srifle_M14_DMR';
 _u pushBack 1;
 _p pushBack 550;
 
+_i pushBack 'CUP_arifle_ACR_DMR_wdl_68';
+_u pushBack 1;
+_p pushBack 550;
+
 _i pushBack 'CUP_srifle_Mk12SPR';
 _u pushBack 1;
 _p pushBack 500;

@@ -1432,7 +1432,7 @@ _u pushBack 3;
 _p pushBack 300;
 
 _i pushBack 'CUP_5Rnd_127x108_KSVK_M';
-_u pushBack 4;
+_u pushBack 3;
 _p pushBack 50;
 
 _i pushBack 'CUP_5Rnd_86x70_L115A1';
