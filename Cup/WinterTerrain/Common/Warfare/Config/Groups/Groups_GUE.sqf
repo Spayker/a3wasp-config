@@ -226,6 +226,21 @@ _u =      ["CUP_I_Hilux_AGS30_TK"];
 _u pushBack "CUP_I_Hilux_zu23_TK";
 _l pushBack _u;
 
+_k pushBack "Motorized_8";
+_u =      ["I_G_Offroad_01_AT_F"];
+_u pushBack "I_G_Offroad_01_armed_F";
+_l pushBack _u;
+
+_k pushBack "Motorized_9";
+_u =      ["I_C_Offroad_02_AT_F"];
+_u pushBack "I_C_Offroad_02_LMG_F";
+_l pushBack _u;
+
+_k pushBack "Motorized_10";
+_u =      ["CUP_I_LSV_02_AT_ION"];
+_u pushBack "CUP_I_LSV_02_Minigun_ION";
+_l pushBack _u;
+
 _k pushBack "AA_Light_0";
 _u		= ["CUP_I_Hilux_M2_TK"];
 _u pushBack "CUP_I_Hilux_metis_NAPA";

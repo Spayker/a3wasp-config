@@ -89,6 +89,12 @@ _i pushBack ['','',120,4,-1,0,0,0.85,'Guerilla',[]];
 _c pushBack 'CUP_I_UN_CDF_Crew_DST';
 _i pushBack ['','',120,4,-1,0,0,0.85,'Guerilla',[]];
 
+_c pushBack 'I_G_Soldier_F';
+_i pushBack ['','',120,4,-1,0,0,0.85,'Guerilla',[]];
+
+_c pushBack 'I_C_Soldier_Para_1_F';
+_i pushBack ['','',120,4,-1,0,0,0.85,'Guerilla',[]];
+
 _c pushBack 'I_crew_F';
 _i pushBack ['','',120,4,-1,0,0,0.85,'Guerilla',[]];
 
@@ -159,16 +165,31 @@ _i pushBack ['','',250,17,-2,0,1,0,'Guerilla',[]];
 _c pushBack 'CUP_I_Hilux_M2_TK';
 _i pushBack ['','',300,17,-2,0,1,0,'Guerilla',[]];
 
+_c pushBack 'I_G_Offroad_01_armed_F';
+_i pushBack ['','',300,17,-2,0,1,0,'Guerilla',[]];
+
 _c pushBack 'CUP_I_Hilux_SPG9_TK';
 _i pushBack ['','',350,17,-2,0,1,0,'Guerilla',[]];
 
+_c pushBack 'I_C_Offroad_02_AT_F';
+_i pushBack ['','',350,17,-2,0,1,0,'Guerilla',[]];
+
+_c pushBack 'I_G_Offroad_01_AT_F';
+_i pushBack ['','',350,17,-2,0,1,0,'Guerilla',[]];
+
 _c pushBack 'CUP_I_Hilux_DSHKM_TK';
+_i pushBack ['','',325,17,-2,0,1,0,'Guerilla',[]];
+
+_c pushBack 'I_C_Offroad_02_LMG_F';
 _i pushBack ['','',325,17,-2,0,1,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_Hilux_AGS30_TK';
 _i pushBack ['','',400,17,-2,1,1,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_Hilux_metis_NAPA';
+_i pushBack ['','',700,17,-2,1,1,0,'Guerilla',[]];
+
+_c pushBack 'CUP_I_LSV_02_AT_ION';
 _i pushBack ['','',700,17,-2,1,1,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_Hilux_podnos_TK';
