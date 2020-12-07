@@ -56,4 +56,16 @@ _i pushBack 'V_TacVest_oli';
 _u pushBack 1;
 _p pushBack 100;
 
+_i pushBack  "B_Carryall_oli";
+_u pushBack  2;
+_p pushBack  300;
+
+_i pushBack  "B_Carryall_green_F";
+_u pushBack  2;
+_p pushBack  300;
+
+_i pushBack  "B_Carryall_cbr";
+_u pushBack  2;
+_p pushBack  300;
+
 [_faction, _i, _u, _p] call compile preprocessFileLineNumbers "Common\Warfare\Config\Gear\Gear_Config_Set.sqf";

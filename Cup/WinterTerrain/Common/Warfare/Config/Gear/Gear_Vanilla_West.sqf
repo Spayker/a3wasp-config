@@ -39,17 +39,13 @@ _i pushBack  "V_TacVest_camo";
 _u pushBack  1;
 _p pushBack  100;
 
-//_i pushBack  "B_UAV_01_backpack_F";
-//_u pushBack  4;
-//_p pushBack  1000;
+_i pushBack  "B_Carryall_wdl_F";
+_u pushBack  2;
+_p pushBack  300;
 
-//_i pushBack  "B_UavTerminal";
-//_u pushBack  4;
-//_p pushBack  500;
-
-//_i pushBack  "Rangefinder";
-//_u pushBack  2;
-//_p pushBack  100;
+_i pushBack  "B_Carryall_mcamo";
+_u pushBack  2;
+_p pushBack  300;
 
 
 [_faction, _i, _u, _p] call compile preprocessFileLineNumbers "Common\Warfare\Config\Gear\Gear_Config_Set.sqf";

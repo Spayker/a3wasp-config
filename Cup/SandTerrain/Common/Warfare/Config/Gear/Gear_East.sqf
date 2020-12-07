@@ -511,6 +511,10 @@ _i pushBack 'CUP_RUS_Balaclava_blk';
 _u pushBack 0;
 _p pushBack 5;
 
+_i pushBack 'CUP_RUS_Balaclava_tan';
+_u pushBack 0;
+_p pushBack 5;
+
 _i pushBack 'G_Aviator';
 _u pushBack 0;
 _p pushBack 5;
