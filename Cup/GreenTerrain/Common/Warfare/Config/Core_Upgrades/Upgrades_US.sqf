@@ -12,7 +12,7 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_ENABLED", _side], [
 	true, //--- Supply
 	true, //--- Respawn Range
 	if ((missionNamespace getVariable "WF_C_ARTILLERY") > 0) then {true} else {false}, //--- Artillery Time
-	if ((missionNamespace getVariable "WF_C_MODULE_WF_ICBM") > 0) then {true} else {false}, //--- ICBM
+	if ((missionNamespace getVariable "WF_C_MODULE_WF_CRUISE_MISSILE") > 0) then {true} else {false}, //--- Cruise Missile
 	true, //--- Gear
 	false, //--- Build Ammo
 	if ((missionNamespace getVariable "WF_C_MODULE_WF_EASA") > 0) then {true} else {false}, //--- EASA
@@ -34,7 +34,7 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_COSTS", _side], [
 	[[2700,0],[4800,0],[6000,0]], //--- Supply
 	[[500,0],[1500,0]], //--- Respawn Range
 	[[2000,0],[2500,0],[3500,0]], //--- Artillery Time
-	[[40000,80000]], //--- ICBM
+	[[15000,20000]], //--- Cruise Missile
 	[[250,0],[650,0],[1200,0],[2100,0]], //--- Gear
 	[[750,0]], //--- Build Ammo
 	[[4000,0]], //--- EASA
@@ -56,7 +56,7 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_LEVELS", _side], [
 	3, //--- Supply
 	2, //--- Respawn Range
 	3, //--- Artillery Time
-	1, //--- ICBM
+	1, //--- Cruise Missile
 	4, //--- Gear
 	1, //--- Build Ammo
 	1, //--- EASA
@@ -86,7 +86,7 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_LINKS", _side], [
 		[[WF_UP_BARRACKS,2],[WF_UP_LIGHT,2]],
 		[[WF_UP_BARRACKS,3],[WF_UP_LIGHT,3]]
 	], //--- Artillery Time
-	[[WF_UP_AIR,3]], //--- ICBM
+	[[WF_UP_AIR,3]], //--- Cruise Missile
 	[[],[],[],[]], //--- Gear
 	[[WF_UP_GEAR,4]], //--- Build Ammo
 	[[WF_UP_AIR,1]], //--- EASA
@@ -116,7 +116,7 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_TIMES", _side], [
 	[60,80,120], //--- Supply
 	[30,60,90], //--- Respawn Range
 	[40,80,120], //--- Artillery Time
-	[300], //--- ICBM
+	[300], //--- Cruise Missile
 	[25,50,75,100], //--- Gear
 	[40], //--- Build Ammo
 	[90], //--- EASA
