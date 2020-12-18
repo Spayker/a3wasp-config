@@ -177,7 +177,7 @@ _i pushBack ['','',150,20,-2,0,1,0,'CUP - Russia',[]];
 _c pushBack 'CUP_C_TT650_RU';
 _i pushBack ['','',250,25,-2,0,1,0,'CUP - Russia',[]];
 
-_c pushBack 'CUP_O_BTR90_RU';
+_c pushBack 'CUP_O_BTR90_RU_WASP';
 _i pushBack ['','',2800,25,-2,3,1,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_GAZ_Vodnik_BPPU_RU';
@@ -304,7 +304,7 @@ _i pushBack ['','',3000,23,-2,1,2,0,'CUP - Russia',[]];
 _c pushBack 'CUP_O_BMP2_ZU_TKA' ;
 _i pushBack ['','',2000,23,-2,0,2,0,'CUP - Russia',[], 3];
 
-_c pushBack 'CUP_O_BMP3_RU' ;
+_c pushBack 'CUP_O_BMP3_RU_WASP' ;
 _i pushBack ['','',4700,25,-2,2,2,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_T55_TK' ;

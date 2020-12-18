@@ -51,13 +51,13 @@ if (isServer) then {
 	missionNamespace setVariable [Format["WF_%1_PATROL_MEDIUM", _side], [
 		['CUP_O_BRDM2_RUS','CUP_O_BRDM2_ATGM_RUS'],
 		['CUP_O_Ural_RU','CUP_O_RU_Soldier_SL_Ratnik_Summer','CUP_O_RU_Soldier_AT_Ratnik_Summer','CUP_O_RU_Soldier_MG_Ratnik_Summer','CUP_O_RU_Soldier_LAT_Ratnik_Summer'],
-		['CUP_O_BMP3_RU','CUP_O_RU_Soldier_AA_Ratnik_Summer','CUP_O_RU_Soldier_AA_Ratnik_Summer','CUP_O_RU_Medic_Ratnik_Summer']
+		['CUP_O_BMP3_RU_WASP','CUP_O_RU_Soldier_AA_Ratnik_Summer','CUP_O_RU_Soldier_AA_Ratnik_Summer','CUP_O_RU_Medic_Ratnik_Summer']
 	]];
 
 	missionNamespace setVariable [Format["WF_%1_PATROL_HEAVY", _side], [
-		['CUP_O_T72_RU','CUP_O_BMP3_RU'],
+		['CUP_O_T72_RU','CUP_O_BMP3_RU_WASP'],
 		['CUP_O_BMP2_RU','CUP_O_T72_RU'],
-		['CUP_O_BMP3_RU','CUP_O_BMP3_RU','CUP_O_RU_Soldier_SL_Ratnik_Summer','CUP_O_RU_Soldier_MG_Ratnik_Summer','CUP_O_RU_Soldier_Marksman_Ratnik_Summer','CUP_O_RU_Medic_Ratnik_Summer','CUP_O_RU_Soldier_AT_Ratnik_Summer','O_Soldier_AT_F','CUP_O_RU_Soldier_Ratnik_Summer'],
+		['CUP_O_BMP3_RU_WASP','CUP_O_BMP3_RU_WASP','CUP_O_RU_Soldier_SL_Ratnik_Summer','CUP_O_RU_Soldier_MG_Ratnik_Summer','CUP_O_RU_Soldier_Marksman_Ratnik_Summer','CUP_O_RU_Medic_Ratnik_Summer','CUP_O_RU_Soldier_AT_Ratnik_Summer','O_Soldier_AT_F','CUP_O_RU_Soldier_Ratnik_Summer'],
 		['CUP_O_BMP1_CSAT','CUP_O_RU_Soldier_SL_Ratnik_Summer','CUP_O_RU_Medic_Ratnik_Summer','CUP_O_RU_Soldier_Ratnik_Summer','CUP_O_RU_Soldier_Ratnik_Summer','CUP_O_RU_Soldier_AR_Ratnik_Summer']
 	]];
 };

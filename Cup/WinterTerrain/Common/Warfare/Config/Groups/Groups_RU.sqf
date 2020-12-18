@@ -220,7 +220,7 @@ _u pushBack "CUP_O_GAZ_Vodnik_AGS_RU";
 _l pushBack _u;
 
 _k pushBack "Motorized_1";
-_u =      ["CUP_O_BTR90_RU"];
+_u =      ["CUP_O_BTR90_RU_WASP"];
 _u pushBack "CUP_O_BRDM2_RUS";
 _u pushBack "CUP_O_BRDM2_RUS";
 _l pushBack _u;
@@ -274,9 +274,9 @@ _u pushBack "CUP_O_BMP2_RU";
 _l pushBack _u;
 
 _k pushBack "Mechanized_3";
-_u		= ["CUP_O_BMP3_RU"];
-_u pushBack "CUP_O_BMP3_RU";
-_u pushBack "CUP_O_BMP3_RU";
+_u		= ["CUP_O_BMP3_RU_WASP"];
+_u pushBack "CUP_O_BMP3_RU_WASP";
+_u pushBack "CUP_O_BMP3_RU_WASP";
 _l pushBack _u;
 
 _k pushBack "Armored_0";
@@ -285,8 +285,8 @@ _u pushBack "CUP_O_BMP2_RU";
 _l pushBack _u;
 
 _k pushBack "Armored_1";
-_u		= ["CUP_O_BMP3_RU"];
-_u pushBack "CUP_O_BMP3_RU";
+_u		= ["CUP_O_BMP3_RU_WASP"];
+_u pushBack "CUP_O_BMP3_RU_WASP";
 _l pushBack _u;
 
 _k pushBack "Armored_2";

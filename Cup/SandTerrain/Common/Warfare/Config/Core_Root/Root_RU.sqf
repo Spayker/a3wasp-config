@@ -51,13 +51,13 @@ if (isServer) then {
 	missionNamespace setVariable [Format["WF_%1_PATROL_MEDIUM", _side], [
 		['CUP_O_BRDM2_TKA','CUP_O_BRDM2_ATGM_TKA'],
 		['CUP_O_Ural_TKA','CUP_O_RU_Soldier_SL_Ratnik_BeigeDigital','CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital','CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital','CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital'],
-		['CUP_O_BMP3_RU','CUP_O_RU_Soldier_AA_Ratnik_BeigeDigital','CUP_O_RU_Soldier_AA_Ratnik_BeigeDigital','CUP_O_RU_Medic_Ratnik_BeigeDigital']
+		['CUP_O_BMP3_RU_WASP','CUP_O_RU_Soldier_AA_Ratnik_BeigeDigital','CUP_O_RU_Soldier_AA_Ratnik_BeigeDigital','CUP_O_RU_Medic_Ratnik_BeigeDigital']
 	]];
 
 	missionNamespace setVariable [Format["WF_%1_PATROL_HEAVY", _side], [
-		['CUP_O_T72_TKA','CUP_O_BMP3_RU'],
+		['CUP_O_T72_TKA','CUP_O_BMP3_RU_WASP'],
 		['CUP_O_BMP2_TKA','CUP_O_T72_TKA'],
-		['CUP_O_BMP3_RU','CUP_O_BMP3_RU','CUP_O_RU_Soldier_SL_Ratnik_BeigeDigital','CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital','CUP_O_RU_Soldier_Marksman_Ratnik_BeigeDigital','CUP_O_RU_Medic_Ratnik_BeigeDigital','CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital','CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital','CUP_O_RU_Soldier_Ratnik_BeigeDigital'],
+		['CUP_O_BMP3_RU_WASP','CUP_O_BMP3_RU_WASP','CUP_O_RU_Soldier_SL_Ratnik_BeigeDigital','CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital','CUP_O_RU_Soldier_Marksman_Ratnik_BeigeDigital','CUP_O_RU_Medic_Ratnik_BeigeDigital','CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital','CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital','CUP_O_RU_Soldier_Ratnik_BeigeDigital'],
 		['CUP_O_BMP1_TKA','CUP_O_RU_Soldier_SL_Ratnik_BeigeDigital','CUP_O_RU_Medic_Ratnik_BeigeDigital','CUP_O_RU_Soldier_Ratnik_BeigeDigital','CUP_O_RU_Soldier_Ratnik_BeigeDigital','CUP_O_RU_Soldier_AR_Ratnik_BeigeDigital']
 	]];
 };

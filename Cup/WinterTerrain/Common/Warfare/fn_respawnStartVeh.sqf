@@ -5,7 +5,7 @@ EAST_StartVeh pushBack 'CUP_O_GAZ_Vodnik_BPPU_RU';
 EAST_StartVeh pushBack 'CUP_O_BRDM2_RUS';
 EAST_StartVeh pushBack 'CUP_O_BRDM2_ATGM_RUS';
 EAST_StartVeh pushBack 'CUP_O_UAZ_METIS_RU';
-EAST_StartVeh pushBack 'CUP_O_BTR90_RU';
+EAST_StartVeh pushBack 'CUP_O_BTR90_RU_WASP';
 EAST_StartVeh pushBack 'CUP_O_BTR60_RU';
 EAST_StartVeh pushBack 'CUP_O_BTR80_GREEN_RU';
 EAST_StartVeh pushBack 'CUP_O_BTR80A_CAMO_RU';
