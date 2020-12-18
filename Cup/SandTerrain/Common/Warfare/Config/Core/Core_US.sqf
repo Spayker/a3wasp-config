@@ -341,7 +341,7 @@ _c pushBack 'CUP_B_M1A1_DES_US_Army';
 _i pushBack ['','',8600,26,-2,3,2,0,'USA Army',[]];
 
 _c pushBack 'CUP_B_Leopard2A6DST_GER';
-_i pushBack ['','',10500,27,-2,4,2,0,'USA (Army - W)',[]];
+_i pushBack ['','',9000,27,-2,4,2,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_M270_HE_USA';
 _i pushBack ['','',25879,26,-2,3,2,0,'USA (USMC - D)',[]];

@@ -99,6 +99,7 @@ _u pushBack 'CUP_B_FV510_GB_W_SLAT';
 _u pushBack 'CUP_B_M6LineBacker_USA_W';
 _u pushBack 'CUP_B_M1A1_Woodland_US_Army';
 _u pushBack 'CUP_B_Leopard2A6_GER';
+_u pushBack 'CUP_B_M1A2_TUSK_MG_US_Army_WASP';
 _u pushBack 'CUP_B_M163_USA';
 _u pushBack 'CUP_B_M270_HE_USMC';
 _u pushBack 'CUP_B_LAV25_HQ_USMC';
