@@ -66,14 +66,14 @@ if (isServer) then {
 	missionNamespace setVariable [Format["WF_%1_PATROL_MEDIUM", _side], [
 		['CUP_B_M1151_M2_USMC','CUP_B_M1151_M2_USMC'],
 		['CUP_B_M1151_M2_USMC','CUP_B_US_Soldier_SL','CUP_B_US_Soldier_AT','CUP_B_US_Soldier_MG','CUP_B_US_Soldier_AT'],
-		['CUP_B_M2Bradley_USA_W','CUP_B_US_Soldier_AA','CUP_B_US_Soldier_AA','CUP_B_US_Medic']
+		['CUP_B_M2Bradley_USA_W_WASP','CUP_B_US_Soldier_AA','CUP_B_US_Soldier_AA','CUP_B_US_Medic']
 	]];
 
 	missionNamespace setVariable [Format["WF_%1_PATROL_HEAVY", _side], [
-		['CUP_B_M2Bradley_USA_W','CUP_B_M2Bradley_USA_W'],
+		['CUP_B_M2Bradley_USA_W_WASP','CUP_B_M2Bradley_USA_W_WASP'],
 		['CUP_B_Mastiff_HMG_GB_W','CUP_B_Mastiff_HMG_GB_W'],
-		['CUP_B_M2Bradley_USA_W','CUP_B_M2Bradley_USA_W','CUP_B_US_Soldier_SL','CUP_B_US_Soldier_MG','CUP_B_US_Sniper_M110_TWS','CUP_B_US_Medic','CUP_B_US_Soldier_HAT','CUP_B_US_Soldier_HAT','CUP_B_US_Soldier'],
-		['CUP_B_M2Bradley_USA_W','CUP_B_US_Soldier_SL','CUP_B_US_Medic','CUP_B_US_Soldier_GL','CUP_B_US_Soldier','CUP_B_US_Soldier_AR']
+		['CUP_B_M2Bradley_USA_W_WASP','CUP_B_M2Bradley_USA_W_WASP','CUP_B_US_Soldier_SL','CUP_B_US_Soldier_MG','CUP_B_US_Sniper_M110_TWS','CUP_B_US_Medic','CUP_B_US_Soldier_HAT','CUP_B_US_Soldier_HAT','CUP_B_US_Soldier'],
+		['CUP_B_M2Bradley_USA_W_WASP','CUP_B_US_Soldier_SL','CUP_B_US_Medic','CUP_B_US_Soldier_GL','CUP_B_US_Soldier','CUP_B_US_Soldier_AR']
 	]];
 };
 
