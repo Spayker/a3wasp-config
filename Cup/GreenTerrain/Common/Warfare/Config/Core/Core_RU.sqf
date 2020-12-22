@@ -313,7 +313,7 @@ _i pushBack ['','',4000,25,-2,1,2,0,'CUP - Russia',[], 4];
 _c pushBack 'CUP_O_T72_RU' ;
 _i pushBack ['','',5000,25,-2,2,2,0,'CUP - Russia',[]];
 
-_c pushBack 'CUP_B_T72_CZ_OPFOR' ;
+_c pushBack 'cwr3_o_t72b1' ;
 _i pushBack ['','',5750,25,-2,3,2,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_T90_RU' ;
