@@ -86,7 +86,7 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_LINKS", _side], [
 		[[WF_UP_BARRACKS,2],[WF_UP_LIGHT,2]],
 		[[WF_UP_BARRACKS,3],[WF_UP_LIGHT,3]]
 	], //--- Artillery Time
-	[[WF_UP_AIR,3]], //--- Cruise Missile
+	[[WF_UP_AIR,2]], //--- Cruise Missile
 	[[],[],[],[]], //--- Gear
 	[[WF_UP_GEAR,4]], //--- Build Ammo
 	[[WF_UP_AIR,1]], //--- EASA
