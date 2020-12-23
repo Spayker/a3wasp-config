@@ -307,7 +307,7 @@ _i pushBack ['','',1500,21,-2,0,1,0,'USA (Army - W)',[],1];
 _c pushBack 'CUP_B_M113_Med_USA';
 _i pushBack ['(AMBU) M113','',3880,24,-2,0,2,0,'USA (Army - W)',[], 1];
 
-_c pushBack 'CUP_B_M7Bradley_USA_D';
+_c pushBack 'CUP_B_M7Bradley_USA_D_WASP';
 _i pushBack ['','',2200,24,-2,0,2,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_MCV80_GB_D';
@@ -328,7 +328,7 @@ _i pushBack ['','',3700,24,-2,2,2,0,'USA (Army - W)',[]];
 _c pushBack 'CUP_B_M163_USA';
 _i pushBack ['','',4600,26,-2,2,2,0,'USA (USMC - D)',[],4];
 
-_c pushBack 'CUP_B_M2A3Bradley_USA_D_WASP';
+_c pushBack 'CUP_B_M2A3Bradley_USA_D';
 _i pushBack ['','',3800,24,-2,2,2,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_M6LineBacker_USA_D';

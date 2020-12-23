@@ -197,8 +197,8 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 0;
 
-_u = ["CUP_B_M7Bradley_USA_W"];
-_u pushBack "CUP_B_M7Bradley_USA_W";
+_u = ["CUP_B_M7Bradley_USA_W_WASP"];
+_u pushBack "CUP_B_M7Bradley_USA_W_WASP";
 
 _aiTeamTemplateName pushBack "Bradley AP Cannon Group";
 _aiTeamTemplates pushBack _u;
@@ -237,8 +237,8 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 2;
 
-_u = ["CUP_B_M2A3Bradley_USA_W_WASP"];
-_u pushBack "CUP_B_M2A3Bradley_USA_W_WASP";
+_u = ["CUP_B_M2A3Bradley_USA_W"];
+_u pushBack "CUP_B_M2A3Bradley_USA_W";
 
 _aiTeamTemplateName pushBack "M2A3 Bradley Group";
 _aiTeamTemplates pushBack _u;

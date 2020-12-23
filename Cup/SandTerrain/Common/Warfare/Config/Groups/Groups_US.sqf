@@ -241,19 +241,19 @@ _u pushBack "CUP_B_M2Bradley_USA_D_WASP";
 _l pushBack _u;
 
 _k pushBack "Mechanized_3";
-_u		= ["CUP_B_M2A3Bradley_USA_D_WASP"];
-_u pushBack "CUP_B_M2A3Bradley_USA_D_WASP";
-_u pushBack "CUP_B_M2A3Bradley_USA_D_WASP";
+_u		= ["CUP_B_M2A3Bradley_USA_D"];
+_u pushBack "CUP_B_M2A3Bradley_USA_D";
+_u pushBack "CUP_B_M2A3Bradley_USA_D";
 _l pushBack _u;
 
 _k pushBack "Armored_0";
 _u		= ["CUP_B_M2Bradley_USA_D_WASP"];
-_u pushBack "CUP_B_M2A3Bradley_USA_D_WASP";
+_u pushBack "CUP_B_M2A3Bradley_USA_D";
 _l pushBack _u;
 
 _k pushBack "Armored_1";
-_u		= ["CUP_B_M2A3Bradley_USA_D_WASP"];
-_u pushBack "CUP_B_M2A3Bradley_USA_D_WASP";
+_u		= ["CUP_B_M2A3Bradley_USA_D"];
+_u pushBack "CUP_B_M2A3Bradley_USA_D";
 _l pushBack _u;
 
 _k pushBack "Armored_2";

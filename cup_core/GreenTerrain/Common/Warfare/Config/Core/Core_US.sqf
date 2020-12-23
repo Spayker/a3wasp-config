@@ -301,7 +301,7 @@ _i pushBack ['','',2100,21,-2,0,1,0,'USA (Army - W)',[]];
 _c pushBack 'CUP_B_AAV_USMC';
 _i pushBack ['','',1500,21,-2,0,1,0,'USA (Army - W)',[]];
 
-_c pushBack 'CUP_B_M7Bradley_USA_W';
+_c pushBack 'CUP_B_M7Bradley_USA_W_WASP';
 _i pushBack ['','',2200,24,-2,0,2,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_M113_Med_USA';
@@ -325,7 +325,7 @@ _i pushBack ['','',3700,24,-2,2,2,0,'USA (Army - W)',[]];
 _c pushBack 'CUP_B_M163_USA';
 _i pushBack ['','',4600,26,-2,2,2,0,'USA (USMC - D)',[]];
 
-_c pushBack 'CUP_B_M2A3Bradley_USA_W_WASP';
+_c pushBack 'CUP_B_M2A3Bradley_USA_W';
 _i pushBack ['','',3800,24,-2,2,2,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_M6LineBacker_USA_W';
