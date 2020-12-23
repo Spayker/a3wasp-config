@@ -280,7 +280,7 @@ _c pushBack 'CUP_B_M1128_MGS_Desert';
 _i pushBack ['','',4250,25,-2,4,1,0,'USA Army',[]];
 
 _c pushBack 'CUP_B_M1128_MGS_Desert_Slat';
-_i pushBack ['','',4500,30,-2,4,1,0,'USA Army',[]];
+_i pushBack ['M1128 MGS Slat','',4500,30,-2,4,1,0,'USA Army',[]];
 
 _c pushBack 'CUP_B_RM70_CZ';
 _i pushBack ['','',17879,25,-2,4,1,0,'USA Army',[]];
@@ -341,7 +341,10 @@ _c pushBack 'CUP_B_M1A1_DES_US_Army';
 _i pushBack ['','',8600,26,-2,3,2,0,'USA Army',[]];
 
 _c pushBack 'CUP_B_Leopard2A6DST_GER';
-_i pushBack ['','',9000,27,-2,4,2,0,'USA (Army - W)',[]];
+_i pushBack ['','',9000,27,-2,4,2,0,'USA (Army - D)',[]];
+
+_c pushBack 'CUP_B_M1A2_TUSK_MG_DES_US_Army_WASP';
+_i pushBack ['','',9500,35,-2,4,2,0,'USA (Army - D)',[]];
 
 _c pushBack 'CUP_B_M270_HE_USA';
 _i pushBack ['','',25879,26,-2,3,2,0,'USA (USMC - D)',[]];

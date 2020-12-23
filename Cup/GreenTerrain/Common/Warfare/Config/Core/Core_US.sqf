@@ -277,7 +277,7 @@ _c pushBack 'CUP_B_M1128_MGS_Woodland';
 _i pushBack ['','',4250,25,-2,4,1,0,'USA Army',[]];
 
 _c pushBack 'CUP_B_M1128_MGS_Woodland_Slat';
-_i pushBack ['','',4500,30,-2,4,1,0,'USA Army',[]];
+_i pushBack ['M1128 MGS Slat','',4500,30,-2,4,1,0,'USA Army',[]];
 
 _c pushBack 'CUP_B_RM70_CZ';
 _i pushBack ['','',17879,25,-2,4,1,0,'USA Army',[]];
