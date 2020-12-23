@@ -86,6 +86,7 @@ _u  pushBack  'CUP_O_BMP2_ZU_TKA';
 _u  pushBack  'CUP_O_BMP3_RU_WASP';
 _u  pushBack  'CUP_O_T55_TK';
 _u  pushBack  'CUP_O_T72_TKA';
+_u  pushBack  'cwr3_o_t72b1';
 _u  pushBack  'CUP_O_T90_RU';
 _u  pushBack  'CUP_O_ZSU23_Afghan_TK';
 _u pushBack 'CUP_O_2S6M_RU';
