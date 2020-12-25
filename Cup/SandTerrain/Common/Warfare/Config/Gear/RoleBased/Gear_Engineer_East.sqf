@@ -44,6 +44,18 @@ _i pushBack 'CUP_arifle_RPK74';
 _u pushBack 1;
 _p pushBack 450;
 
+_i pushBack  "arifle_RPK12_arid_F";
+_u pushBack  3;
+_p pushBack  450;
+
+_i pushBack  "75rnd_762x39_AK12_Arid_Mag_F";
+_u pushBack  3;
+_p pushBack  100;
+
+_i pushBack  "muzzle_snds_B_snd_F";
+_u pushBack  3;
+_p pushBack  75;
+
 _i pushBack  "CUP_lmg_PKM";
 _u pushBack  1;
 _p pushBack  230;

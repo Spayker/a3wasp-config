@@ -20,6 +20,10 @@ _i pushBack 'CUP_arifle_AK107_GL';
 _u pushBack 3;
 _p pushBack 500;
 
+_i pushBack 'arifle_AK12_GL_lush_F';
+_u pushBack 3;
+_p pushBack 500;
+
 _i pushBack 'CUP_arifle_Sa58RIS2_gl';
 _u pushBack 1;
 _p pushBack 500;

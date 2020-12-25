@@ -196,8 +196,16 @@ _u pushBack  0;
 _p pushBack  60;
 
 _i pushBack  "muzzle_snds_B";
-_u pushBack  4;
-_p pushBack  200;
+_u pushBack  1;
+_p pushBack  100;
+
+_i pushBack  "optic_Arco_lush_F";
+_u pushBack  3;
+_p pushBack  150;
+
+_i pushBack  "muzzle_snds_B_lush_F";
+_u pushBack  3;
+_p pushBack  100;
 
 _i pushBack  "muzzle_snds_338_black";
 _u pushBack  4;

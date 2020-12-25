@@ -44,6 +44,29 @@ _i pushBack 'CUP_srifle_ksvk';
 _u pushBack 3;
 _p pushBack 650;
 
+_i pushBack 'srifle_DMR_05_tan_f';
+_u pushBack 3;
+_p pushBack 750;
+
+_i pushBack 'muzzle_snds_93mmg_tan';
+_u pushBack 3;
+_p pushBack 100;
+
+_i pushBack 'CUP_acc_LLM01_coyote_L';
+_u pushBack 3;
+_p pushBack 25;
+
+_i pushBack 'optic_KHS_tan';
+_u pushBack 3;
+_p pushBack 150;
+
+_i pushBack '10Rnd_93x64_DMR_05_Mag';
+_u pushBack 3;
+_p pushBack 25;
+
+_i pushBack 'bipod_02_F_hex';
+_u pushBack 3;
+_p pushBack 75;
 
 _i pushBack "CUP_srifle_ksvk_PSO3";
 _u pushBack 4;

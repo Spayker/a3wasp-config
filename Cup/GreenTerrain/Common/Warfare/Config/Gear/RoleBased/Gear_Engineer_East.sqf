@@ -28,6 +28,18 @@ _i pushBack  "CUP_arifle_RPK74_45_top_rail";
 _u pushBack  2;
 _p pushBack  390;
 
+_i pushBack  "arifle_RPK12_lush_F";
+_u pushBack  3;
+_p pushBack  450;
+
+_i pushBack  "75rnd_762x39_AK12_Lush_Mag_F";
+_u pushBack  3;
+_p pushBack  100;
+
+_i pushBack  "muzzle_snds_B_lush_F";
+_u pushBack  3;
+_p pushBack  75;
+
 _i pushBack  "CUP_arifle_RPK74M_railed";
 _u pushBack  3;
 _p pushBack  490;

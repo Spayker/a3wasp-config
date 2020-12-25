@@ -56,6 +56,18 @@ _i pushBack 'V_TacVest_oli';
 _u pushBack 1;
 _p pushBack 100;
 
+_i pushBack 'arifle_AK12_lush_F';
+_u pushBack 3;
+_p pushBack 450;
+
+_i pushBack '30rnd_762x39_AK12_Lush_Mag_F';
+_u pushBack 3;
+_p pushBack 25;
+
+_i pushBack 'bipod_01_F_khk';
+_u pushBack 3;
+_p pushBack 50;
+
 _i pushBack  "B_Carryall_oli";
 _u pushBack  2;
 _p pushBack  300;

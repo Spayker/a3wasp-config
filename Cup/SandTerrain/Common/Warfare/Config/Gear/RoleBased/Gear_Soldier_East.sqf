@@ -32,6 +32,10 @@ _i pushBack 'CUP_arifle_AK101_GL_railed';
 _u pushBack 1;
 _p pushBack 500;
 
+_i pushBack 'arifle_AK12_GL_arid_F';
+_u pushBack 3;
+_p pushBack 500;
+
 _i pushBack  "CUP_arifle_AK103_GL_railed";
 _u pushBack  2;
 _p pushBack  500;

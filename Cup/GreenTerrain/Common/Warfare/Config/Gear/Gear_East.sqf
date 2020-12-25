@@ -328,6 +328,10 @@ _i pushBack 'CUP_acc_Glock17_Flashlight';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_acc_LLM_od';
+_u pushBack 3;
+_p pushBack 75;
+
 _i pushBack 'CUP_optic_Kobra';
 _u pushBack 0;
 _p pushBack 50;
