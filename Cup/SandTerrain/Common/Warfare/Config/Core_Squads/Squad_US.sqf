@@ -141,7 +141,6 @@ _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 2;
 
 _u = ["CUP_B_MTVR_Repair_USA"];
-_u pushBack "CUP_B_MTVR_Repair_USA";
 
 _aiTeamTemplateName pushBack "Repair Truck Team";
 _aiTeamTemplates pushBack _u;
