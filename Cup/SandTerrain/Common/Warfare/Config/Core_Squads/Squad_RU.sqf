@@ -168,6 +168,14 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 2;
 
+_u = ["CUP_O_BTR80A_CAMO_RU"];
+_u pushBack "CUP_O_BTR80A_CAMO_RU";
+
+_aiTeamTemplateName pushBack "BTR-80A Patrol";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Light';
+_aiTeamUpgrades pushBack 3;
+
 _u = ["CUP_O_BTR90_RU_WASP"];
 _u pushBack "CUP_O_BTR90_RU_WASP";
 
@@ -225,13 +233,21 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 2;
 
+_u = ["cwr3_o_t72b1"];
+_u pushBack "cwr3_o_t72b1";
+
+_aiTeamTemplateName pushBack "T72B1 Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Heavy';
+_aiTeamUpgrades pushBack 3;
+
 _u = ["CUP_O_T90_RU"];
 _u pushBack "CUP_O_T90_RU";
 
 _aiTeamTemplateName pushBack "Heavy T90 Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 3;
+_aiTeamUpgrades pushBack 4;
 
 _u = ["CUP_O_2S6M_RU"];
 _u pushBack "CUP_O_2S6M_RU";

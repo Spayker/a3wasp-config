@@ -148,6 +148,14 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 2;
 
+_u = ["CUP_B_LAV25_desert_USMC"];
+_u pushBack "CUP_B_LAV25_desert_USMC";
+
+_aiTeamTemplateName pushBack "LAV25 Patrol";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Light';
+_aiTeamUpgrades pushBack 2;
+
 _u = ["CUP_B_LAV25M240_desert_USMC"];
 _u pushBack "CUP_B_LAV25M240_desert_USMC";
 

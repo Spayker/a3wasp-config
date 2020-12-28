@@ -148,10 +148,18 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 2;
 
+_u = ["CUP_B_LAV25_USMC"];
+_u pushBack "CUP_B_LAV25_USMC";
+
+_aiTeamTemplateName pushBack "LAV25 Patrol";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Light';
+_aiTeamUpgrades pushBack 2;
+
 _u = ["CUP_B_LAV25M240_USMC"];
 _u pushBack "CUP_B_LAV25M240_USMC";
 
-_aiTeamTemplateName pushBack "LAV25 Patrol";
+_aiTeamTemplateName pushBack "LAV25 M240 Patrol";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 3;
@@ -253,11 +261,18 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 3;
 
-
 _u		= ["CUP_B_Leopard2A6_GER"];
 _u pushBack "CUP_B_Leopard2A6_GER";
 
 _aiTeamTemplateName pushBack "Leopard Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Heavy';
+_aiTeamUpgrades pushBack 4;
+
+_u		= ["CUP_B_M1A2_TUSK_MG_US_Army_WASP"];
+_u pushBack "CUP_B_M1A2_TUSK_MG_US_Army_WASP";
+
+_aiTeamTemplateName pushBack "M1A2 TUSK Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 4;
