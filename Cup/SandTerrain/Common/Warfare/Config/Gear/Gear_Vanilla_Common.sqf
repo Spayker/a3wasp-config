@@ -115,6 +115,14 @@ _i pushBack  "Laserdesignator";
 _u pushBack  4;
 _p pushBack  260;
 
+_i pushBack  "Item_Laserdesignator_02";
+_u pushBack  4;
+_p pushBack  280;
+
+_i pushBack  "Laserdesignator_02_ghex_F";
+_u pushBack  4;
+_p pushBack  300;
+
 _i pushBack  "Laserdesignator_01_khk_F";
 _u pushBack  4;
 _p pushBack  260;
