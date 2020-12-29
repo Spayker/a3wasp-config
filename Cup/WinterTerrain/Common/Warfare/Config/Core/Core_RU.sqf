@@ -8,6 +8,9 @@ _i = [];
 _c pushBack 'CUP_O_sla_Crew';
 _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
 
+_c pushBack 'CUP_O_sla_Soldier';
+_i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
+
 _c pushBack 'CUP_O_TK_Crew';
 _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
 
@@ -317,7 +320,7 @@ _c pushBack 'cwr3_o_t72b1' ;
 _i pushBack ['','',5750,25,-2,3,2,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_T90_RU' ;
-_i pushBack ['','',6600,27,-2,3,2,0,'CUP - Russia',[]];
+_i pushBack ['','',6600,27,-2,4,2,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_ZSU23_ChDKZ';
 _i pushBack ['','',4500,24,-2,2,2,0,'CUP - Russia',[], 1];

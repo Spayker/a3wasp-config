@@ -167,6 +167,7 @@ _u pushBack "CUP_B_HIL_Boat_Transport_01_F";
 _u pushBack "CUP_C_Zodiac_CIV";
 _u pushBack "CUP_B_RHIB_HIL";
 _u pushBack "CUP_B_RHIB2Turret_HIL";
+_u pushBack "CUP_B_LCU1600_USMC";
 _u pushBack "B_Boat_Armed_01_minigun_F";
 if ((missionNamespace getVariable "WF_C_UNITS_TOWN_PURCHASE") > 0) then {
 	_u pushBack (missionNamespace getVariable "WF_WESTSOLDIER");

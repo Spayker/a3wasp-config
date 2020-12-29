@@ -192,6 +192,9 @@ _i pushBack ['','',550,20,-2,0,1,0,'USA Army',[]];
 _c pushBack 'CUP_B_RHIB2Turret_HIL';
 _i pushBack ['','',650,20,-2,0,1,0,'USA Army',[]];
 
+_c pushBack 'CUP_B_LCU1600_USMC';
+_i pushBack ['','',4500,20,-2,0,1,0,'USA Army',[]];
+
 _c pushBack 'B_Boat_Armed_01_minigun_F';
 _i pushBack ['','',650,20,-2,0,1,0,'USA Army',[]];
 
