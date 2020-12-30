@@ -9,7 +9,7 @@ _aiTeamTemplateName = [];
 _aiTeamUpgrades = [];
 
 //--- Infantry
-_u = ["CUP_O_RU_Soldier_SL"];
+_u = ["CUP_O_RU_Soldier_SL_Ratnik_BeigeDigital"];
 _u pushBack "CUP_O_RU_Soldier_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
@@ -21,8 +21,8 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 0;
 
-_u = ["CUP_O_RU_Soldier_TL"];
-_u pushBack "CUP_O_RU_Soldier";
+_u = ["CUP_O_RU_Soldier_SL_Ratnik_BeigeDigital"];
+_u pushBack "CUP_O_RU_Soldier_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
@@ -35,7 +35,7 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 1;
 
-_u = ["CUP_O_RU_Soldier_TL"];
+_u = ["CUP_O_RU_Soldier_SL_Ratnik_BeigeDigital"];
 _u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_GL_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital";
@@ -49,7 +49,7 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 2;
 
-_u = ["CUP_O_RU_Soldier_TL"];
+_u = ["CUP_O_RU_Soldier_SL_Ratnik_BeigeDigital"];
 _u pushBack "CUP_O_RU_Soldier_GL_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AA_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_HAT_Ratnik_BeigeDigital";
@@ -63,7 +63,7 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 3;
 
-_u = ["CUP_O_RU_Soldier_LAT"];
+_u = ["CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital"];
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_BeigeDigital";
@@ -75,7 +75,7 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 0;
 
-_u = ["CUP_O_RU_Soldier_AT"];
+_u = ["CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital"];
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
@@ -87,19 +87,19 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 2;
 
-_u = ["CUP_O_RU_Soldier_HAT_VDV_M_EMR"];
-_u pushBack "CUP_O_RU_Soldier_HAT_VDV_M_EMR";
-_u pushBack "CUP_O_RU_Soldier_HAT_VDV_M_EMR";
-_u pushBack "CUP_O_RU_Soldier_HAT_VDV_M_EMR";
-_u pushBack "CUP_O_RU_Soldier_HAT_VDV_M_EMR";
-_u pushBack "CUP_O_RU_Soldier_HAT_VDV_M_EMR";
+_u = ["CUP_O_RU_Soldier_HAT_Ratnik_BeigeDigital"];
+_u pushBack "CUP_O_RU_Soldier_HAT_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_HAT_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_HAT_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_HAT_Ratnik_BeigeDigital";
+_u pushBack "CUP_O_RU_Soldier_HAT_Ratnik_BeigeDigital";
 
 _aiTeamTemplateName pushBack "Heavy AT Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 3;
 
-_u = ["CUP_O_RU_Soldier_AA"];
+_u = ["CUP_O_RU_Soldier_AA_Ratnik_BeigeDigital"];
 _u pushBack "CUP_O_RU_Soldier_AA_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AA_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_AA_Ratnik_BeigeDigital";
