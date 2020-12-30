@@ -305,7 +305,7 @@ _c pushBack 'CUP_O_T72_TKA' ;
 _i pushBack ['','',5000,25,-2,2,2,0,'CUP - Russia',[]];
 
 _c pushBack 'cwr3_o_t72b1' ;
-_i pushBack ['','',5750,25,-2,3,2,0,'CUP - Russia',[]];
+_i pushBack ['','',5750,25,-2,3,2,0,'CUP - Russia',[], 6];
 
 _c pushBack 'CUP_O_T90_RU' ;
 _i pushBack ['','',6600,27,-2,4,2,0,'CUP - Russia',[]];
