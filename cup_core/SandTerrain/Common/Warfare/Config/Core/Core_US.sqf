@@ -328,7 +328,7 @@ _i pushBack ['','',3700,24,-2,2,2,0,'USA (Army - W)',[]];
 _c pushBack 'CUP_B_M163_USA';
 _i pushBack ['','',4600,26,-2,2,2,0,'USA (USMC - D)',[],4];
 
-_c pushBack 'CUP_B_M2A3Bradley_USA_D_WASP';
+_c pushBack 'CUP_B_M2A3Bradley_USA_D';
 _i pushBack ['','',3800,24,-2,2,2,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_M6LineBacker_USA_D';
