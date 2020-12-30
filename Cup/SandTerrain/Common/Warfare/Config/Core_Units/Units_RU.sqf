@@ -72,6 +72,7 @@ _u  pushBack  'CUP_O_UAZ_AA_TKA';
 _u  pushBack  'O_Truck_03_covered_F';
 _u  pushBack 'CUP_C_TT650_RU';
 _u  pushBack 'dbo_CIV_new_bike';
+_u  pushBack 'O_UGV_01_rcws_F';
 _u  pushBack 'CUP_O_BTR90_HQ_RU';
 
 missionNamespace setVariable [Format ["WF_%1LIGHTUNITS", _side], _u];

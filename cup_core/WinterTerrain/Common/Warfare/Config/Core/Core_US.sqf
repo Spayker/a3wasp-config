@@ -192,6 +192,9 @@ _i pushBack ['','',650,20,-2,0,1,0,'USA Army',[]];
 _c pushBack 'CUP_B_LCU1600_USMC';
 _i pushBack ['','',4500,20,-2,0,1,0,'USA Army',[]];
 
+_c pushBack 'B_SDV_01_F';
+_i pushBack ['','',3000,20,-2,0,1,0,'USA Army',[]];
+
 _c pushBack 'B_Boat_Armed_01_minigun_F';
 _i pushBack ['','',650,20,-2,0,1,0,'USA Army',[]];
 
@@ -426,6 +429,9 @@ _c pushBack 'CUP_B_GR9_DYN_GB';
 _i pushBack ['','',51500,65,-2,4,3,0,'CUP - USMC',[]];
 
 // Uavs
+_c pushBack 'B_UGV_01_rcws_F';
+_i pushBack ['','',2000,28,-2,1,3,0,'USA Army',[]];
+
 _c pushBack 'CUP_B_USMC_DYN_MQ9';
 _i pushBack ['','',8500,28,-2,1,3,0,'USA Army',[]];
 

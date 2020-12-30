@@ -204,6 +204,9 @@ _i pushBack ['','',1250,15,-2,0,1,0,'CUP - Russia',[]];
 _c pushBack 'CUP_O_LCVP_VIV_SLA';
 _i pushBack ['','',1500,15,-2,0,1,0,'CUP - Russia',[]];
 
+_c pushBack 'O_SDV_01_F';
+_i pushBack ['','',3000,15,-2,0,1,0,'CUP - Russia',[]];
+
 _c pushBack 'O_Boat_Transport_01_F';
 _i pushBack ['','',250,15,-2,0,1,0,'CUP - Russia',[]];
 
@@ -387,8 +390,11 @@ _c pushBack 'CUP_O_SU34_RU';
 _i pushBack ['Su-34','',53800,55,-2,4,3,0,'CUP - Russia',[], 4];
 
 // Uavs
+_c pushBack 'O_UGV_01_rcws_F';
+_i pushBack ['','',2000,28,-2,1,3,1,'CSAT',[]];
+
 _c pushBack 'CUP_O_Pchela1T_RU';
-_i pushBack ['','',8500,28,-2,1,3,1,'Russia (VVS - Grey)]',[]];
+_i pushBack ['','',8500,28,-2,1,3,1,'Russia (VVS - Grey)',[]];
 
 _c pushBack 'O_UAV_02_dynamicLoadout_F';
 _i pushBack ['','',30000,55,-2,2,3,0,'CSAT',[]];

@@ -78,6 +78,7 @@ _u pushBack 'dbo_CIV_new_bike';
 _u pushBack 'CUP_B_M1030_USMC';
 _u pushBack 'CUP_B_RM70_CZ';
 _u pushBack 'B_G_Boat_Transport_01_F';
+_u pushBack 'B_UGV_01_rcws_F';
 _u pushBack 'CUP_B_LAV25_HQ_USMC';
 
 
