@@ -144,6 +144,7 @@ _u pushBack "C_Truck_02_fuel_F";
 _u pushBack "CUP_O_PBX_RU";
 _u pushBack "CUP_O_LCVP_SLA";
 _u pushBack "CUP_O_LCVP_VIV_SLA";
+_u pushBack "O_SDV_01_F";
 _u pushBack "O_Boat_Transport_01_F";
 _u pushBack "O_Boat_Armed_01_hmg_F";
 if ((missionNamespace getVariable "WF_C_UNITS_TOWN_PURCHASE") > 0) then {

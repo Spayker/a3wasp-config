@@ -204,6 +204,9 @@ _i pushBack ['','',1250,15,-2,0,1,0,'CUP - Russia',[]];
 _c pushBack 'CUP_O_LCVP_VIV_SLA';
 _i pushBack ['','',1500,15,-2,0,1,0,'CUP - Russia',[]];
 
+_c pushBack 'O_SDV_01_F';
+_i pushBack ['','',3000,15,-2,0,1,0,'CUP - Russia',[]];
+
 _c pushBack 'O_Boat_Transport_01_F';
 _i pushBack ['','',250,15,-2,0,1,0,'CUP - Russia',[]];
 
