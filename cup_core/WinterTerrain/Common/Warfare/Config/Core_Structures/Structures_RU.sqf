@@ -168,36 +168,19 @@ _n pushBack "O_SAM_System_04_F";
 _n pushBack "B_AAA_System_01_F_OPFOR";
 
 // static walls
-_n pushBack "Land_BagFenceShort";
-_n pushBack "Land_BagFenceLong";
-_n pushBack "Land_BagFenceRound";
-_n pushBack "Land_BagFenceCorner";
-_n pushBack "Land_SandbagBarricade_01_half_F";
-_n pushBack "Land_SandbagBarricade_01_F";
-_n pushBack "Land_SandbagBarricade_01_hole_F";
-_n pushBack "Land_fort_bagfence_round";
+_n pushBack "Base_WarfareBBarrier10xTall";
 _n pushBack "Land_BagBunker_Small_F";
-_n pushBack "Land_HBarrier_1_F";
-_n pushBack "Land_HBarrier_3_F";
-_n pushBack "Land_HBarrier_5_F";
-_n pushBack "Land_HBarrier_Big_F";
-_n pushBack "Land_HBarrierWall4_F";
-_n pushBack "Land_HBarrierWall6_F";
-_n pushBack "Land_HBarrierWall_corner_F";
-_n pushBack "Land_fort_artillery_nest_EP1";
-_n pushBack "Land_fort_rampart_EP1";
+_n pushBack "Land_BagBunker_01_small_green_F";
+_n pushBack "Land_HBarrier_01_wall_6_green_F";
+_n pushBack "Land_HBarrier_01_wall_corner_green_F";
+_n pushBack "Land_fort_artillery_nest";
+_n pushBack "Land_fort_rampart";
 _n pushBack "Hedgehog";
-_n pushBack "Land_CzechHedgehog_01_new_F";
 _n pushBack "Land_Razorwire_F";
 _n pushBack "Wire";
-_n pushBack "Hhedgehog_concrete";
 _n pushBack "Hhedgehog_concreteBig";
-_n pushBack "Land_CncWall1_F";
-_n pushBack "Land_CncWall4_F";
-_n pushBack "Land_Wall_IndCnc_2deco_F";
 _n pushBack "Concrete_Wall_EP1";
-_n pushBack "zed";
-_n pushBack "Land_Wall_IndCnc_4_F";
+_n pushBack "Land_CamoConcreteWall_01_l_4m_v2_F";
 _n pushBack "Land_Vez_svetla";
 _n pushBack "Land_HBarrier_large";
 _n pushBack "Land_HBarrier5";
@@ -215,8 +198,6 @@ _n pushBack "CUP_RULaunchersBox";
 _n pushBack "CUP_RUBasicAmmunitionBox";
 _n pushBack "CUP_RUBasicWeaponsBox";
 _n pushBack "CUP_RUOrdnanceBox";
-
-//_n pushBack "GUE_WarfareBVehicleServicePoint";
 
 /* Class used for AI, AI will attempt to build those */
 missionNamespace setVariable [Format["WF_%1DEFENSES_MG", _side], ['CUP_O_KORD_RU']];

@@ -164,35 +164,18 @@ _n pushBack "B_SAM_System_03_F";
 _n pushBack "B_AAA_System_01_F";
 
 // static walls
-_n pushBack "Land_BagFence_01_short_green_F";
-_n pushBack "Land_BagFence_01_long_green_F";
-_n pushBack "Land_BagFence_01_round_green_F";
-_n pushBack "Land_BagFence_01_corner_green_F";
-_n pushBack "Land_SandbagBarricade_01_half_F";
-_n pushBack "Land_SandbagBarricade_01_F";
-_n pushBack "Land_SandbagBarricade_01_hole_F";
-_n pushBack "Land_fort_bagfence_round";
+_n pushBack "Base_WarfareBBarrier10xTall";
+_n pushBack "Land_BagBunker_Small_F";
 _n pushBack "Land_BagBunker_01_small_green_F";
-_n pushBack "Land_HBarrier_01_line_1_green_F";
-_n pushBack "Land_HBarrier_01_line_3_green_F";
-_n pushBack "Land_HBarrier_01_line_5_green_F";
-_n pushBack "Land_HBarrier_01_big_4_green_F";
-_n pushBack "Land_HBarrier_01_wall_4_green_F";
 _n pushBack "Land_HBarrier_01_wall_6_green_F";
 _n pushBack "Land_HBarrier_01_wall_corner_green_F";
 _n pushBack "Land_fort_artillery_nest";
 _n pushBack "Land_fort_rampart";
 _n pushBack "Hedgehog";
-_n pushBack "Land_CzechHedgehog_01_new_F";
 _n pushBack "Land_Razorwire_F";
 _n pushBack "Wire";
-_n pushBack "Hhedgehog_concrete";
 _n pushBack "Hhedgehog_concreteBig";
-_n pushBack "Land_CncWall1_F";
-_n pushBack "Land_CncWall4_F";
-_n pushBack "Land_Wall_IndCnc_2deco_F";
 _n pushBack "Concrete_Wall_EP1";
-_n pushBack "zed2";
 _n pushBack "Land_CamoConcreteWall_01_l_4m_v2_F";
 _n pushBack "Land_Vez_svetla";
 _n pushBack "Land_HBarrier_large";
@@ -202,8 +185,6 @@ _n pushBack "Land_HBarrier5";
 _n pushBack "CamoNet_BLUFOR_F";
 _n pushBack "CamoNet_BLUFOR_open_F";
 _n pushBack "CamoNet_BLUFOR_big_F";
-_n pushBack "Land_CzechHedgehog_01_new_F";
-_n pushBack "Land_Razorwire_F";
 
 // static ammo
 _n pushBack "CUP_USVehicleBox";
