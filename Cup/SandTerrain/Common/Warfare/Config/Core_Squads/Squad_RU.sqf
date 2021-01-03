@@ -167,8 +167,8 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 2;
 
-_u = ["CUP_O_BTR80A_CAMO_RU"];
-_u pushBack "CUP_O_BTR80A_CAMO_RU";
+_u = ["CUP_O_BTR80A_TK"];
+_u pushBack "CUP_O_BTR80A_TK";
 
 _aiTeamTemplateName pushBack "BTR-80A Patrol";
 _aiTeamTemplates pushBack _u;
