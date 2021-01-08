@@ -80,4 +80,57 @@ _i pushBack  "B_Carryall_cbr";
 _u pushBack  2;
 _p pushBack  300;
 
+_i pushBack  "1Rnd_HE_Grenade_shell";
+_u pushBack  0;
+_p pushBack  25;
+
+_i pushBack  "UGL_FlareWhite_F";
+_u pushBack  0;
+_p pushBack  25;
+
+_i pushBack  "UGL_FlareGreen_F";
+_u pushBack  0;
+_p pushBack  25;
+
+_i pushBack  "UGL_FlareRed_F";
+_u pushBack  0;
+_p pushBack  25;
+
+_i pushBack  "UGL_FlareYellow_F";
+_u pushBack  0;
+_p pushBack  25;
+
+_i pushBack  "UGL_FlareCIR_F";
+_u pushBack  0;
+_p pushBack  25;
+
+_i pushBack  "1Rnd_Smoke_Grenade_shell";
+_u pushBack  0;
+_p pushBack  25;
+
+_i pushBack  "1Rnd_SmokeRed_Grenade_shell";
+_u pushBack  0;
+_p pushBack  25;
+
+_i pushBack  "1Rnd_SmokeGreen_Grenade_shell";
+_u pushBack  0;
+_p pushBack  25;
+
+_i pushBack  "1Rnd_SmokeYellow_Grenade_shell";
+_u pushBack  0;
+_p pushBack  25;
+
+_i pushBack  "1Rnd_SmokePurple_Grenade_shell";
+_u pushBack  0;
+_p pushBack  25;
+
+_i pushBack  "1Rnd_SmokeBlue_Grenade_shell";
+_u pushBack  0;
+_p pushBack  25;
+
+_i pushBack  "1Rnd_SmokeOrange_Grenade_shell";
+_u pushBack  0;
+_p pushBack  25;
+
+
 [_faction, _i, _u, _p] call compile preprocessFileLineNumbers "Common\Warfare\Config\Gear\Gear_Config_Set.sqf";
