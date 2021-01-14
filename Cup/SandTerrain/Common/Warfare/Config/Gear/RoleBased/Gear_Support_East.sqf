@@ -7,7 +7,7 @@ _i = [];
 _u = [];
 _p = [];
 
-// East UAV Operator special gear list
+// East SUPPORT special gear list
 _i pushBack  "O_UGV_02_Demining_backpack_F";
 _u pushBack  1;
 _p pushBack  1500;
@@ -28,4 +28,4 @@ _i pushBack  "O_UavTerminal";
 _u pushBack  3;
 _p pushBack  500;
 
-[_faction, _i, _u, _p, WF_UAV_OPERATOR] call compile preprocessFileLineNumbers "Common\Warfare\Config\Gear\Gear_Role_Config_Set.sqf";
+[_faction, _i, _u, _p, WF_SUPPORT] call compile preprocessFileLineNumbers "Common\Warfare\Config\Gear\Gear_Role_Config_Set.sqf";
