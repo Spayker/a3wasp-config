@@ -157,8 +157,8 @@ missionNamespace setVariable ["WF_EAST_DefaultGearLock", [
 	]
 ];
 
-// UAVOperator
-missionNamespace setVariable ["WF_EAST_DefaultGearUAVOperator", [
+// Support
+missionNamespace setVariable ["WF_EAST_DefaultGearSupport", [
 	[
 		["CUP_arifle_AK74",["","","CUP_optic_Kobra",""],["CUP_30Rnd_545x39_AK_M"]],
 		["CUP_launch_RPG26",["","","",""],[""]],
@@ -174,8 +174,8 @@ missionNamespace setVariable ["WF_EAST_DefaultGearUAVOperator", [
 	]
 ];
 
-// ArtOperator
-missionNamespace setVariable ["WF_EAST_DefaultGearArtOperator", [
+// Medic
+missionNamespace setVariable ["WF_EAST_DefaultGearMedic", [
 	[
 		["CUP_arifle_AK74",["","","CUP_optic_PSO_1",""],["CUP_30Rnd_545x39_AK_M"]],
 		["CUP_launch_RPG26",["","","",""],[""]],

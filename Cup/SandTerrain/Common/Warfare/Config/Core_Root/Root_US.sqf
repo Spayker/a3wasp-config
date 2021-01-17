@@ -160,8 +160,8 @@ missionNamespace setVariable ["WF_WEST_DefaultGearLock", [
 	]
 ];
 
-// UAVOperator
-missionNamespace setVariable ["WF_WEST_DefaultGearUAVOperator", [
+// Support
+missionNamespace setVariable ["WF_WEST_DefaultGearSupport", [
 	[
 		["CUP_arifle_G36K_KSK",["CUP_acc_ANPEQ_2_Black_Top","","",""],["CUP_30Rnd_556x45_G36"]],
 		["CUP_launch_M136",["","","",""],[""]],
@@ -177,8 +177,8 @@ missionNamespace setVariable ["WF_WEST_DefaultGearUAVOperator", [
 	]
 ];
 
-// ArtOperator
-missionNamespace setVariable ["WF_WEST_DefaultGearArtOperator", [
+// Medic
+missionNamespace setVariable ["WF_WEST_DefaultGearMedic", [
 	[
 		["CUP_arifle_M4A1",["","","CUP_optic_ACOG",""],["CUP_30Rnd_556x45_Stanag"]],
 		["CUP_launch_M136_hedp",["","","",""],[""]],
