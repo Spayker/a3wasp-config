@@ -182,6 +182,174 @@ _i pushBack 'CUP_arifle_FNFAL_railed';
 _u pushBack 1;
 _p pushBack 500;
 
+_i pushBack 'CUP_arifle_AK74_GL';
+_u pushBack 0;
+_p pushBack 400;
+
+_i pushBack 'CUP_arifle_AK74M_GL';
+_u pushBack 1;
+_p pushBack 450;
+
+_i pushBack 'CUP_arifle_AK107_GL';
+_u pushBack 3;
+_p pushBack 500;
+
+_i pushBack 'CUP_arifle_Sa58RIS2_gl';
+_u pushBack 1;
+_p pushBack 500;
+
+_i pushBack 'CUP_arifle_AK101_GL';
+_u pushBack 1;
+_p pushBack 400;
+
+_i pushBack 'CUP_arifle_AK101_GL_railed';
+_u pushBack 1;
+_p pushBack 500;
+
+_i pushBack 'arifle_AK12_GL_arid_F';
+_u pushBack 3;
+_p pushBack 500;
+
+_i pushBack  "CUP_arifle_AK103_GL_railed";
+_u pushBack  2;
+_p pushBack  500;
+
+_i pushBack  "CUP_arifle_FNFAL5062";
+_u pushBack  2;
+_p pushBack  500;
+
+_i pushBack  "CUP_arifle_AK107_GL_railed";
+_u pushBack  3;
+_p pushBack  600;
+
+_i pushBack  "CUP_arifle_AK109_GL_railed";
+_u pushBack  4;
+_p pushBack  700;
+
+_i pushBack  "CUP_arifle_AK74M_GL_top_rail";
+_u pushBack  1;
+_p pushBack  400;
+
+_i pushBack  "CUP_arifle_AKMN_railed_desert";
+_u pushBack  1;
+_p pushBack  400;
+
+_i pushBack  "CUP_arifle_AKM_GL_Early";
+_u pushBack  1;
+_p pushBack  350;
+
+_i pushBack  "CUP_arifle_AKM_GL_top_rail";
+_u pushBack  1;
+_p pushBack  450;
+
+_i pushBack  "CUP_arifle_OTS14_GROZA_GL";
+_u pushBack  2;
+_p pushBack  350;
+
+_i pushBack  "CUP_sgun_Saiga12K";
+_u pushBack  0;
+_p pushBack  300;
+
+_i pushBack 'CUP_sgun_Saiga12K_top_rail';
+_u pushBack 0;
+_p pushBack 350;
+
+_i pushBack  "CUP_RPK_74";
+_u pushBack  0;
+_p pushBack  190;
+
+_i pushBack  "CUP_arifle_RPK74M";
+_u pushBack  1;
+_p pushBack  210;
+
+_i pushBack  "CUP_arifle_RPK74_45_top_rail";
+_u pushBack  2;
+_p pushBack  390;
+
+_i pushBack  "CUP_arifle_RPK74M_railed";
+_u pushBack  3;
+_p pushBack  490;
+
+_i pushBack  "CUP_arifle_RPK74_top_rail";
+_u pushBack  3;
+_p pushBack  460;
+
+_i pushBack 'CUP_arifle_RPK74_45';
+_u pushBack 1;
+_p pushBack 450;
+
+_i pushBack 'CUP_arifle_RPK74';
+_u pushBack 1;
+_p pushBack 450;
+
+_i pushBack  "arifle_RPK12_arid_F";
+_u pushBack  3;
+_p pushBack  450;
+
+_i pushBack  "75rnd_762x39_AK12_Arid_Mag_F";
+_u pushBack  3;
+_p pushBack  100;
+
+_i pushBack  "muzzle_snds_B_snd_F";
+_u pushBack  3;
+_p pushBack  75;
+
+_i pushBack  "CUP_lmg_PKM";
+_u pushBack  1;
+_p pushBack  230;
+
+_i pushBack 'CUP_lmg_Pecheneg';
+_u pushBack 2;
+_p pushBack 600;
+
+_i pushBack  "CUP_lmg_Pecheneg_woodland";
+_u pushBack  3;
+_p pushBack  300;
+
+_i pushBack  "CUP_lmg_Pecheneg_desert";
+_u pushBack  3;
+_p pushBack  300;
+
+_i pushBack  "CUP_lmg_Pecheneg_top_rail_B50_vfg";
+_u pushBack  3;
+_p pushBack  350;
+
+_i pushBack "CUP_sgun_AA12";
+_u pushBack 3;
+_p pushBack 400;
+
+_i pushBack  "CUP_glaunch_6G30";
+_u pushBack  4;
+_p pushBack  650;
+
+_i pushBack  "CUP_arifle_AS_VAL_flash_top";
+_u pushBack  3;
+_p pushBack  270;
+
+_i pushBack  "CUP_arifle_AS_VAL";
+_u pushBack  2;
+_p pushBack  170;
+
+_i pushBack 'CUP_smg_EVO';
+_u pushBack 1;
+_p pushBack 400;
+
+_i pushBack  "CUP_smg_bizon";
+_u pushBack  1;
+_p pushBack  450;
+
+_i pushBack  "CUP_arifle_AS_VAL_VFG";
+_u pushBack  2;
+_p pushBack  175;
+
+_i pushBack  "CUP_arifle_AS_VAL_top_rail";
+_u pushBack  3;
+_p pushBack  230;
+
+_i pushBack  "CUP_arifle_AS_VAL_flash_top";
+_u pushBack  3;
+_p pushBack  235;
+
 //--Magazines--
 _i pushBack 'CUP_5x_22_LR_17_HMR_M';
 _u pushBack 0;
