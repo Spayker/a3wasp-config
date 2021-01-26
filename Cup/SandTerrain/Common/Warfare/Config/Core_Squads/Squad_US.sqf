@@ -158,7 +158,7 @@ _aiTeamUpgrades pushBack 2;
 _u = ["CUP_B_LAV25M240_desert_USMC"];
 _u pushBack "CUP_B_LAV25M240_desert_USMC";
 
-_aiTeamTemplateName pushBack "LAV25 Patrol";
+_aiTeamTemplateName pushBack "LAV25 M240 Patrol";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 3;
@@ -167,6 +167,14 @@ _u = ["CUP_B_M1128_MGS_Desert"];
 _u pushBack "CUP_B_M1128_MGS_Desert";
 
 _aiTeamTemplateName pushBack "Striker MGS Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Light';
+_aiTeamUpgrades pushBack 4;
+
+_u = ["CUP_B_M1128_MGS_Desert_Slat"];
+_u pushBack "CUP_B_M1128_MGS_Desert_Slat";
+
+_aiTeamTemplateName pushBack "Striker MGS Slat Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 4;

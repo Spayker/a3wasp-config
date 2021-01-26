@@ -171,6 +171,14 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 4;
 
+_u = ["CUP_B_M1128_MGS_Woodland_Slat"];
+_u pushBack "CUP_B_M1128_MGS_Woodland_Slat";
+
+_aiTeamTemplateName pushBack "Striker MGS Slat Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Light';
+_aiTeamUpgrades pushBack 4;
+
 _u = ["CUP_B_RM70_CZ"];
 _u pushBack "CUP_B_RM70_CZ";
 
