@@ -224,6 +224,14 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 2;
 
+_u = ["CUP_O_BMP3_RU_WASP"];
+_u pushBack "CUP_O_BMP3_RU_WASP";
+
+_aiTeamTemplateName pushBack "BMP 3 Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Heavy';
+_aiTeamUpgrades pushBack 2;
+
 _u = ["CUP_O_T72_TKA"];
 _u pushBack "CUP_O_T72_TKA";
 
