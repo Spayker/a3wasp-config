@@ -247,7 +247,7 @@ _c pushBack 'CUP_B_HMMWV_TOW_USA';
 _i pushBack ['','',1250,30,-2,2,1,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_M1167_DSRT_USMC';
-_i pushBack ['','',1750,30,-2,3,1,0,'USA (Army - W)',[]];
+_i pushBack ['','',1750,30,-2,2,1,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_M1126_ICV_M2_Desert';
 _i pushBack ['','',2100,30,-2,2,1,0,'USA (Army - W)',[]];

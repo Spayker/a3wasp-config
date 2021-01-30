@@ -116,10 +116,10 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 1;
 
-_u = ["CUP_B_HMMWV_TOW_USA"];
-_u pushBack "CUP_B_HMMWV_TOW_USA";
+_u = ["CUP_B_M1167_DSRT_USMC"];
+_u pushBack "CUP_B_M1167_DSRT_USMC";
 
-_aiTeamTemplateName pushBack "Hummer AT Tow Patrol";
+_aiTeamTemplateName pushBack "Hummer AT TOW Patrol";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 2;
