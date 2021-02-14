@@ -271,7 +271,7 @@ _WF_SPECOPS = [
     ]
 ];
 
-_WF_ARTY_OPERATOR = [
+_WF_MEDIC = [
     ["GEAR 1", [
                     [
                         ["CUP_arifle_XM8_Carbine",["","","",""],["CUP_30Rnd_556x45_XM8"]],
@@ -338,7 +338,7 @@ _WF_ARTY_OPERATOR = [
     ]
 ];
 
-_WF_UAV_OPERATOR = [
+_WF_SUPPORT = [
     ["GEAR 1", [
                     [
                         ["CUP_arifle_XM8_Carbine",["","","",""],["CUP_30Rnd_556x45_XM8"]],

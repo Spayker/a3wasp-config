@@ -19,6 +19,18 @@ _i pushBack 'CUP_hgun_Glock17';
 _u pushBack 0;
 _p pushBack 275;
 
+_i pushBack 'CUP_hgun_M17_Black';
+_u pushBack 0;
+_p pushBack 275;
+
+_i pushBack 'CUP_hgun_M17_Green';
+_u pushBack 0;
+_p pushBack 275;
+
+_i pushBack 'CUP_hgun_Glock17_tan';
+_u pushBack 0;
+_p pushBack 275;
+
 _i pushBack 'CUP_hgun_Mk23';
 _u pushBack 1;
 _p pushBack 375;
@@ -87,6 +99,10 @@ _i pushBack 'CUP_arifle_M4A1';
 _u pushBack 0;
 _p pushBack 400;
 
+_i pushBack 'CUP_arifle_CZ805_A1_coyote';
+_u pushBack 0;
+_p pushBack 400;
+
 _i pushBack 'CUP_arifle_M4A1_black';
 _u pushBack 0;
 _p pushBack 400;
@@ -112,6 +128,10 @@ _u pushBack 0;
 _p pushBack 400;
 
 _i pushBack 'CUP_arifle_G36K_KSK_VFG_hex';
+_u pushBack 0;
+_p pushBack 400;
+
+_i pushBack 'CUP_arifle_G36K_KSK_VFG_camo';
 _u pushBack 0;
 _p pushBack 400;
 
@@ -299,6 +319,10 @@ _i pushBack 'CUP_arifle_Mk16_CQC_EGLM_black';
 _u pushBack 2;
 _p pushBack 500;
 
+_i pushBack 'CUP_arifle_Mk16_CQC_EGLM';
+_u pushBack 2;
+_p pushBack 500;
+
 _i pushBack 'CUP_arifle_Mk17_STD_EGLM_black';
 _u pushBack 3;
 _p pushBack 600;
@@ -423,10 +447,17 @@ _i pushBack  "20Rnd_556x45_UW_mag";
 _u pushBack  0;
 _p pushBack  15;
 
-
 _i pushBack 'CUP_HandGrenade_M67';
 _u pushBack 0;
 _p pushBack 150;
+
+_i pushBack 'HandGrenade';
+_u pushBack 0;
+_p pushBack 150;
+
+_i pushBack 'MiniGrenade';
+_u pushBack 0;
+_p pushBack 100;
 
 _i pushBack 'SmokeShellBlue';
 _u pushBack 0;
@@ -447,6 +478,14 @@ _p pushBack 100;
 _i pushBack 'B_IR_Grenade';
 _u pushBack 0;
 _p pushBack 100;
+
+_i pushBack 'CUP_21Rnd_9x19_M17_Black';
+_u pushBack 0;
+_p pushBack 15;
+
+_i pushBack 'CUP_21Rnd_9x19_M17_Green';
+_u pushBack 0;
+_p pushBack 15;
 
 _i pushBack 'CUP_17Rnd_9x19_glock17';
 _u pushBack 0;
@@ -484,7 +523,15 @@ _i pushBack '30Rnd_45ACP_Mag_SMG_01_Tracer_Red';
 _u pushBack 0;
 _p pushBack 15;
 
+_i pushBack 'CUP_30Rnd_556x45_Stanag_L85';
+_u pushBack 0;
+_p pushBack 30;
+
 _i pushBack 'CUP_30Rnd_556x45_Stanag_Mk16';
+_u pushBack 0;
+_p pushBack 30;
+
+_i pushBack 'CUP_30Rnd_556x45_CZ805';
 _u pushBack 0;
 _p pushBack 30;
 
@@ -569,6 +616,22 @@ _u pushBack 0;
 _p pushBack 100;
 
 //--Vests--
+_i pushBack 'V_Chestrig_khk';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_V_B_BAF_MTP_Osprey_Mk4_Webbing';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_V_B_GER_Carrier_Rig_3_Brown';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'V_TacVest_brn';
+_u pushBack 0;
+_p pushBack 50;
+
 _i pushBack 'V_RebreatherB';
 _u pushBack 0;
 _p pushBack 50;
@@ -670,6 +733,22 @@ _u pushBack 4;
 _p pushBack 300;
 
 //--Uniform--
+_i pushBack 'CUP_U_B_CZ_DST_NoKneepads';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_B_BAF_MTP_UBACSLONGKNEE_Gloves';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_CRYEG3_V1';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_CRYE_G3C_Tan_MC_US';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_U_B_BAF_MTP_UBACSLONGKNEE';
 _u pushBack 0;
 _p pushBack 25;
@@ -683,6 +762,10 @@ _u pushBack 0;
 _p pushBack 25;
 
 _i pushBack 'CUP_U_CRYE_G3C_MC_US';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_B_GER_Crye';
 _u pushBack 0;
 _p pushBack 25;
 
@@ -719,6 +802,10 @@ _u pushBack 0;
 _p pushBack 25;
 
 //--Helmets--
+_i pushBack 'CUP_H_CZ_Helmet07';
+_u pushBack 0;
+_p pushBack 40;
+
 _i pushBack 'CUP_H_USMC_ACVC_DES';
 _u pushBack 1;
 _p pushBack 80;
@@ -859,11 +946,27 @@ _i pushBack 'H_MilCap_gry';
 _u pushBack 0;
 _p pushBack 5;
 
+_i pushBack 'CUP_G_ESS_KHK_Scarf_Face_Tan_GPS';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_G_PMC_Facewrap_Tan_Glasses_Dark_Headset';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_H_Ger_Boonie_desert';
+_u pushBack 0;
+_p pushBack 5;
+
 _i pushBack 'CUP_TK_NeckScarf';
 _u pushBack 0;
 _p pushBack 5;
 
 _i pushBack 'CUP_FR_NeckScarf';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_H_USA_Cap_MARSOC_DEF';
 _u pushBack 0;
 _p pushBack 5;
 
@@ -895,6 +998,14 @@ _i pushBack 'H_Cap_headphones';
 _u pushBack 0;
 _p pushBack 5;
 
+_i pushBack 'CUP_H_CZ_Cap_Headphones_des';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_H_CZ_Cap_Headphones';
+_u pushBack 0;
+_p pushBack 5;
+
 _i pushBack 'G_Shades_Black';
 _u pushBack 0;
 _p pushBack 5;
@@ -920,6 +1031,10 @@ _u pushBack 0;
 _p pushBack 5;
 
 _i pushBack 'H_ShemagOpen_tan';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_G_PMC_Facewrap_Tan_Glasses_Dark_Headset';
 _u pushBack 0;
 _p pushBack 5;
 
@@ -980,6 +1095,10 @@ _u pushBack 0;
 _p pushBack 50;
 
 _i pushBack 'CUP_acc_LLM01_coyote_F';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_optic_AC11704_Coyote';
 _u pushBack 0;
 _p pushBack 50;
 
@@ -1122,6 +1241,10 @@ _p pushBack 150;
 _i pushBack 'CUP_T10_Parachute_backpack';
 _u pushBack 0;
 _p pushBack 250;
+
+_i pushBack 'CUP_B_GER_Medic_Tropentarn';
+_u pushBack 0;
+_p pushBack 150;
 
 _i pushBack 'B_Bergen_mcamo_F';
 _u pushBack 4;
@@ -1352,6 +1475,10 @@ _u pushBack 1;
 _p pushBack 30;
 
 _i pushBack 'optic_MRD';
+_u pushBack 1;
+_p pushBack 30;
+
+_i pushBack 'optic_MRD_black';
 _u pushBack 1;
 _p pushBack 30;
 

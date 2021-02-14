@@ -271,7 +271,7 @@ _WF_SPECOPS = [
     ]
 ];
 
-_WF_ARTY_OPERATOR = [
+_WF_MEDIC = [
     ["GEAR 1", [
                     [
                         ["CUP_arifle_XM8_Carbine",["","","",""],["CUP_30Rnd_556x45_XM8"]],
@@ -431,6 +431,9 @@ switch (_role) do {
     };
     case WF_SPECOPS: {
         _templates = [_WF_SPECOPS, _level] call _selectTemplates;
+    };
+    case WF_MEDIC: {
+        _templates = [_WF_MEDIC, _level] call _selectTemplates;
     };
     case WF_SUPPORT: {
         _templates = [_WF_SUPPORT, _level] call _selectTemplates;

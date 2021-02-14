@@ -84,6 +84,10 @@ _i pushBack  "U_O_FullGhillie_sard";
 _u pushBack  2;
 _p pushBack  200;
 
+_i pushBack  "U_I_FullGhillie_ard";
+_u pushBack  2;
+_p pushBack  200;
+
 _i pushBack  "U_O_FullGhillie_lsh";
 _u pushBack  2;
 _p pushBack  200;

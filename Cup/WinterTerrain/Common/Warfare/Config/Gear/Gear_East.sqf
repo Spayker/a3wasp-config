@@ -78,6 +78,10 @@ _i pushBack 'CUP_arifle_AKS74U';
 _u pushBack 1;
 _p pushBack 400;
 
+_i pushBack 'CUP_arifle_AKS74U_railed';
+_u pushBack 1;
+_p pushBack 400;
+
 _i pushBack 'CUP_arifle_AK74';
 _u pushBack 0;
 _p pushBack 350;
@@ -95,6 +99,10 @@ _u pushBack 1;
 _p pushBack 350;
 
 _i pushBack 'CUP_arifle_AK74M_railed_afg';
+_u pushBack 1;
+_p pushBack 350;
+
+_i pushBack 'CUP_arifle_AK74M_railed_afg_camo';
 _u pushBack 1;
 _p pushBack 350;
 
@@ -322,6 +330,70 @@ _i pushBack  "CUP_glaunch_6G30";
 _u pushBack  4;
 _p pushBack  650;
 
+_i pushBack 'CUP_arifle_AK74_GL';
+_u pushBack 0;
+_p pushBack 400;
+
+_i pushBack 'CUP_arifle_AK74M_GL';
+_u pushBack 1;
+_p pushBack 450;
+
+_i pushBack 'CUP_arifle_AK107_GL';
+_u pushBack 3;
+_p pushBack 500;
+
+_i pushBack 'CUP_arifle_Sa58RIS2_gl';
+_u pushBack 1;
+_p pushBack 500;
+
+_i pushBack 'CUP_arifle_AK101_GL';
+_u pushBack 1;
+_p pushBack 400;
+
+_i pushBack 'CUP_arifle_AK101_GL_railed';
+_u pushBack 1;
+_p pushBack 500;
+
+_i pushBack  "CUP_arifle_AK103_GL_railed";
+_u pushBack  2;
+_p pushBack  500;
+
+_i pushBack  "CUP_arifle_FNFAL5062";
+_u pushBack  2;
+_p pushBack  500;
+
+_i pushBack  "CUP_arifle_AK107_GL_railed";
+_u pushBack  3;
+_p pushBack  600;
+
+_i pushBack  "CUP_arifle_AK109_GL_railed";
+_u pushBack  4;
+_p pushBack  700;
+
+_i pushBack  "CUP_arifle_AK74M_GL_top_rail";
+_u pushBack  1;
+_p pushBack  400;
+
+_i pushBack  "CUP_arifle_AK74M_GL_top_rail_camo";
+_u pushBack  1;
+_p pushBack  400;
+
+_i pushBack  "CUP_arifle_AKMN_railed_desert";
+_u pushBack  1;
+_p pushBack  400;
+
+_i pushBack  "CUP_arifle_AKM_GL_Early";
+_u pushBack  1;
+_p pushBack  350;
+
+_i pushBack  "CUP_arifle_AKM_GL_top_rail";
+_u pushBack  1;
+_p pushBack  450;
+
+_i pushBack  "CUP_arifle_OTS14_GROZA_GL";
+_u pushBack  2;
+_p pushBack  350;
+
 _i pushBack  "CUP_arifle_AS_VAL_flash_top";
 _u pushBack  3;
 _p pushBack  270;
@@ -411,7 +483,15 @@ _i pushBack 'CUP_30Rnd_762x39_AK103_bakelite_M';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_30Rnd_545x39_AK74_plum_M';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_30Rnd_545x39_AK74M_M';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_30Rnd_545x39_AK74M_camo_M';
 _u pushBack 0;
 _p pushBack 25;
 
@@ -508,6 +588,10 @@ _i pushBack 'CUP_optic_1p63';
 _u pushBack 1;
 _p pushBack 50;
 
+_i pushBack 'CUP_optic_1P87_RIS_woodland';
+_u pushBack 1;
+_p pushBack 50;
+
 _i pushBack  "CUP_optic_AIMM_COMPM4_BLK";
 _u pushBack  0;
 _p pushBack  200;
@@ -537,8 +621,20 @@ _i pushBack 'U_O_R_Gorka_01_camo_F';
 _u pushBack 0;
 _p pushBack 100;
 
+_i pushBack 'U_O_R_Gorka_01_F';
+_u pushBack 0;
+_p pushBack 100;
+
 //--Vests--
 _i pushBack 'V_RebreatherIR';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'V_SmershVest_01_F';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'V_SmershVest_01_radio_F';
 _u pushBack 0;
 _p pushBack 50;
 
@@ -627,6 +723,10 @@ _i pushBack 'CUP_H_RUS_6B27_olive';
 _u pushBack 2;
 _p pushBack 120;
 
+_i pushBack 'CUP_H_RUS_6B47_SF';
+_u pushBack 2;
+_p pushBack 120;
+
 _i pushBack 'CUP_H_RUS_6B47_v2_Summer';
 _u pushBack 3;
 _p pushBack 160;
@@ -656,6 +756,14 @@ _u pushBack 0;
 _p pushBack 5;
 
 _i pushBack 'G_Aviator';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_H_RUS_Bandana_GSSh_Headphones';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_G_Scarf_Face_Grn';
 _u pushBack 0;
 _p pushBack 5;
 
@@ -1179,6 +1287,10 @@ _i pushBack 'CUP_muzzle_snds_KZRZP_AK762';
 _u pushBack 2;
 _p pushBack 400;
 
+_i pushBack 'CUP_muzzle_snds_SA61';
+_u pushBack 1;
+_p pushBack 200;
+
 _i pushBack 'CUP_muzzle_snds_KZRZP_SVD';
 _u pushBack 2;
 _p pushBack 400;
@@ -1256,6 +1368,10 @@ _u pushBack 1;
 _p pushBack 250;
 
 _i pushBack 'CUP_O_RUS_Patrol_bag_Summer';
+_u pushBack 1;
+_p pushBack 250;
+
+_i pushBack 'CUP_O_RUS_Patrol_bag_Green';
 _u pushBack 1;
 _p pushBack 250;
 
@@ -1493,6 +1609,10 @@ _p pushBack 300;
 
 _i pushBack 'CUP_5Rnd_127x108_KSVK_M';
 _u pushBack 3;
+_p pushBack 50;
+
+_i pushBack 'CUP_50Rnd_B_765x17_Ball_M';
+_u pushBack 1;
 _p pushBack 50;
 
 _i pushBack 'CUP_5Rnd_86x70_L115A1';

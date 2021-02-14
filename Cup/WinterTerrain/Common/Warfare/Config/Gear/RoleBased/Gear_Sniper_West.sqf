@@ -24,6 +24,10 @@ _i pushBack 'CUP_srifle_M14';
 _u pushBack 0;
 _p pushBack 400;
 
+_i pushBack 'CUP_srifle_M24_wdl';
+_u pushBack 0;
+_p pushBack 400;
+
 _i pushBack 'CUP_srifle_M14_DMR';
 _u pushBack 1;
 _p pushBack 550;
@@ -93,6 +97,10 @@ _u pushBack  2;
 _p pushBack  200;
 
 _i pushBack  "U_B_GhillieSuit";
+_u pushBack  1;
+_p pushBack  200;
+
+_i pushBack  "U_B_FullGhillie_lsh";
 _u pushBack  1;
 _p pushBack  200;
 

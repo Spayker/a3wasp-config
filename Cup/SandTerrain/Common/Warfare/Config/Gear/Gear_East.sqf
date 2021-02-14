@@ -78,6 +78,10 @@ _i pushBack 'CUP_arifle_AKS74U';
 _u pushBack 1;
 _p pushBack 400;
 
+_i pushBack 'CUP_arifle_AKS74U_railed';
+_u pushBack 1;
+_p pushBack 400;
+
 _i pushBack 'CUP_arifle_AK74';
 _u pushBack 0;
 _p pushBack 350;
@@ -227,6 +231,10 @@ _u pushBack  4;
 _p pushBack  700;
 
 _i pushBack  "CUP_arifle_AK74M_GL_top_rail";
+_u pushBack  1;
+_p pushBack  400;
+
+_i pushBack  "CUP_arifle_AK74M_GL_top_rail_desert";
 _u pushBack  1;
 _p pushBack  400;
 
@@ -415,6 +423,14 @@ _i pushBack 'CUP_30Rnd_545x39_AK74M_M';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_30Rnd_545x39_AK74_plum_M';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_30Rnd_545x39_AK74M_desert_M';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_30Rnd_556x45_AK';
 _u pushBack 0;
 _p pushBack 25;
@@ -492,11 +508,23 @@ _i pushBack 'CUP_HandGrenade_RGO';
 _u pushBack 0;
 _p pushBack 150;
 
+_i pushBack 'MiniGrenade';
+_u pushBack 0;
+_p pushBack 100;
+
 _i pushBack 'CUP_acc_Glock17_Flashlight';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_acc_ANPEQ_15_Flashlight_Tan_L';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_optic_Kobra';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_optic_1P87_RIS_desert';
 _u pushBack 0;
 _p pushBack 50;
 
@@ -529,6 +557,10 @@ _i pushBack 'CUP_U_CRYE_ATACSAU_Roll';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'U_O_R_Gorka_01_brown_F';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_U_O_RUS_Flora_1';
 _u pushBack 1;
 _p pushBack 35;
@@ -553,11 +585,23 @@ _i pushBack 'U_O_Wetsuit';
 _u pushBack 0;
 _p pushBack 100;
 
-_i pushBack 'U_O_R_Gorka_01_brown_F';
-_u pushBack 0;
-_p pushBack 100;
-
 //--Vests--
+_i pushBack 'V_SmershVest_01_radio_F';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'V_HarnessO_brn';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'V_HarnessO_gry';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'V_TacVest_khk';
+_u pushBack 0;
+_p pushBack 50;
+
 _i pushBack 'V_RebreatherIR';
 _u pushBack 0;
 _p pushBack 50;
@@ -632,6 +676,10 @@ _u pushBack 2;
 _p pushBack 120;
 
 _i pushBack 'CUP_H_RUS_6B46';
+_u pushBack 2;
+_p pushBack 120;
+
+_i pushBack 'CUP_H_RUS_6B47_SF_headset_goggles_desert';
 _u pushBack 2;
 _p pushBack 120;
 
@@ -747,7 +795,31 @@ _i pushBack 'G_Bandanna_tan';
 _u pushBack 0;
 _p pushBack 5;
 
+_i pushBack 'CUP_G_ESS_KHK_Scarf_Face_Tan_GPS';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_G_PMC_Facewrap_Tan_Glasses_Dark_Headset';
+_u pushBack 0;
+_p pushBack 5;
+
 _i pushBack 'CUP_H_FR_Bandana_Headset';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'H_Booniehat_khk_hs';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_H_PMC_Cap_PRR_Tan';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_H_PMC_Cap_Tan';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_H_PMC_Cap_EP_Tan';
 _u pushBack 0;
 _p pushBack 5;
 
@@ -988,6 +1060,10 @@ _u pushBack 1;
 _p pushBack 30;
 
 _i pushBack 'CUP_10Rnd_762x54_SVD_M';
+_u pushBack 1;
+_p pushBack 30;
+
+_i pushBack 'CUP_50Rnd_B_765x17_Ball_M';
 _u pushBack 1;
 _p pushBack 30;
 
@@ -1239,6 +1315,10 @@ _i pushBack 'CUP_muzzle_PB6P9';
 _u pushBack 1;
 _p pushBack 300;
 
+_i pushBack 'CUP_muzzle_snds_SA61';
+_u pushBack 1;
+_p pushBack 300;
+
 _i pushBack 'CUP_muzzle_Bizon';
 _u pushBack 1;
 _p pushBack 300;
@@ -1358,6 +1438,10 @@ _p pushBack 250;
 _i pushBack 'CUP_B_RUS_Backpack';
 _u pushBack 1;
 _p pushBack 250;
+
+_i pushBack 'B_Kitbag_cbr';
+_u pushBack 0;
+_p pushBack 200;
 
 _i pushBack 'B_Parachute';
 _u pushBack 1;
