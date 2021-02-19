@@ -70,7 +70,8 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_LABELS"], [
 	localize 'STR_WF_UPGRADE_ArtilleryAmmo',
 	localize 'STR_WF_UPGRADE_TANK_MAGZ',
 	localize 'STR_WF_UPGRADE_HC_GROUP_SIZE',
-	localize 'STR_WF_UPGRADE_REMOTE_CONTROL'
+	localize 'STR_WF_UPGRADE_REMOTE_CONTROL',
+	localize 'STR_WF_UPGRADE_ADV_AA_DEFENSE'
 ]];
 
 missionNamespace setVariable [Format["WF_C_UPGRADES_DESCRIPTIONS"], [
@@ -92,7 +93,8 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_DESCRIPTIONS"], [
 	localize 'STR_WF_UPGRADE_ArtilleryAmmo_Desc',
 	localize 'STR_WF_UPGRADE_TANK_MAGZ_Desc',
 	localize 'STR_WF_UPGRADE_HC_GROUP_SIZE_Desc',
-	localize 'STR_WF_UPGRADE_REMOTE_CONTROL_DESC'
+	localize 'STR_WF_UPGRADE_REMOTE_CONTROL_DESC',
+	localize 'STR_WF_UPGRADE_ADV_AA_DEFENSE_DESC'
 ]];
 
 call WFCO_fnc_sortUpgradeLabels;

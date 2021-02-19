@@ -21,7 +21,8 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_ENABLED", _side], [
 	false,
 	true, //--- Tanks Ammo
 	true,  //--- High Command group quantity
-	true //--Remote control--
+	true, //--Remote control--
+	true  //---	Advanced Anti Air defenses
 ]];
 
 missionNamespace setVariable [Format["WF_C_UPGRADES_%1_COSTS", _side], [
@@ -43,7 +44,8 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_COSTS", _side], [
 	[[2500,0],[3500,0],[4500,0]], //--- Artillery Ammo
 	[[1000,0],[1500,0],[2000,0]], //--- Tanks Ammo
 	[[1000,0],[1500,0],[2000,0]],  //--- High Command group quantity
-	[[2500,2500]]  //--Remote control--
+	[[2500,2500]],  //--Remote control--
+	[[7500,0]] //--- 	Advanced Anti Air defenses
 ]];
 
 missionNamespace setVariable [Format["WF_C_UPGRADES_%1_LEVELS", _side], [
@@ -65,7 +67,8 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_LEVELS", _side], [
 	3, //--- Artillery Ammo
 	3, //--- Tanks Ammo
 	3,  //--- High Command group quantity
-	1  //--Remote control--
+	1, //--Remote control--
+	1  //--	 Advanced Anti Air defenses
 ]];
 
 missionNamespace setVariable [Format["WF_C_UPGRADES_%1_LINKS", _side], [
@@ -103,7 +106,8 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_LINKS", _side], [
 		[[WF_UP_HEAVY,3],[WF_UP_GEAR,4]]
 	], //--- Tanks Ammo
 	[[],[],[],[]], //--- High Command group quantity
-	[[]] //--Remote control--
+	[[]], //--Remote control--
+	[[WF_UP_AIR,1]] //--- Advanced Anti Air defenses
 ]];
 
 missionNamespace setVariable [Format["WF_C_UPGRADES_%1_TIMES", _side], [
@@ -125,7 +129,8 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_TIMES", _side], [
 	[60,120,180], //--- Artillery Ammo
 	[30,60,90], //--- Tanks Ammo
 	[30,60,90],  //--- High Command group quantity
-	[45] //--Remote control--
+	[45], //--Remote control--
+	[60]  //--- Advanced Anti Air defenses
 ]];
 
 missionNamespace setVariable [Format["WF_C_UPGRADES_%1_AI_ORDER", _side], [
