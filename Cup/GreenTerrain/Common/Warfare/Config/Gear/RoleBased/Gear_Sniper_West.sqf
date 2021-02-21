@@ -108,7 +108,7 @@ _i pushBack  "U_B_FullGhillie_sard";
 _u pushBack  2;
 _p pushBack  200;
 
-[_faction, _i, _u, _p, WF_SNIPER] call compile preprocessFileLineNumbers "Common\Warfare\Config\Gear\Gear_Role_Config_Set.sqf";
+[_faction, _i, _u, _p, WF_RECON] call compile preprocessFileLineNumbers "Common\Warfare\Config\Gear\Gear_Role_Config_Set.sqf";
 
 
 
