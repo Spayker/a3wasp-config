@@ -420,10 +420,10 @@ _selectTemplates = {
 };
 
 switch (_role) do {
-    case WF_SNIPER: {
+    case WF_RECON: {
         _templates = [_WF_SNIPER, _level] call _selectTemplates;
     };
-    case WF_SOLDIER: {
+    case WF_ASSAULT: {
         _templates = [_WF_SOLDIER, _level] call _selectTemplates;
     };
     case WF_ENGINEER: {
