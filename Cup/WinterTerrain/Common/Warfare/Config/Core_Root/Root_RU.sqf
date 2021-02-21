@@ -92,101 +92,101 @@ if (local player) then {
 //Engineer
 missionNamespace setVariable ["WF_EAST_DefaultGearEngineer", [
 	[
-		["CUP_sgun_Saiga12K_top_rail",["CUP_optic_HoloBlack","","",""],["CUP_8Rnd_B_Saiga12_74Pellets_M"]],
-		["",["","","",""],[""]],
+		["CUP_arifle_AK74M_railed_afg_camo",["","","CUP_optic_1P87_RIS_woodland",""],["CUP_30Rnd_545x39_AK74M_camo_M"]],
+		["CUP_launch_RPG26",["","","",""],[""]],
 		["CUP_hgun_PMM",["","","",""],["CUP_12Rnd_9x18_PMM_M"]]
 	],
 	
 	[
-		["CUP_U_O_RUS_Ratnik_Summer",["CUP_8Rnd_B_Saiga12_74Pellets_M","CUP_8Rnd_B_Saiga12_74Pellets_M"]],
-		["V_BandollierB_khk",["CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
-		["CUP_O_RUS_Patrol_bag_Summer",["FirstAidKit","CUP_8Rnd_B_Saiga12_74Pellets_M","CUP_8Rnd_B_Saiga12_74Pellets_M","CUP_8Rnd_B_Saiga12_74Pellets_M"]]],
-		["h_watchcap_camo",""],
-		[["","binocular"],["itemmap","","itemradio","itemcompass","itemwatch"]]
+		["U_O_R_Gorka_01_camo_F",["CUP_30Rnd_545x39_AK74M_camo_M","CUP_30Rnd_545x39_AK74M_camo_M"]],
+		["V_SmershVest_01_radio_F",["CUP_30Rnd_545x39_AK74M_camo_M","CUP_30Rnd_545x39_AK74M_camo_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
+		["CUP_O_RUS_Patrol_bag_Green_Shovel",["FirstAidKit","CUP_30Rnd_545x39_AK74M_camo_M","CUP_30Rnd_545x39_AK74M_camo_M","CUP_30Rnd_545x39_AK74M_camo_M"]]],
+		["CUP_H_RUS_Bandana_GSSh_Headphones","G_Bandanna_oli"],
+		[["","binocular"],["itemmap","CUP_NVG_PVS14_Hide_WASP","itemradio","itemcompass","itemwatch"]]
 	]
 ];
 
-// Sniper
+// Recon
 missionNamespace setVariable ["WF_EAST_DefaultGearSpot", [
 	[
-		["cup_srifle_cz550_rail",["","","CUP_optic_AIMM_COMPM4_BLK",""],["cup_5x_22_lr_17_hmr_m"]],
-		["",["","","",""],[""]],
-		["CUP_hgun_PMM",["","","",""],["CUP_12Rnd_9x18_PMM_M"]]
+		["CUP_srifle_SVD_wdl",["","CUP_SVD_camo_g","CUP_optic_PSO_3",""],["CUP_10Rnd_762x54_SVD_M"]],
+		["CUP_launch_RPG26",["","","",""],[""]],
+		["CUP_hgun_SA61",["CUP_muzzle_snds_SA61","","",""],["CUP_50Rnd_B_765x17_Ball_M"]]
 	],
 
 	[
-		["U_O_GhillieSuit",["cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m"]],
-		["V_BandollierB_khk",["cup_5x_22_lr_17_hmr_m","cup_5x_22_lr_17_hmr_m","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
-		["",["FirstAidKit"]]],
-		["H_Bandanna_camo",""],
-		[["","binocular"],["itemmap","","itemradio","itemcompass","itemwatch"]]
+		["U_I_FullGhillie_sard",["CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M"]],
+		["V_SmershVest_01_F",["CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_10Rnd_762x54_SVD_M","CUP_50Rnd_B_765x17_Ball_M","CUP_50Rnd_B_765x17_Ball_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
+		["",[""]]],
+		["CUP_G_Scarf_Face_Grn",""],
+		[["","Rangefinder"],["itemmap","CUP_NVG_PVS14_Hide_WASP","itemradio","itemcompass","itemwatch"]]
 	]
 ];
 
-// Soldier
+// Assault
 missionNamespace setVariable ["WF_EAST_DefaultGearSoldier", [
 	[
-		["CUP_arifle_AK74_GL",["","","",""],["CUP_30Rnd_545x39_AK74M_M","CUP_1Rnd_HE_GP25_M"]],
+		["CUP_arifle_AK74M_GL_top_rail_camo",["","","CUP_optic_1P87_RIS_woodland",""],["CUP_30Rnd_545x39_AK74M_camo_M","CUP_1Rnd_HE_GP25_M"]],
 		["CUP_launch_RPG26",["","","",""],[""]],
 		["CUP_hgun_PMM",["","","",""],["CUP_12Rnd_9x18_PMM_M"]]
 	],
 	
 	[
-		["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_545x39_AK74M_M","CUP_30Rnd_545x39_AK74M_M","CUP_30Rnd_545x39_AK74M_M","CUP_30Rnd_545x39_AK74M_M"]],
-		["V_BandollierB_khk",["CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
-		["CUP_O_RUS_Patrol_bag_Summer",["FirstAidKit"]]],
-		["h_watchcap_camo",""],
-		[["","binocular"],["itemmap","","itemradio","itemcompass","itemwatch"]]
+		["U_O_R_Gorka_01_camo_F",["CUP_30Rnd_545x39_AK74M_camo_M","CUP_30Rnd_545x39_AK74M_camo_M","CUP_30Rnd_545x39_AK74M_camo_M","CUP_30Rnd_545x39_AK74M_camo_M"]],
+		["V_TacVest_oli",["CUP_30Rnd_545x39_AK74M_camo_M","CUP_30Rnd_545x39_AK74M_camo_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_1Rnd_HE_GP25_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
+		["CUP_O_RUS_Patrol_bag_Green",["FirstAidKit"]]],
+		["CUP_H_RUS_6B47_SF","CUP_G_RUS_Balaclava_Ratnik"],
+		[["","binocular"],["itemmap","CUP_NVG_PVS14_Hide_WASP","itemradio","itemcompass","itemwatch"]]
 	]
 ];
 
-// Lock MAN
+// SpecOps
 missionNamespace setVariable ["WF_EAST_DefaultGearLock", [
 	[
-		["CUP_arifle_AKS74U",["CUP_muzzle_PBS4","","CUP_optic_Kobra",""],["CUP_30Rnd_545x39_AK_M"]],
+		["CUP_arifle_AS_VAL_VFG",["","CUP_acc_ANPEQ_15_Top_Flashlight_Black_L","CUP_optic_1p63",""],["CUP_20Rnd_9x39_SP5_VSS_M"]],
 		["CUP_launch_RPG26",["","","",""],[""]],
-		["CUP_hgun_PMM",["","","",""],["CUP_12Rnd_9x18_PMM_M"]]
+		["CUP_hgun_SA61",["CUP_muzzle_snds_SA61","","",""],["CUP_50Rnd_B_765x17_Ball_M"]]
 	],
 	
 	[
-		["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_545x39_AK_M","CUP_30Rnd_545x39_AK_M","CUP_30Rnd_545x39_AK_M","CUP_30Rnd_545x39_AK_M"]],
-		["V_BandollierB_khk",["CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],	["CUP_V_RUS_6B45_2",["CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
-		["CUP_O_RUS_Patrol_bag_Summer",["FirstAidKit"]]],
-		["H_Bandanna_camo",""],
-		[["","binocular"],["itemmap","","itemradio","itemcompass","itemwatch"]]
+		["U_O_R_Gorka_01_camo_F",["CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M"]],
+		["V_SmershVest_01_F",["CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_20Rnd_9x39_SP5_VSS_M","CUP_50Rnd_B_765x17_Ball_M","CUP_50Rnd_B_765x17_Ball_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
+		["CUP_O_RUS_Patrol_bag_Green",["FirstAidKit"]]],
+		["CUP_H_RUS_Balaclava_Ratnik_Headphones",""],
+		[["","binocular"],["itemmap","CUP_NVG_PVS14_Hide_WASP","itemradio","itemcompass","itemwatch"]]
 	]
 ];
 
 // Support
 missionNamespace setVariable ["WF_EAST_DefaultGearSupport", [
 	[
-		["CUP_arifle_AK74",["","","CUP_optic_Kobra",""],["CUP_30Rnd_545x39_AK_M"]],
+		["CUP_arifle_AK74M_railed_camo",["","","CUP_optic_1P87_RIS_woodland",""],["CUP_30Rnd_545x39_AK74M_camo_M"]],
 		["CUP_launch_RPG26",["","","",""],[""]],
 		["CUP_hgun_PMM",["","","",""],["CUP_12Rnd_9x18_PMM_M"]]
 	],
 	
 	[
-		["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_545x39_AK_M","CUP_30Rnd_545x39_AK_M","CUP_30Rnd_545x39_AK_M","CUP_30Rnd_545x39_AK_M"]],
-		["V_BandollierB_khk",["CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
+		["U_O_R_Gorka_01_F",["CUP_30Rnd_545x39_AK74M_camo_M","CUP_30Rnd_545x39_AK74M_camo_M","CUP_30Rnd_545x39_AK74M_camo_M","CUP_30Rnd_545x39_AK74M_camo_M"]],
+		["V_SmershVest_01_radio_F",["CUP_30Rnd_545x39_AK74M_camo_M","CUP_30Rnd_545x39_AK74M_camo_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
 		["O_UGV_02_Demining_backpack_F",[""]]],
-		["H_Bandanna_khk_hs",""],
-		[["O_UavTerminal","binocular"],["itemmap","","itemradio","itemcompass","itemwatch"]]
+		["H_Cap_headphones",""],
+		[["O_UavTerminal","binocular"],["itemmap","CUP_NVG_PVS14_Hide_WASP","itemradio","itemcompass","itemwatch"]]
 	]
 ];
 
 // Medic
 missionNamespace setVariable ["WF_EAST_DefaultGearMedic", [
 	[
-		["CUP_arifle_AK74",["","","CUP_optic_PSO_1",""],["CUP_30Rnd_545x39_AK_M"]],
+		["CUP_arifle_AKS74U_railed",["","","CUP_optic_1P87_RIS_woodland",""],["CUP_30Rnd_545x39_AK74_plum_M"]],
 		["CUP_launch_RPG26",["","","",""],[""]],
 		["CUP_hgun_PMM",["","","",""],["CUP_12Rnd_9x18_PMM_M"]]
 	],
 	
 	[
-		["CUP_U_O_RUS_Ratnik_Summer",["CUP_30Rnd_545x39_AK_M","CUP_30Rnd_545x39_AK_M","CUP_30Rnd_545x39_AK_M","CUP_30Rnd_545x39_AK_M"]],
-		["V_BandollierB_khk",["CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
-		["CUP_O_RUS_Patrol_bag_Summer",["FirstAidKit"]]],
-		["h_watchcap_camo",""],
-		[["","Rangefinder"],["itemmap","","itemradio","itemcompass","itemwatch"]]
+		["U_O_R_Gorka_01_camo_F",["CUP_30Rnd_545x39_AK74_plum_M","CUP_30Rnd_545x39_AK74_plum_M","CUP_30Rnd_545x39_AK74_plum_M","CUP_30Rnd_545x39_AK74_plum_M"]],
+		["V_BandollierB_khk",["CUP_30Rnd_545x39_AK74_plum_M","CUP_30Rnd_545x39_AK74_plum_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_12Rnd_9x18_PMM_M","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"]],
+		["CUP_O_RUS_Patrol_bag_Green",["FirstAidKit"]]],
+		["H_Watchcap_camo",""],
+		[["","binocular"],["itemmap","CUP_NVG_PVS14_Hide_WASP","itemradio","itemcompass","itemwatch"]]
 	]
 ];

@@ -95,101 +95,101 @@ if (local player) then {
 //Engineer
 missionNamespace setVariable ["WF_WEST_DefaultGearEngineer", [
 	[
-		["CUP_sgun_M1014_Entry_vfg",["","","CUP_optic_HoloBlack",""],["CUP_6Rnd_12Gauge_Pellets_No00_Buck"]],
-		["",["","","",""],[""]],
-		["CUP_hgun_Glock17",["","","",""],["CUP_17Rnd_9x19_glock17"]]
+		["CUP_arifle_Mk16_STD_FG_woodland",["","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_Stanag_Mk16_woodland"]],
+		["CUP_launch_M136",["","","",""],[""]],
+		["CUP_hgun_Glock17_tan",["","","",""],["CUP_17Rnd_9x19_glock17"]]
 	],
 	
 	[
-		["CUP_U_B_USArmy_Base",["CUP_6Rnd_12Gauge_Pellets_No00_Buck","CUP_6Rnd_12Gauge_Pellets_No00_Buck","CUP_6Rnd_12Gauge_Pellets_No00_Buck","CUP_6Rnd_12Gauge_Pellets_No00_Buck"]],
-		["V_HarnessO_brn",["CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
-		["CUP_V_B_IOTV_Rifleman",["FirstAidKit"]]],
-		["h_milcap_gry",""],
-		[["","Leupold_Mk4"],["itemmap","","itemradio","itemcompass","itemwatch"]]
+		["CUP_U_CRYE_G3C_RGR_MC_US",["CUP_30Rnd_556x45_Stanag_Mk16_woodland","CUP_30Rnd_556x45_Stanag_Mk16_woodland", "CUP_30Rnd_556x45_Stanag_Mk16_woodland"]],
+		["CUP_V_B_RRV_TL",["CUP_30Rnd_556x45_Stanag_Mk16_woodland","CUP_30Rnd_556x45_Stanag_Mk16_woodland","CUP_30Rnd_556x45_Stanag_Mk16_woodland","CUP_HandGrenade_M67","CUP_HandGrenade_M67","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
+		["B_Kitbag_rgr",["FirstAidKit"]]],
+		["CUP_H_USA_Cap_MARSOC_DEF","G_Bandanna_oli"],
+		[["","binocular"],["itemmap","CUP_NVG_PVS14_Hide_WASP","itemradio","itemcompass","itemwatch"]]
 	]
 ];
 
-// Sniper
+// Recon
 missionNamespace setVariable ["WF_WEST_DefaultGearSpot", [
 	[
-		["CUP_srifle_CZ750",["","","CUP_optic_AIMM_COMPM4_BLK",""],["CUP_10Rnd_762x51_CZ750"]],
-		["",["","","",""],[""]],
-		["CUP_hgun_TEC9",["","","",""],["CUP_32Rnd_9x19_TEC9"]]
+		["CUP_srifle_M24_wdl",["","CUP_Mxx_camo","CUP_optic_LeupoldMk4_10x40_LRT_Woodland",""],["CUP_5Rnd_762x51_M24"]],
+		["CUP_launch_M136",["","","",""],[""]],
+		["CUP_hgun_M17_Black",["CUP_muzzle_snds_M9","","",""],["CUP_21Rnd_9x19_M17_Black"]]
 	],
 	
 	[
-		["U_B_GhillieSuit",["CUP_10Rnd_762x51_CZ750","CUP_10Rnd_762x51_CZ750","CUP_10Rnd_762x51_CZ750","CUP_10Rnd_762x51_CZ750"]],
-		["V_HarnessO_brn",["CUP_10Rnd_762x51_CZ750","CUP_10Rnd_762x51_CZ750","CUP_32Rnd_9x19_TEC9","CUP_32Rnd_9x19_TEC9","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
-		["",["FirstAidKit"]]],
-		["H_Bandanna_sgg",""],
-		[["","Leupold_Mk4"],["itemmap","","itemradio","itemcompass","itemwatch"]]
+		["U_B_FullGhillie_lsh",["CUP_5Rnd_762x51_M24","CUP_5Rnd_762x51_M24","CUP_5Rnd_762x51_M24","CUP_5Rnd_762x51_M24"]],
+		["CUP_V_B_RRV_Scout2",["CUP_5Rnd_762x51_M24","CUP_5Rnd_762x51_M24","CUP_21Rnd_9x19_M17_Black","CUP_21Rnd_9x19_M17_Black","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
+		["",[""]]],
+		["CUP_G_Scarf_Face_Grn",""],
+		[["","Rangefinder"],["itemmap","CUP_NVG_PVS14_Hide_WASP","itemradio","itemcompass","itemwatch"]]
 	]
 ];
 
-// Soldier
+// Assault
 missionNamespace setVariable ["WF_WEST_DefaultGearSoldier", [
 	[
-		["CUP_arifle_M4A1_BUIS_GL",["","","",""],["CUP_30Rnd_556x45_Stanag","CUP_1Rnd_HE_M203"]],
+		["CUP_arifle_Mk16_CQC_EGLM_woodland",["","","CUP_optic_AC11704_OD",""],["CUP_30Rnd_556x45_Stanag_Mk16_woodland","CUP_1Rnd_HE_M203"]],
 		["CUP_launch_M136",["","","",""],[""]],
 		["CUP_hgun_Glock17",["","","",""],["CUP_17Rnd_9x19_glock17"]]
 	],
 	
 	[
-		["CUP_U_B_USArmy_Base",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag"]],
-		["V_HarnessO_brn",["CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
-		["CUP_V_B_IOTV_Rifleman",["FirstAidKit"]]],
-		["h_milcap_gry",""],
-		[["","Leupold_Mk4"],["itemmap","","itemradio","itemcompass","itemwatch"]]
+		["V_I_G_resistanceLeader_F",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag"]],
+		["CUP_V_B_ALICE",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_1Rnd_HE_M203","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
+		["CUP_B_USMC_AssaultPack",["FirstAidKit"]]],
+		["CUP_H_CZ_Helmet09","CUP_G_Scarf_Face_Grn"],
+		[["","binocular"],["itemmap","CUP_NVG_PVS14_Hide_WASP","itemradio","itemcompass","itemwatch"]]
 	]
 ];
 
-// Lock MAN
+// SpecOps
 missionNamespace setVariable ["WF_WEST_DefaultGearLock", [
 	[
-		["CUP_arifle_M4A1",["CUP_muzzle_snds_M16","","CUP_optic_HoloBlack",""],["CUP_30Rnd_556x45_Stanag"]],
+		["CUP_arifle_G36K_KSK_VFG_hex",["CUP_muzzle_snds_G36_hex","","CUP_optic_AC11704_OD",""],["CUP_30Rnd_556x45_G36_hex"]],
 		["CUP_launch_M136",["","","",""],[""]],
-		["CUP_hgun_Glock17",["","","",""],["CUP_17Rnd_9x19_glock17"]]
+		["CUP_hgun_Glock17_blk",["CUP_muzzle_snds_M9","","optic_MRD_black",""],["CUP_17Rnd_9x19_glock17"]]
 	],
 	
 	[
-		["CUP_U_B_USArmy_Base",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag"]],
-		["V_HarnessO_brn",["CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
-		["CUP_V_B_IOTV_Rifleman",["FirstAidKit"]]],
-		["h_milcap_gry",""],
-		[["","Leupold_Mk4"],["itemmap","","itemradio","itemcompass","itemwatch"]]
+		["CUP_U_B_GER_Fleck_Crye",["CUP_30Rnd_556x45_G36_hex","CUP_30Rnd_556x45_G36_hex","CUP_30Rnd_556x45_G36_hex","CUP_30Rnd_556x45_G36_hex"]],
+		["CUP_V_B_GER_Carrier_Rig_2",["CUP_30Rnd_556x45_G36_hex","CUP_30Rnd_556x45_G36_hex","CUP_30Rnd_556x45_G36_hex","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
+		["B_AssaultPack_khk",["FirstAidKit"]]],
+		["CUP_H_Ger_Boonie_Flecktarn","G_Bandanna_oli"],
+		[["","binocular"],["itemmap","CUP_NVG_PVS14_Hide_WASP","itemradio","itemcompass","itemwatch"]]
 	]
 ];
 
 // Support
 missionNamespace setVariable ["WF_WEST_DefaultGearSupport", [
 	[
-		["CUP_arifle_G36K_KSK",["CUP_acc_ANPEQ_2_Black_Top","","",""],["CUP_30Rnd_556x45_G36"]],
+		["CUP_arifle_CZ805_A1_coyote",["","","CUP_optic_AC11704_Coyote",""],["CUP_30Rnd_556x45_CZ805"]],
 		["CUP_launch_M136",["","","",""],[""]],
-		["CUP_hgun_Glock17",["","","",""],["CUP_17Rnd_9x19_glock17"]]
+		["CUP_hgun_M17_Green",["","optic_MRD_black","",""],["CUP_21Rnd_9x19_M17_Green"]]
 	],
 	
 	[
-		["CUP_U_B_USArmy_Base",["CUP_30Rnd_556x45_G36","CUP_30Rnd_556x45_G36","CUP_30Rnd_556x45_G36","CUP_30Rnd_556x45_G36"]],
-		["V_HarnessO_brn",["CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
+		["CUP_U_B_CZ_WDL_NoKneepads",["CUP_30Rnd_556x45_CZ805","CUP_30Rnd_556x45_CZ805","CUP_30Rnd_556x45_CZ805","CUP_30Rnd_556x45_CZ805"]],
+		["CUP_V_B_RRV_TL",["CUP_30Rnd_556x45_CZ805","CUP_30Rnd_556x45_CZ805","CUP_21Rnd_9x19_M17_Green","CUP_21Rnd_9x19_M17_Green","CUP_21Rnd_9x19_M17_Green","CUP_21Rnd_9x19_M17_Green","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
 		["B_UGV_02_Demining_backpack_F",[""]]],
-		["h_milcap_gry",""],
-		[["B_UavTerminal","Leupold_Mk4"],["itemmap","","itemradio","itemcompass","itemwatch"]]
+		["CUP_H_CZ_Cap_Headphones",""],
+		[["B_UavTerminal","binocular"],["itemmap","CUP_NVG_PVS14_Hide_WASP","itemradio","itemcompass","itemwatch"]]
 	]
 ];
 
 // Medic
 missionNamespace setVariable ["WF_WEST_DefaultGearMedic", [
 	[
-		["CUP_arifle_M4A1",["","","CUP_optic_ACOG",""],["CUP_30Rnd_556x45_Stanag"]],
-		["CUP_launch_M136_hedp",["","","",""],[""]],
-		["CUP_hgun_Glock17",["","","",""],["CUP_17Rnd_9x19_glock17"]]
+		["CUP_arifle_L85A2_G",["","","CUP_optic_AC11704_Black",""],["CUP_30Rnd_556x45_Stanag_L85"]],
+		["CUP_launch_M136",["","","",""],[""]],
+		["CUP_hgun_M17_Green",["","","optic_MRD_black",""],["CUP_21Rnd_9x19_M17_Green"]]
 	],
 	
 	[
-		["CUP_U_B_USArmy_Base",["CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag"]],
-		["V_HarnessO_brn",["CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_17Rnd_9x19_glock17","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
-		["CUP_V_B_IOTV_Rifleman",["FirstAidKit"]]],
-		["h_milcap_gry",""],
-		[["","Rangefinder"],["itemmap","","itemradio","itemcompass","itemwatch"]]
+		["CUP_U_B_BAF_DPM_UBACSLONGKNEE",["CUP_30Rnd_556x45_Stanag_L85","CUP_30Rnd_556x45_Stanag_L85","CUP_30Rnd_556x45_Stanag_L85","CUP_30Rnd_556x45_Stanag_L85"]],
+		["CUP_V_B_BAF_MTP_Osprey_Mk4_Webbing",["CUP_30Rnd_556x45_Stanag_L85","CUP_30Rnd_556x45_Stanag_L85","CUP_21Rnd_9x19_M17_Green","CUP_21Rnd_9x19_M17_Green","CUP_21Rnd_9x19_M17_Green","CUP_21Rnd_9x19_M17_Green","CUP_HandGrenade_M67","CUP_HandGrenade_M67"]],
+		["CUP_B_Motherlode_MTP",["FirstAidKit"]]],
+		["CUP_H_BAF_PARA_PRRUNDER_BERET",""],
+		[["","binocular"],["itemmap","CUP_NVG_PVS14_Hide_WASP","itemradio","itemcompass","itemwatch"]]
 	]
 ];
