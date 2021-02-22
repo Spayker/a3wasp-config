@@ -324,7 +324,7 @@ _c pushBack 'CUP_I_M113_AAF';
 _i pushBack ['','',1600,30,-2,0,2,0,'Guerilla',[], 2];
 
 _c pushBack 'CUP_I_M163_AAF';
-_i pushBack ['','',3600,30,-2,2,2,0,'Guerilla',[], 1];
+_i pushBack ['','',3600,30,-2,2,2,0,'Guerilla',[], 2];
 
 _c pushBack 'CUP_I_T34_NAPA';
 _i pushBack ['','',1500,30,-2,1,2,0,'Guerilla',[]];

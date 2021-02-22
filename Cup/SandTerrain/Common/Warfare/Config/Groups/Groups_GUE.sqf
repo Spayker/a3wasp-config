@@ -242,7 +242,7 @@ _l pushBack _u;
 
 _k pushBack "AA_Light_0";
 _u		= ["CUP_I_Hilux_M2_TK"];
-_u pushBack "CUP_I_Hilux_zu23_TK";
+_u pushBack "CUP_I_Ural_ZU23_NAPA";
 _l pushBack _u;
 
 _k pushBack "AA_Light_1";
@@ -252,6 +252,11 @@ _l pushBack _u;
 
 _k pushBack "AA_Heavy_0";
 _u		= ["CUP_I_ZSU23_AAF"];
+_u pushBack "CUP_I_Hilux_igla_TK";
+_l pushBack _u;
+
+_k pushBack "AA_Heavy_1";
+_u		= ["CUP_I_M163_AAF"];
 _u pushBack "CUP_I_Hilux_igla_TK";
 _l pushBack _u;
 
