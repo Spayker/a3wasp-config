@@ -41,6 +41,9 @@ _i pushBack ['','',165,6,-1,0,0,1,'Guerilla',[]];
 _c pushBack 'CUP_I_GUE_Soldier_LAT';
 _i pushBack ['','',170,5,-1,0,0,1,'Guerilla',[]];
 
+_c pushBack 'I_C_Soldier_Bandit_2_F';
+_i pushBack ['','',170,5,-1,0,0,1,'Guerilla',[]];
+
 _c pushBack 'CUP_I_GUE_Saboteur';
 _i pushBack ['','',255,5,-1,1,0,1,'Guerilla',[]];
 
@@ -71,10 +74,34 @@ _i pushBack ['','',165,5,-1,1,0,1,'Guerilla',[]];
 _c pushBack 'CUP_I_GUE_Sniper';
 _i pushBack ['Sniper','',265,5,-1,1,0,1,'Guerilla',[]];
 
+_c pushBack 'I_L_Hunter_F';
+_i pushBack ['','',175,5,-1,1,0,1,'Guerilla',[]];
+
+_c pushBack 'I_C_Soldier_Para_1_F';
+_i pushBack ['','',150,5,-1,1,0,1,'Guerilla',[]];
+
+_c pushBack 'I_C_Soldier_Para_2_F';
+_i pushBack ['','',150,5,-1,1,0,1,'Guerilla',[]];
+
+_c pushBack 'I_C_Soldier_Para_3_F';
+_i pushBack ['','',150,5,-1,1,0,1,'Guerilla',[]];
+
+_c pushBack 'I_C_Soldier_Para_4_F';
+_i pushBack ['','',150,5,-1,1,0,1,'Guerilla',[]];
+
+_c pushBack 'I_C_Soldier_Para_6_F';
+_i pushBack ['','',150,5,-1,1,0,1,'Guerilla',[]];
+
+_c pushBack 'I_C_Soldier_Para_8_F';
+_i pushBack ['','',150,5,-1,1,0,1,'Guerilla',[]];
+
 _c pushBack 'CUP_I_PMC_Sniper';
 _i pushBack ['Sniper','',265,5,-1,1,0,1,'Guerilla',[]];
 
 _c pushBack 'CUP_I_GUE_Forester';
+_i pushBack ['','',165,5,-1,1,0,1,'Guerilla',[]];
+
+_c pushBack 'I_L_Looter_SG_F';
 _i pushBack ['','',165,5,-1,1,0,1,'Guerilla',[]];
 
 _c pushBack 'CUP_I_GUE_Woodman';
