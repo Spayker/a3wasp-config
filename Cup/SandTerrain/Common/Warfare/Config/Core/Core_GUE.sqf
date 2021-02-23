@@ -225,6 +225,9 @@ _i pushBack ['','',550,17,-2,1,1,0,'Guerilla',[]];
 _c pushBack 'CUP_I_SUV_Armored_ION';
 _i pushBack ['','',750,17,-2,1,1,0,'Guerilla',[]];
 
+_c pushBack 'CUP_I_LSV_02_Minigun_ION';
+_i pushBack ['','',750,17,-2,1,1,0,'Guerilla',[]];
+
 _c pushBack 'CUP_I_LR_SF_GMG_AAF';
 _i pushBack ['','',550,17,-2,1,1,0,'Guerilla',[], 2];
 
@@ -242,6 +245,9 @@ _i pushBack ['','',250,17,-2,0,1,0,'Guerilla',[],7];
 
 _c pushBack 'CUP_I_UAZ_SPG9_UN';
 _i pushBack ['','',290,17,-2,0,1,0,'Guerilla',[], 7];
+
+_c pushBack 'CUP_I_BTR40_MG_TKG';
+_i pushBack ['','',800,22,-2,0,1,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_BTR60_UN';
 _i pushBack ['','',1200,25,-2,3,1,0,'Guerilla',[],5];
