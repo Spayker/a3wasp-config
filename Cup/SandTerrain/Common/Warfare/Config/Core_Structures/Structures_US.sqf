@@ -428,6 +428,7 @@ _n pushBack "Land_SandbagBarricade_01_hole_F";
 _n pushBack "Land_Wall_IndCnc_2deco_F";
 _n pushBack "Land_Mil_WallBig_4m_battered_F";
 _n pushBack "Land_CncWall4_F";
+_n pushBack "Land_HBarrierTower_F";
 
 // static fortification
 _n pushBack "Land_CamoNet_NATO_EP1";

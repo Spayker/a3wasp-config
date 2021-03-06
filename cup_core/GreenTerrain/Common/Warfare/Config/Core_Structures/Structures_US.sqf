@@ -180,6 +180,7 @@ _n pushBack "Land_CamoConcreteWall_01_l_4m_v2_F";
 _n pushBack "Land_Vez_svetla";
 _n pushBack "Land_HBarrier_large";
 _n pushBack "Land_HBarrier5";
+_n pushBack "Land_HBarrierTower_F";
 
 // static fortification
 _n pushBack "CamoNet_BLUFOR_F";
