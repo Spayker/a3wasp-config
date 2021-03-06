@@ -169,6 +169,9 @@ _i pushBack['','',80,0,0,0,'Fortification',0,'Civilians',[]];
 _c pushBack'Land_HBarrier5';
 _i pushBack['','',50,0,0,0,'Fortification',0,'Civilians',[]];
 
+_c pushBack'Land_HBarrierTower_F';
+_i pushBack['','',300,0,0,0,'Fortification',0,'Civilians',[]];
+
 
 for '_z' from 0 to (count _c)-1 do {
 	if (isClass (configFile >> 'CfgVehicles' >> (_c # _z))) then {

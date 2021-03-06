@@ -172,6 +172,9 @@ _i pushBack['','',95,0,0,0,'Fortification',0,'CUP - Civilians',[]];
 _c pushBack'Land_Mil_WallBig_4m_battered_F';
 _i pushBack['','',95,0,0,0,'Fortification',0,'Civilians',[]];
 
+_c pushBack'Land_HBarrierTower_F';
+_i pushBack['','',300,0,0,0,'Fortification',0,'Civilians',[]];
+
 
 for '_z' from 0 to (count _c)-1 do {
 	if (isClass (configFile >> 'CfgVehicles' >> (_c # _z))) then {
