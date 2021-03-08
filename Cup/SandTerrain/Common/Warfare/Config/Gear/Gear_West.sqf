@@ -300,7 +300,7 @@ _u pushBack 1;
 _p pushBack 500;
 
 _i pushBack 'CUP_arifle_Mk17_CQC_EGLM_black';
-_u pushBack 2;
+_u pushBack 3;
 _p pushBack 500;
 
 _i pushBack 'CUP_arifle_Mk17_STD_EGLM';
