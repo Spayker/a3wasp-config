@@ -145,7 +145,8 @@ missionNamespace setVariable [Format["WF_%1STRUCTUREDIRECTIONS", _side], _dir];
 missionNamespace setVariable [Format["WF_%1STRUCTURESCRIPTS", _side], _s];
 missionNamespace setVariable [Format["WF_%1STRUCTUREDMGREDUCER", _side], _dmgr];
 missionNamespace setVariable [Format["WF_%1STRUCTUREMAXHEALTH", _side], _mhp];
-missionNamespace setVariable [Format["WF_%1STRUCTUREICON", _side], _ic];missionNamespace setVariable [Format["WF_%1MILITARY_BASE_DISCOUNT_PROGRAM", _side], ["Barracks", "Light Factory", "Heavy Factory"]];
+missionNamespace setVariable [Format["WF_%1STRUCTUREICON", _side], _ic];
+missionNamespace setVariable [Format["WF_%1MILITARY_BASE_DISCOUNT_PROGRAM", _side], ["Barracks", "Light Factory", "Heavy Factory"]];
 missionNamespace setVariable [Format["WF_%1AIR_BASE_DISCOUNT_PROGRAM", _side], ["Aircraft Factory", "Anti-Air Radar"]];
 
 /* Defenses */

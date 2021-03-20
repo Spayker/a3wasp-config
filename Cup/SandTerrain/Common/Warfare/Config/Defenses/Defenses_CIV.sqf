@@ -14,41 +14,35 @@ _t = []; //--- Category
 _k = []; //--- Kind (Used for town defenses)
 
 //--- Defenses (Statics)
-_c pushBack 'CUP_B_DSHkM_MiniTriPod_NAPA';
+_c pushBack 'CUP_B_DSHkM_MiniTriPod_CDF';
 _n pushBack '';
 _o pushBack 150;
 _t pushBack "Defense";
 _k pushBack "";
 
-_c pushBack 'CUP_I_DSHKM_NAPA';
+_c pushBack 'CUP_B_DSHKM_CDF';
 _n pushBack '';
 _o pushBack 200;
 _t pushBack "Defense";
 _k pushBack "MG";
 
-_c pushBack 'CUP_I_SPG9_NAPA';
+_c pushBack 'CUP_B_SPG9_CDF';
 _n pushBack '';
 _o pushBack 400;
 _t pushBack "Defense";
 _k pushBack "AT";
 
-_c pushBack 'CUP_I_ZU23_NAPA';
+_c pushBack 'CUP_B_ZU23_CDF';
 _n pushBack '';
 _o pushBack 600;
 _t pushBack "Defense";
 _k pushBack "AA";
 
-_c pushBack 'CUP_I_2b14_82mm_TK_GUE';
+_c pushBack 'CUP_B_2b14_82mm_CDF';
 _n pushBack '';
 _o pushBack 1100;
 _t pushBack "Defense";
 _k pushBack "";
-
-_c pushBack 'CUP_I_D30_TK_GUE';
-_n pushBack '';
-_o pushBack 1800;
-_t pushBack "Defense";
-_k pushBack "Artillery";
 
 //--- Defenses management for towns.
 if (isServer || isHeadLessClient) then {[_side, _c, _k] Call Compile preprocessFile "Common\Warfare\Config\Config_Defenses_Towns.sqf"};
