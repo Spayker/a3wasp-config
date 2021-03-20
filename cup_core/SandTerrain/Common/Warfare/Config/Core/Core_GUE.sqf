@@ -156,9 +156,6 @@ _c pushBack 'CUP_I_PMC_Crew';
 _i pushBack ['','',150,4,-1,0,0,0.85,'PMC',[]];
 
 //Light Vehicles
-_c pushBack 'CUP_I_V3S_Rearm_TKG';
-_i pushBack ['','',500,17,-2,0,1,0,'Guerilla',[]];
-
 _c pushBack 'CUP_I_Datsun_PK';
 _i pushBack ['','',250,17,-2,0,1,0,'Guerilla',[]];
 
@@ -186,6 +183,9 @@ _i pushBack ['','',325,17,-2,0,1,0,'Guerilla',[]];
 _c pushBack 'CUP_I_Hilux_AGS30_TK';
 _i pushBack ['','',400,17,-2,1,1,0,'Guerilla',[]];
 
+_c pushBack 'CUP_I_Hilux_MLRS_TK';
+_i pushBack ['','',15879,17,-2,4,1,0,'Guerilla',[]];
+
 _c pushBack 'CUP_I_Hilux_metis_NAPA';
 _i pushBack ['','',700,17,-2,1,1,0,'Guerilla',[]];
 
@@ -194,6 +194,9 @@ _i pushBack ['','',700,17,-2,1,1,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_Hilux_podnos_TK';
 _i pushBack ['','',400,17,-2,1,1,0,'Guerilla',[]];
+
+_c pushBack 'CUP_I_LR_Transport_RACS';
+_i pushBack ['','',400,17,-2,0,1,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_Hilux_MLRS_TK';
 _i pushBack ['','',500,17,-2,1,1,0,'Guerilla',[]];
@@ -206,6 +209,24 @@ _i pushBack ['','',500,17,-2,1,1,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_Hilux_igla_TK';
 _i pushBack ['','',500,17,-2,1,1,0,'Guerilla',[]];
+
+_c pushBack 'CUP_I_LR_Ambulance_RACS';
+_i pushBack ['(AMBU) Land-Rover','',3380,23,-2,2,1,0,'Guerilla',[]];
+
+_c pushBack 'CUP_V3S_Open_NAPA';
+_i pushBack ['','',250,21,-2,0,1,0,'Guerilla',[]];
+
+_c pushBack 'CUP_I_V3S_Covered_TKG';
+_i pushBack ['(Salvage Truck) V3S','',300,21,-2,0,1,0,'Guerilla',[]];
+
+_c pushBack 'CUP_I_V3S_Rearm_TKG';
+_i pushBack ['(Ammo Truck) V3S','',1000,21,-2,0,1,0,'Guerilla',[]];
+
+_c pushBack 'CUP_I_V3S_Refuel_TKG';
+_i pushBack ['','',300,21,-2,0,1,0,'Guerilla',[]];
+
+_c pushBack 'CUP_I_V3S_Repair_TKG';
+_i pushBack ['(Repair Truck) V3S','',2880,21,-2,2,1,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_4WD_AT_ION';
 _i pushBack ['','',350,17,-2,1,1,0,'Guerilla',[]];
@@ -261,13 +282,12 @@ _i pushBack ['','',1800,25,-2,3,1,0,'Guerilla',[]];
 _c pushBack 'CUP_I_Ural_ZU23_NAPA';
 _i pushBack ['','',1750,25,-2,2,1,0,'Guerilla',[]];
 
-_c pushBack 'CUP_I_LAV25_RACS';
-_i pushBack ['','',2750,25,-2,2,1,0,'Guerilla',[], 0];
-
-_c pushBack 'CUP_I_LAV25M240_RACS';
-_i pushBack ['','',2950,25,-2,2,1,0,'Guerilla',[], 0];
+_c pushBack 'CUP_I_BRDM2_HQ_NAPA';
+_i pushBack ['Mobile HQ','',25000,23,-2,0,1,0,'Guerilla',[]];
 
 /* Heavy Vehicles */
+_c pushBack 'CUP_I_BMP2_AMB_NAPA';
+_i pushBack ['(AMBU) BMP-2','',3880,23,-2,0,2,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_M60A3_RACS';
 _i pushBack ['','',2000,30,-2,1,2,0,'Guerilla',[], 1];
@@ -318,8 +338,8 @@ _i pushBack ['','',5000,35,-2,2,2,0,'Guerilla',[]];
 _c pushBack 'CUP_I_Wildcat_Green_AAF';
 _i pushBack ['','',10500,35,-2,2,2,0,'Guerilla',[]];
 
-_c pushBack 'CUP_I_Mi24_D_Dynamic_ION';
-_i pushBack ['','',13200,35,-2,2,2,0,'Guerilla',[], 3];
+_c pushBack 'CUP_I_Mi24_D_Dynamic_AAF';
+_i pushBack ['','',13200,35,-2,2,2,0,'Guerilla',[], 16];
 
 _c pushBack 'CUP_I_L39_AAF';
 _i pushBack ['','',29000,55,-2,2,3,0,'Guerilla',[]];
@@ -336,21 +356,30 @@ _i pushBack ['','', 15000,20,-2,2,3,0,'Guerilla',[],0];
 _c pushBack 'CUP_I_Mi17_UN';
 _i pushBack ['','', 7500,20,-2,2,3,0,'Guerilla',[],0];
 
+_c pushBack 'CUP_I_C130J_AAF';
+_i pushBack ['','',14800,43,-2,1,3,0,'Guerilla',[]];
+
 //Static Defenses
+_c pushBack 'CUP_I_D30_TK_GUE';
+_i pushBack ['','',2000,0,1,0,'Defense',0,'Guerilla',[]];
+
+_c pushBack 'CUP_I_2b14_82mm_NAPA';
+_i pushBack ['Podnos Mortar','',1000,0,1,0,'Defense',0,'Guerilla',[]];
+
 _c pushBack 'CUP_I_DSHKM_NAPA';
 _i pushBack ['','',300,0,1,0,'Defense',0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_ZU23_NAPA';
 _i pushBack ['','',600,0,1,0,'Defense',0,'Guerilla',[]];
 
+_c pushBack 'CUP_I_AGS_TK_GUE';
+_i pushBack ['','',560,0,1,0,'Defense',0,'Guerilla',[]];
+
 _c pushBack 'CUP_B_DSHkM_MiniTriPod_NAPA';
 _i pushBack ['','',225,0,1,0,'Defense',0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_SPG9_NAPA';
 _i pushBack ['','',675,0,1,0,'Defense',0,'Guerilla',[]];
-
-_c pushBack 'CUP_I_DSHKM_NAPA';
-_i pushBack ['','',700,0,1,0,'Defense',0,'Guerilla',[]];
 
 _c pushBack'I_HMG_01_high_F';
 _i pushBack['','',300,0,1,0,'Defense',0,'Guerilla',[]];

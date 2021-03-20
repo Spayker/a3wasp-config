@@ -7,7 +7,6 @@ _l = [];//--- Unit list
 _k = [];//--- Type used by AI.
 
 _side = "EAST";
-_faction = "RU";
 
 _k pushBack "Squad_0";
 _u		= ["CUP_O_RU_Soldier_Ratnik_BeigeDigital"];
@@ -340,4 +339,4 @@ _k pushBack "Air_Heavy_4";
 _u =      [""];
 _l pushBack _u;
 
-[_k,_l,_side,_faction] Call Compile preprocessFile "Common\Warfare\Config\Config_Groups.sqf";
+[_k,_l,_side] Call Compile preprocessFile "Common\Warfare\Config\Config_Groups.sqf";

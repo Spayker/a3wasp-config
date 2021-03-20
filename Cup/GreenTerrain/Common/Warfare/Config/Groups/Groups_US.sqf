@@ -7,7 +7,6 @@ _l = [];//--- Unit list
 _k = [];//--- Type used by AI.
 
 _side = "WEST";
-_faction = "US";
 
 _k pushBack "Squad_0";
 _u		= ["CUP_B_USMC_Soldier_GL_FROG_WDL"];
@@ -184,87 +183,74 @@ _l pushBack _u;
 
 _k pushBack "Motorized_0";
 _u =      ["CUP_B_HMMWV_M2_USMC"];
-_u pushBack "CUP_B_HMMWV_MK19_USMC";
 _l pushBack _u;
 
 _k pushBack "Motorized_1";
-_u =      ["CUP_B_M1151_M2_USMC"];
-_u pushBack "CUP_B_M1151_Mk19_USMC";
+_u =      ["CUP_B_HMMWV_MK19_USMC"];
 _l pushBack _u;
 
 _k pushBack "Motorized_2";
-_u =      ["CUP_B_M1151_M2_USMC"];
-_u pushBack "CUP_B_M1151_Mk19_USMC";
-_u pushBack "CUP_B_M1151_Mk19_USMC";
+_u =      ["CUP_B_LAV25_USMC"];
 _l pushBack _u;
 
 _k pushBack "Motorized_3";
-_u =      ["CUP_B_M1126_ICV_M2_Woodland_Slat"];
-_u pushBack "CUP_B_M1151_Mk19_USMC";
-_u pushBack "CUP_B_HMMWV_TOW_USMC";
+_u =      ["CUP_B_LAV25M240_USMC"];
 _l pushBack _u;
 
 _k pushBack "Motorized_4";
-_u =      ["CUP_B_M1126_ICV_M2_Woodland_Slat"];
-_u pushBack "CUP_B_LAV25M240_USMC";
-_u pushBack "CUP_B_HMMWV_TOW_USMC";
+_u =      ["CUP_B_M1128_MGS_Woodland_Slat"];
 _l pushBack _u;
 
 _k pushBack "AA_Light_0";
 _u		= ["CUP_B_HMMWV_Avenger_USMC"];
-_u pushBack "CUP_B_HMMWV_Avenger_USMC";
 _l pushBack _u;
 
 _k pushBack "AA_Light_1";
 _u		= ["CUP_B_HMMWV_Avenger_USMC"];
-_u pushBack "CUP_B_HMMWV_Avenger_USMC";
 _l pushBack _u;
 
 _k pushBack "AA_Heavy_0";
-_u		= ["CUP_B_HMMWV_Avenger_USMC"];
-_u pushBack "CUP_B_M6LineBacker_USA_W";
+_u		= ["CUP_B_M6LineBacker_USA_W"];
 _l pushBack _u;
 
 _k pushBack "Mechanized_0";
-_u		= ["CUP_B_M113_USA"];
-_u pushBack "CUP_B_FV432_Bulldog_GB_W_RWS";
+_u		= ["CUP_B_AAV_USMC"];
 _l pushBack _u;
 
 _k pushBack "Mechanized_1";
-_u		= ["CUP_B_AAV_USMC"];
-_u pushBack "CUP_B_M2Bradley_USA_W_WASP";
+_u		= ["CUP_B_MCV80_GB_W_SLAT"];
 _l pushBack _u;
 
 _k pushBack "Mechanized_2";
 _u		= ["CUP_B_M2Bradley_USA_W_WASP"];
-_u pushBack "CUP_B_M2Bradley_USA_W_WASP";
 _l pushBack _u;
 
 _k pushBack "Mechanized_3";
 _u		= ["CUP_B_M2A3Bradley_USA_W"];
-_u pushBack "CUP_B_M2A3Bradley_USA_W";
-_u pushBack "CUP_B_M2A3Bradley_USA_W";
+_l pushBack _u;
+
+_k pushBack "Mechanized_4";
+_u		= ["CUP_B_M2A3Bradley_USA_W"];
 _l pushBack _u;
 
 _k pushBack "Armored_0";
 _u		= ["CUP_B_M2Bradley_USA_W_WASP"];
-_u pushBack "CUP_B_M2A3Bradley_USA_W";
 _l pushBack _u;
 
 _k pushBack "Armored_1";
 _u		= ["CUP_B_M2A3Bradley_USA_W"];
-_u pushBack "CUP_B_M2A3Bradley_USA_W";
 _l pushBack _u;
 
 _k pushBack "Armored_2";
 _u		= ["CUP_B_M1A1_Woodland_US_Army"];
-_u pushBack "CUP_B_M1A1_Woodland_US_Army";
 _l pushBack _u;
 
 _k pushBack "Armored_3";
+_u		= ["CUP_B_M1A2_TUSK_MG_US_Army_WASP"];
+_l pushBack _u;
+
+_k pushBack "Armored_4";
 _u		= ["CUP_B_Leopard2A6_GER"];
-_u pushBack "CUP_B_Leopard2A6_GER";
-_u pushBack "CUP_B_Leopard2A6_GER";
 _l pushBack _u;
 
 _k pushBack "Air_Light_0";
@@ -307,4 +293,4 @@ _k pushBack "Air_Heavy_4";
 _u =      [""];
 _l pushBack _u;
 
-[_k,_l,_side,_faction] Call Compile preprocessFile "Common\Warfare\Config\Config_Groups.sqf";
+[_k,_l,_side] Call Compile preprocessFile "Common\Warfare\Config\Config_Groups.sqf";

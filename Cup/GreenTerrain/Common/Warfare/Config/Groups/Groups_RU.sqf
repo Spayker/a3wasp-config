@@ -7,7 +7,6 @@ _l = [];//--- Unit list
 _k = [];//--- Type used by AI.
 
 _side = "EAST";
-_faction = "RU";
 
 _k pushBack "Squad_0";
 _u		= ["CUP_O_RU_Soldier_Ratnik_Summer"];
@@ -215,89 +214,75 @@ _u pushBack "CUP_O_RU_Soldier_Marksman_Ratnik_Summer";
 _l pushBack _u;
 
 _k pushBack "Motorized_0";
-_u =      ["CUP_O_GAZ_Vodnik_BPPU_RU"];
-_u pushBack "CUP_O_GAZ_Vodnik_AGS_RU";
+_u =      ["CUP_O_GAZ_Vodnik_AGS_RU"];
 _l pushBack _u;
 
 _k pushBack "Motorized_1";
-_u =      ["CUP_O_BTR90_RU_WASP"];
-_u pushBack "CUP_O_BRDM2_RUS";
-_u pushBack "CUP_O_BRDM2_RUS";
+_u =      ["CUP_O_BRDM2_RUS"];
 _l pushBack _u;
 
 _k pushBack "Motorized_2";
-_u =      ["CUP_O_BTR60_RU"];
-_u pushBack "CUP_O_BTR60_RU";
-_u pushBack "CUP_O_BRDM2_RUS";
+_u =      ["CUP_O_GAZ_Vodnik_BPPU_RU"];
 _l pushBack _u;
 
 _k pushBack "Motorized_3";
-_u =      ["CUP_O_BTR60_RU"];
-_u pushBack "CUP_O_BTR60_RU";
-_u pushBack "CUP_O_BRDM2_ATGM_RUS";
+_u =      ["CUP_O_BTR80A_CAMO_RU"];
 _l pushBack _u;
 
 _k pushBack "Motorized_4";
-_u =      ["CUP_O_BTR60_RU"];
-_u pushBack "CUP_O_BRDM2_ATGM_RUS";
-_u pushBack "CUP_O_BRDM2_ATGM_RUS";
+_u =      ["CUP_O_BTR90_RU_WASP"];
 _l pushBack _u;
 
 _k pushBack "AA_Light_0";
 _u		= ["CUP_O_Ural_ZU23_SLA"];
-_u pushBack "CUP_O_Ural_ZU23_SLA";
 _l pushBack _u;
 
 _k pushBack "AA_Light_1";
 _u		= ["CUP_O_Ural_ZU23_SLA"];
-_u pushBack "CUP_O_Ural_ZU23_SLA";
 _l pushBack _u;
 
 _k pushBack "AA_Heavy_0";
 _u		= ["CUP_O_2S6M_RU"];
-_u pushBack "CUP_O_ZSU23_ChDKZ";
 _l pushBack _u;
 
 _k pushBack "Mechanized_0";
 _u		= ["CUP_O_BMP1_CSAT"];
-_u pushBack "CUP_O_BMP1_CSAT";
 _l pushBack _u;
 
 _k pushBack "Mechanized_1";
 _u		= ["CUP_O_BMP1P_CSAT_T"];
-_u pushBack "CUP_O_BMP2_RU";
 _l pushBack _u;
 
 _k pushBack "Mechanized_2";
 _u		= ["CUP_O_BMP2_RU"];
-_u pushBack "CUP_O_BMP2_RU";
 _l pushBack _u;
 
 _k pushBack "Mechanized_3";
 _u		= ["CUP_O_BMP3_RU_WASP"];
-_u pushBack "CUP_O_BMP3_RU_WASP";
-_u pushBack "CUP_O_BMP3_RU_WASP";
+_l pushBack _u;
+
+_k pushBack "Mechanized_4";
+_u		= ["CUP_O_BMP3_RU_WASP"];
 _l pushBack _u;
 
 _k pushBack "Armored_0";
 _u		= ["CUP_O_BMP2_RU"];
-_u pushBack "CUP_O_BMP2_RU";
 _l pushBack _u;
 
 _k pushBack "Armored_1";
 _u		= ["CUP_O_BMP3_RU_WASP"];
-_u pushBack "CUP_O_BMP3_RU_WASP";
 _l pushBack _u;
 
 _k pushBack "Armored_2";
 _u		= ["CUP_O_T72_RU"];
-_u pushBack "CUP_O_T72_RU";
 _l pushBack _u;
 
 _k pushBack "Armored_3";
+_u		= ["cwr3_o_t72b1"];
+_l pushBack _u;
+
+_k pushBack "Armored_4";
 _u		= ["CUP_O_T90_RU"];
-_u pushBack "CUP_O_T90_RU";
-_u pushBack "CUP_O_T90_RU";
 _l pushBack _u;
 
 _k pushBack "Air_Light_0";
@@ -340,4 +325,4 @@ _k pushBack "Air_Heavy_4";
 _u =      [""];
 _l pushBack _u;
 
-[_k,_l,_side,_faction] Call Compile preprocessFile "Common\Warfare\Config\Config_Groups.sqf";
+[_k,_l,_side] Call Compile preprocessFile "Common\Warfare\Config\Config_Groups.sqf";

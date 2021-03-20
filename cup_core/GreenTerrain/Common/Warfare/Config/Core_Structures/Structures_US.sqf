@@ -165,6 +165,8 @@ _n pushBack "B_AAA_System_01_F";
 
 // static walls
 _n pushBack "Base_WarfareBBarrier10xTall";
+_n pushBack "Land_HBarrierWall6_F";
+_n pushBack "Land_HBarrierWall_corner_F";
 _n pushBack "Land_BagBunker_Small_F";
 _n pushBack "Land_BagBunker_01_small_green_F";
 _n pushBack "Land_HBarrier_01_wall_6_green_F";

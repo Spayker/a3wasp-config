@@ -2,12 +2,11 @@
 	Define the groups to be used in town.
 */
 
-Private ["_faction","_get","_k","_l","_side","_t"];
+Private ["_get","_k","_l","_side","_t"];
 
 _k = _this select 0;
 _l = _this select 1;
 _side = _this select 2;
-_faction = _this select 3;
 
 for '_i' from 0 to (count _k)-1 do {
 	_get = missionNamespace getVariable Format ["WF_%1_GROUPS_%2",_side,_k select _i];
