@@ -113,7 +113,6 @@ _aiTeamUpgrades pushBack 3;
 
 //--- Light vehicles
 _u = ["CUP_O_UAZ_MG_TKA"];
-_u pushBack "CUP_O_UAZ_MG_TKA";
 
 _aiTeamTemplateName pushBack "UAZ MG Patrol";
 _aiTeamTemplates pushBack _u;
@@ -121,7 +120,6 @@ _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 0;
 
 _u = ["CUP_O_UAZ_AGS30_TKA"];
-_u pushBack "CUP_O_UAZ_AGS30_TKA";
 
 _aiTeamTemplateName pushBack "UAZ AGS Patrol";
 _aiTeamTemplates pushBack _u;
@@ -129,7 +127,6 @@ _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 0;
 
 _u = ["CUP_O_UAZ_METIS_TKA"];
-_u pushBack "CUP_O_UAZ_METIS_TKA";
 
 _aiTeamTemplateName pushBack "UAZ Metis AT Patrol";
 _aiTeamTemplates pushBack _u;
@@ -137,7 +134,6 @@ _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 3;
 
 _u = ["CUP_O_BRDM2_TKA"];
-_u pushBack "CUP_O_BRDM2_TKA";
 
 _aiTeamTemplateName pushBack "BRDM Patrol";
 _aiTeamTemplates pushBack _u;
@@ -145,7 +141,6 @@ _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 1;
 
 _u = ["CUP_O_BRDM2_ATGM_TKA"];
-_u pushBack "CUP_O_BRDM2_ATGM_TKA";
 
 _aiTeamTemplateName pushBack "AT BRDM Patrol";
 _aiTeamTemplates pushBack _u;
@@ -153,7 +148,6 @@ _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 2;
 
 _u = ["CUP_O_GAZ_Vodnik_BPPU_RU"];
-_u pushBack "CUP_O_GAZ_Vodnik_BPPU_RU";
 
 _aiTeamTemplateName pushBack "Vodnik BPPU Patrol";
 _aiTeamTemplates pushBack _u;
@@ -168,7 +162,6 @@ _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 2;
 
 _u = ["CUP_O_BTR80A_TK"];
-_u pushBack "CUP_O_BTR80A_TK";
 
 _aiTeamTemplateName pushBack "BTR-80A Patrol";
 _aiTeamTemplates pushBack _u;
@@ -176,7 +169,6 @@ _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 3;
 
 _u = ["CUP_O_BTR90_RU_WASP"];
-_u pushBack "CUP_O_BTR90_RU_WASP";
 
 _aiTeamTemplateName pushBack "BTR-90 Patrol";
 _aiTeamTemplates pushBack _u;
@@ -184,7 +176,6 @@ _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 3;
 
 _u = ["CUP_O_BM21_TKA"];
-_u pushBack "CUP_O_BM21_TKA";
 
 _aiTeamTemplateName pushBack "BM21 Arty Squad";
 _aiTeamTemplates pushBack _u;
@@ -193,7 +184,6 @@ _aiTeamUpgrades pushBack 4;
 
 //--- Heavy Vehicles
 _u = ["CUP_O_BMP1_TKA"];
-_u pushBack "CUP_O_BMP1_TKA";
 
 _aiTeamTemplateName pushBack "Light BMP 1 Group";
 _aiTeamTemplates pushBack _u;
@@ -201,7 +191,6 @@ _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 0;
 
 _u = ["CUP_O_BMP2_TKA"];
-_u pushBack "CUP_O_BMP2_TKA";
 
 _aiTeamTemplateName pushBack "BMP 2 Group";
 _aiTeamTemplates pushBack _u;
@@ -209,7 +198,6 @@ _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 1;
 
 _u = ["CUP_O_T55_TK"];
-_u pushBack "CUP_O_T55_TK";
 
 _aiTeamTemplateName pushBack "T55 Group";
 _aiTeamTemplates pushBack _u;
@@ -217,7 +205,6 @@ _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 1;
 
 _u = ["CUP_O_ZSU23_Afghan_TK"];
-_u pushBack "CUP_O_ZSU23_Afghan_TK";
 
 _aiTeamTemplateName pushBack "AA Shilka Group";
 _aiTeamTemplates pushBack _u;
@@ -225,7 +212,6 @@ _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 2;
 
 _u = ["CUP_O_BMP3_RU_WASP"];
-_u pushBack "CUP_O_BMP3_RU_WASP";
 
 _aiTeamTemplateName pushBack "BMP 3 Group";
 _aiTeamTemplates pushBack _u;
@@ -233,7 +219,6 @@ _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 2;
 
 _u = ["CUP_O_T72_TKA"];
-_u pushBack "CUP_O_T72_TKA";
 
 _aiTeamTemplateName pushBack "T72 Group";
 _aiTeamTemplates pushBack _u;
@@ -241,7 +226,6 @@ _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 2;
 
 _u = ["cwr3_o_t72b1"];
-_u pushBack "cwr3_o_t72b1";
 
 _aiTeamTemplateName pushBack "T72B1 Group";
 _aiTeamTemplates pushBack _u;
@@ -249,7 +233,6 @@ _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 3;
 
 _u = ["CUP_O_T90_RU"];
-_u pushBack "CUP_O_T90_RU";
 
 _aiTeamTemplateName pushBack "Heavy T90 Group";
 _aiTeamTemplates pushBack _u;
@@ -257,7 +240,6 @@ _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 4;
 
 _u = ["CUP_O_2S6M_RU"];
-_u pushBack "CUP_O_2S6M_RU";
 
 _aiTeamTemplateName pushBack "Heavy AA Tunguska Group";
 _aiTeamTemplates pushBack _u;
