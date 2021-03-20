@@ -126,22 +126,6 @@ _i pushBack 'CUP_arifle_AKS';
 _u pushBack 0;
 _p pushBack 400;
 
-_i pushBack 'CUP_arifle_AK107_railed';
-_u pushBack 1;
-_p pushBack 625;
-
-_i pushBack 'CUP_arifle_AK109_railed';
-_u pushBack 1;
-_p pushBack 725;
-
-_i pushBack 'CUP_arifle_AK101_railed';
-_u pushBack 1;
-_p pushBack 375;
-
-_i pushBack  "CUP_arifle_AK103_railed";
-_u pushBack  2;
-_p pushBack  475;
-
 _i pushBack 'CUP_arifle_AKS_Gold';
 _u pushBack 2;
 _p pushBack 650;
@@ -198,10 +182,6 @@ _i pushBack 'CUP_arifle_AK74M_GL';
 _u pushBack 1;
 _p pushBack 450;
 
-_i pushBack 'CUP_arifle_AK107_GL';
-_u pushBack 3;
-_p pushBack 500;
-
 _i pushBack 'arifle_AK12_GL_lush_F';
 _u pushBack 3;
 _p pushBack 500;
@@ -210,29 +190,9 @@ _i pushBack 'CUP_arifle_Sa58RIS2_gl';
 _u pushBack 1;
 _p pushBack 500;
 
-_i pushBack 'CUP_arifle_AK101_GL';
-_u pushBack 1;
-_p pushBack 400;
-
-_i pushBack 'CUP_arifle_AK101_GL_railed';
-_u pushBack 1;
-_p pushBack 500;
-
-_i pushBack  "CUP_arifle_AK103_GL_railed";
-_u pushBack  2;
-_p pushBack  500;
-
 _i pushBack  "CUP_arifle_FNFAL5062";
 _u pushBack  2;
 _p pushBack  500;
-
-_i pushBack  "CUP_arifle_AK107_GL_railed";
-_u pushBack  3;
-_p pushBack  600;
-
-_i pushBack  "CUP_arifle_AK109_GL_railed";
-_u pushBack  4;
-_p pushBack  700;
 
 _i pushBack  "CUP_arifle_AK74M_GL_top_rail";
 _u pushBack  1;
@@ -338,37 +298,13 @@ _i pushBack 'CUP_arifle_AK74M_GL';
 _u pushBack 1;
 _p pushBack 450;
 
-_i pushBack 'CUP_arifle_AK107_GL';
-_u pushBack 3;
-_p pushBack 500;
-
 _i pushBack 'CUP_arifle_Sa58RIS2_gl';
 _u pushBack 1;
 _p pushBack 500;
 
-_i pushBack 'CUP_arifle_AK101_GL';
-_u pushBack 1;
-_p pushBack 400;
-
-_i pushBack 'CUP_arifle_AK101_GL_railed';
-_u pushBack 1;
-_p pushBack 500;
-
-_i pushBack  "CUP_arifle_AK103_GL_railed";
-_u pushBack  2;
-_p pushBack  500;
-
 _i pushBack  "CUP_arifle_FNFAL5062";
 _u pushBack  2;
 _p pushBack  500;
-
-_i pushBack  "CUP_arifle_AK107_GL_railed";
-_u pushBack  3;
-_p pushBack  600;
-
-_i pushBack  "CUP_arifle_AK109_GL_railed";
-_u pushBack  4;
-_p pushBack  700;
 
 _i pushBack  "CUP_arifle_AK74M_GL_top_rail";
 _u pushBack  1;
@@ -476,10 +412,6 @@ _u pushBack 0;
 _p pushBack 25;
 
 _i pushBack 'CUP_30Rnd_556x45_Stanag';
-_u pushBack 0;
-_p pushBack 25;
-
-_i pushBack 'CUP_30Rnd_762x39_AK103_bakelite_M';
 _u pushBack 0;
 _p pushBack 25;
 
@@ -597,31 +529,27 @@ _u pushBack  0;
 _p pushBack  200;
 
 //--Uniform--
-_i pushBack 'CUP_U_O_RUS_EMR_1';
+_i pushBack 'CUP_I_TKG_Khet_Jeans_01';
 _u pushBack 0;
 _p pushBack 25;
 
-_i pushBack 'CUP_U_CRYE_ATACSFG_Full';
+_i pushBack 'CUP_I_TKG_Khet_Jeans_03';
 _u pushBack 0;
 _p pushBack 25;
 
-_i pushBack 'CUP_U_O_RUS_EMR_2';
+_i pushBack 'CUP_I_TKG_Khet_Jeans_04';
 _u pushBack 0;
 _p pushBack 25;
 
-_i pushBack 'CUP_U_O_RUS_Ratnik_Summer';
+_i pushBack 'CUP_I_TKG_Khet_Partug_03';
 _u pushBack 0;
 _p pushBack 25;
 
-_i pushBack 'U_O_Wetsuit';
+_i pushBack 'CUP_I_TKG_Khet_Jeans_02';
 _u pushBack 0;
-_p pushBack 100;
+_p pushBack 25;
 
-_i pushBack 'U_O_R_Gorka_01_camo_F';
-_u pushBack 0;
-_p pushBack 100;
-
-_i pushBack 'U_O_R_Gorka_01_F';
+_i pushBack 'U_I_Wetsuit';
 _u pushBack 0;
 _p pushBack 100;
 
@@ -630,126 +558,42 @@ _i pushBack 'V_RebreatherIR';
 _u pushBack 0;
 _p pushBack 50;
 
-_i pushBack 'V_SmershVest_01_F';
+_i pushBack 'CUP_V_OI_TKI_Jacket3_06';
 _u pushBack 0;
 _p pushBack 50;
 
-_i pushBack 'V_SmershVest_01_radio_F';
+_i pushBack 'CUP_V_OI_TKI_Jacket4_06';
 _u pushBack 0;
 _p pushBack 50;
 
-_i pushBack 'CUP_V_CDF_OfficerBelt';
+_i pushBack 'CUP_V_OI_TKI_Jacket1_06';
 _u pushBack 0;
 _p pushBack 50;
 
-_i pushBack 'CUP_V_O_Ins_Carrier_Rig_Light';
+_i pushBack 'CUP_V_OI_TKI_Jacket2_04';
 _u pushBack 0;
 _p pushBack 50;
 
-_i pushBack 'CUP_V_O_Ins_Carrier_Rig';
+_i pushBack 'CUP_V_OI_TKI_Jacket4_04';
 _u pushBack 0;
 _p pushBack 50;
-
-_i pushBack 'CUP_V_O_SLA_6B3_1_WDL';
-_u pushBack 3;
-_p pushBack 150;
-
-_i pushBack 'CUP_V_RUS_6B45_1';
-_u pushBack 3;
-_p pushBack 200;
-
-_i pushBack 'CUP_Vest_RUS_6B45_Sh117';
-_u pushBack 3;
-_p pushBack 200;
-
-_i pushBack 'CUP_Vest_RUS_6B45_Sh117_VOG';
-_u pushBack 3;
-_p pushBack 225;
-
-_i pushBack 'CUP_Vest_RUS_6B45_Sh117_PKP';
-_u pushBack 3;
-_p pushBack 250;
-
-_i pushBack 'V_CarrierRigKBT_01_light_Olive_F';
-_u pushBack 3;
-_p pushBack 250;
-
-_i pushBack 'V_CarrierRigKBT_01_heavy_Olive_F';
-_u pushBack 4;
-_p pushBack 300;
-
-_i pushBack 'CUP_V_RUS_6B3_1';
-_u pushBack 3;
-_p pushBack 150;
 
 //--Helmets--
-_i pushBack 'CUP_H_SLA_Helmet_OD_worn';
-_u pushBack 1;
-_p pushBack 80;
+_i pushBack 'CUP_H_TKI_Lungee_05';
+_u pushBack 0;
+_p pushBack 5;
 
-_i pushBack 'CUP_H_RUS_SSH68_cover_berezka';
-_u pushBack 1;
-_p pushBack 80;
+_i pushBack 'CUP_H_TKI_Lungee_Open_04';
+_u pushBack 0;
+_p pushBack 5;
 
-_i pushBack 'CUP_H_RUS_SSH68_cover_vsr98';
-_u pushBack 1;
-_p pushBack 80;
+_i pushBack 'CUP_H_TKI_Lungee_04';
+_u pushBack 0;
+_p pushBack 5;
 
-_i pushBack 'CUP_H_SLA_TankerHelmet';
-_u pushBack 1;
-_p pushBack 80;
-
-_i pushBack 'CUP_H_RUS_ZSH_Shield_Up';
-_u pushBack 1;
-_p pushBack 80;
-
-_i pushBack 'CUP_H_SLA_Pilot_Helmet';
-_u pushBack 1;
-_p pushBack 80;
-
-_i pushBack 'CUP_H_RUS_ZSH_Shield_Down';
-_u pushBack 1;
-_p pushBack 80;
-
-_i pushBack 'CUP_H_RUS_6B27';
-_u pushBack 2;
-_p pushBack 120;
-
-_i pushBack 'CUP_H_RUS_6B46';
-_u pushBack 2;
-_p pushBack 120;
-
-_i pushBack 'CUP_H_RUS_6B27_olive';
-_u pushBack 2;
-_p pushBack 120;
-
-_i pushBack 'CUP_H_RUS_6B47_SF';
-_u pushBack 2;
-_p pushBack 120;
-
-_i pushBack 'CUP_H_RUS_6B47_v2_Summer';
-_u pushBack 3;
-_p pushBack 160;
-
-_i pushBack 'CUP_H_RUS_6B47_v2_GogglesUp_Summer';
-_u pushBack 3;
-_p pushBack 160;
-
-_i pushBack 'CUP_H_RUS_6B47_v2_GogglesDown_Summer';
-_u pushBack 3;
-_p pushBack 160;
-
-_i pushBack 'CUP_H_RUS_6B47_headset_goggles';
-_u pushBack 3;
-_p pushBack 160;
-
-_i pushBack 'CUP_H_RUS_ZSH_1_Goggles';
-_u pushBack 4;
-_p pushBack 200;
-
-_i pushBack 'CUP_H_RUS_ZSH_1';
-_u pushBack 4;
-_p pushBack 200;
+_i pushBack 'CUP_H_TKI_Lungee_Open_06';
+_u pushBack 0;
+_p pushBack 5;
 
 _i pushBack 'CUP_RUS_Balaclava_blk';
 _u pushBack 0;
@@ -1364,14 +1208,6 @@ _u pushBack 1;
 _p pushBack 250;
 
 _i pushBack 'CUP_B_RUS_Backpack';
-_u pushBack 1;
-_p pushBack 250;
-
-_i pushBack 'CUP_O_RUS_Patrol_bag_Summer';
-_u pushBack 1;
-_p pushBack 250;
-
-_i pushBack 'CUP_O_RUS_Patrol_bag_Green';
 _u pushBack 1;
 _p pushBack 250;
 
