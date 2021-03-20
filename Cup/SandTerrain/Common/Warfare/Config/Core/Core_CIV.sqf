@@ -305,6 +305,18 @@ _i pushBack['','',95,0,0,0,'Fortification',0,'Civilians',[]];
 _c pushBack'Land_HBarrierTower_F';
 _i pushBack['','',300,0,0,0,'Fortification',0,'Civilians',[]];
 
+_c pushBack'Land_fortified_nest_small_EP1';
+_i pushBack['','',150,0,0,0,'Fortification',0,'Civilians',[]];
+
+_c pushBack'Fort_Barricade_EP1';
+_i pushBack['','',150,0,0,0,'Fortification',0,'Civilians',[]];
+
+_c pushBack'Land_Barricade_01_10m_F';
+_i pushBack['','',150,0,0,0,'Fortification',0,'Civilians',[]];
+
+_c pushBack'Fort_Nest';
+_i pushBack['','',150,0,0,0,'Fortification',0,'Civilians',[]];
+
 
 for '_z' from 0 to (count _c)-1 do {
 	if (isClass (configFile >> 'CfgVehicles' >> (_c # _z))) then {
