@@ -12,7 +12,7 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_ENABLED", _side], [
 	true, //--- Supply
 	true, //--- Respawn Range
 	if ((missionNamespace getVariable "WF_C_ARTILLERY") > 0) then {true} else {false}, //--- Artillery Time
-	if ((missionNamespace getVariable "WF_C_MODULE_WF_CRUISE_MISSILE") > 0) then {true} else {false}, //--- Cruise Missile
+	false, //--- Cruise Missile
 	true, //--- Gear
 	false, //--- Build Ammo
 	if ((missionNamespace getVariable "WF_C_MODULE_WF_EASA") > 0) then {true} else {false}, //--- EASA
@@ -22,7 +22,7 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_ENABLED", _side], [
 	true, //--- Tanks Ammo
 	true,  //--- High Command group quantity
 	true, //--Remote control--
-	true  //---	Advanced Anti Air defenses
+	false  //---	Advanced Anti Air defenses
 ]];
 
 missionNamespace setVariable [Format["WF_C_UPGRADES_%1_COSTS", _side], [
