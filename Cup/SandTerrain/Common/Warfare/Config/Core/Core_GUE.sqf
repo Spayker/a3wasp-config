@@ -26,17 +26,11 @@ _i pushBack ['','',170,5,-1,0,0,1,'Guerilla',[]];
 _c pushBack 'CUP_I_TK_GUE_Soldier_AAT';
 _i pushBack ['','',160,5,-1,0,0,1,'Guerilla',[]];
 
-_c pushBack 'CUP_I_TK_GUE_Soldier_AK_47S';
-_i pushBack ['','',165,6,-1,0,0,1,'Guerilla',[]];
-
 _c pushBack 'CUP_I_TK_GUE_Soldier_LAT';
 _i pushBack ['','',170,5,-1,0,0,1,'Guerilla',[]];
 
 _c pushBack 'CUP_I_TK_GUE_Demo';
 _i pushBack ['','',255,5,-1,1,0,1,'Guerilla',[]];
-
-_c pushBack 'CUP_I_GUE_Soldier_Scout';
-_i pushBack ['','',250,5,-1,2,0,1,'Guerilla',[]];
 
 _c pushBack 'CUP_I_TK_GUE_Soldier_AT';
 _i pushBack ['','',240,5,-1,0,0,1,'Guerilla',[]];
