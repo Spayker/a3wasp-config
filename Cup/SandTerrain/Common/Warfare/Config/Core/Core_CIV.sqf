@@ -33,64 +33,64 @@ _c pushBack 'O_Truck_03_covered_F';
 _i pushBack ['','',600,22,-2,0,1,0,'ArmAIII - Civilians',[]];
 
 // CUP - CDF
-_c pushBack 'CUP_B_CDF_Soldier_TL_FST';
+_c pushBack 'CUP_B_CDF_Soldier_TL_DST';
 _i pushBack ['','',310,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Soldier_FST';
+_c pushBack 'CUP_B_CDF_Soldier_DST';
 _i pushBack ['','',150,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Soldier_AMG_FST';
+_c pushBack 'CUP_B_CDF_Soldier_AMG_DST';
 _i pushBack ['','',150,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Soldier_AAT_FST';
+_c pushBack 'CUP_B_CDF_Soldier_AAT_DST';
 _i pushBack ['','',150,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Soldier_GL_FST';
+_c pushBack 'CUP_B_CDF_Soldier_GL_DST';
 _i pushBack ['','',175,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Militia_FST';
+_c pushBack 'CUP_B_CDF_Militia_DST';
 _i pushBack ['','',100,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Medic_FST';
+_c pushBack 'CUP_B_CDF_Medic_DST';
 _i pushBack ['','',150,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Engineer_FST';
+_c pushBack 'CUP_B_CDF_Engineer_DST';
 _i pushBack ['','',200,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Soldier_AR_FST';
+_c pushBack 'CUP_B_CDF_Soldier_AR_DST';
 _i pushBack ['','',225,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Soldier_MG_FST';
+_c pushBack 'CUP_B_CDF_Soldier_MG_DST';
 _i pushBack ['','',280,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Spotter_FST';
+_c pushBack 'CUP_B_CDF_Spotter_DST';
 _i pushBack ['','',320,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Sniper_FST';
+_c pushBack 'CUP_B_CDF_Sniper_DST';
 _i pushBack ['','',410,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Soldier_Marksman_FST';
+_c pushBack 'CUP_B_CDF_Soldier_Marksman_DST';
 _i pushBack ['','',350,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Soldier_RPG18_FST';
+_c pushBack 'CUP_B_CDF_Soldier_RPG18_DST';
 _i pushBack ['','',180,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Soldier_LAT_FST';
+_c pushBack 'CUP_B_CDF_Soldier_LAT_DST';
 _i pushBack ['','',180,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Pilot_FST';
+_c pushBack 'CUP_B_CDF_Pilot_DST';
 _i pushBack ['','',200,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Crew_FST';
+_c pushBack 'CUP_B_CDF_Crew_DST';
 _i pushBack ['','',120,5,-1,0,0,1,'CUP - CDF',[]];
 
 _c pushBack 'CUP_B_CZ_Crew_WDL';
 _i pushBack ['','',120,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Officer_FST';
+_c pushBack 'CUP_B_CDF_Officer_DST';
 _i pushBack ['','',380,5,-1,0,0,1,'CUP - CDF',[]];
 
-_c pushBack 'CUP_B_CDF_Soldier_AA_FST';
+_c pushBack 'CUP_B_CDF_Soldier_AA_DST';
 _i pushBack ['','',520,5,-1,0,0,1,'CUP - CDF',[]];
 
 // CUP - CDF light vehicles

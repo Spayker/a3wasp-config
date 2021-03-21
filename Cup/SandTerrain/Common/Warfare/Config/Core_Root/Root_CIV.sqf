@@ -3,11 +3,11 @@ Private ["_side"];
 _side = "CIV";
 
 //--- Generic.
-missionNamespace setVariable [Format["WF_%1WHEELEDCREW", _side], 'CUP_B_CDF_Militia_FST'];
-missionNamespace setVariable [Format["WF_%1TRACKEDCREW", _side], 'CUP_B_CDF_Engineer_FST'];
-missionNamespace setVariable [Format["WF_%1PILOT", _side], 'CUP_B_CDF_Pilot_FST'];
-missionNamespace setVariable [Format["WF_%1SOLDIER", _side], 'CUP_B_CDF_Soldier_FST'];
-missionNamespace setVariable [Format["WF_%1ENGINEER", _side], 'CUP_B_CDF_Engineer_FST'];
+missionNamespace setVariable [Format["WF_%1WHEELEDCREW", _side], 'CUP_B_CDF_Militia_DST'];
+missionNamespace setVariable [Format["WF_%1TRACKEDCREW", _side], 'CUP_B_CDF_Engineer_DST'];
+missionNamespace setVariable [Format["WF_%1PILOT", _side], 'CUP_B_CDF_Pilot_DST'];
+missionNamespace setVariable [Format["WF_%1SOLDIER", _side], 'CUP_B_CDF_Soldier_DST'];
+missionNamespace setVariable [Format["WF_%1ENGINEER", _side], 'CUP_B_CDF_Engineer_DST'];
 
 //--- Flag texture.
 missionNamespace setVariable [Format["WF_%1FLAG", _side], '\A3\Data_F\Flags\Flag_AAF_CO.paa'];
