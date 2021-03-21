@@ -54,29 +54,6 @@ if ((missionNamespace getVariable "WF_C_BASE_PATROLS_INFANTRY") > 0) then {
 //--- Squads.
 (_side) Call Compile preprocessFileLineNumbers "Common\Warfare\Config\Core_Squads\Squad_US.sqf";
 
-//--- Server only.
-if (isServer) then {
-	//--- Patrols.
-	missionNamespace setVariable [Format["WF_%1_PATROL_LIGHT", _side], [
-		['CUP_B_USMC_Soldier_TL_FROG_WDL','CUP_B_USMC_Soldier_MG_FROG_WDL','CUP_B_US_SpecOps_M','CUP_B_USMC_Medic_FROG_WDL'],
-		['CUP_B_USMC_Soldier_TL_FROG_WDL','CUP_B_US_SpecOps_AR','CUP_B_USMC_Soldier_GL_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_USMC_Soldier_FROG_WDL'],
-		['CUP_B_M1126_ICV_M2_Woodland_Slat','CUP_B_M1151_Mk19_USMC']
-	]];
-
-	missionNamespace setVariable [Format["WF_%1_PATROL_MEDIUM", _side], [
-		['CUP_B_M1151_M2_USMC','CUP_B_M1151_M2_USMC'],
-		['CUP_B_M1151_M2_USMC','CUP_B_USMC_Soldier_SL_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL','CUP_B_USMC_Soldier_MG_FROG_WDL','CUP_B_USMC_Soldier_AT_FROG_WDL'],
-		['CUP_B_M2Bradley_USA_W_WASP','CUP_B_USMC_Soldier_AA_FROG_WDL','CUP_B_USMC_Soldier_AA_FROG_WDL','CUP_B_USMC_Medic_FROG_WDL']
-	]];
-
-	missionNamespace setVariable [Format["WF_%1_PATROL_HEAVY", _side], [
-		['CUP_B_M2Bradley_USA_W_WASP','CUP_B_M2Bradley_USA_W_WASP'],
-		['CUP_B_Mastiff_HMG_GB_W','CUP_B_Mastiff_HMG_GB_W'],
-		['CUP_B_M2Bradley_USA_W_WASP','CUP_B_M2Bradley_USA_W_WASP','CUP_B_USMC_Soldier_SL_FROG_WDL','CUP_B_USMC_Soldier_MG_FROG_WDL','CUP_B_US_Sniper_M110_TWS','CUP_B_USMC_Medic_FROG_WDL','CUP_B_USMC_Soldier_HAT_FROG_WDL','CUP_B_USMC_Soldier_HAT_FROG_WDL','CUP_B_USMC_Soldier_FROG_WDL'],
-		['CUP_B_M2Bradley_USA_W_WASP','CUP_B_USMC_Soldier_SL_FROG_WDL','CUP_B_USMC_Medic_FROG_WDL','CUP_B_USMC_Soldier_GL_FROG_WDL','CUP_B_USMC_Soldier_FROG_WDL','CUP_B_USMC_Soldier_AR_FROG_WDL']
-	]];
-};
-
 //--- Client only.
 if (local player) then {
 	//--- Default Faction (Buy Menu), this is the faction name defined in core_xxx.sqf files.

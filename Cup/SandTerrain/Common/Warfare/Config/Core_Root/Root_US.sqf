@@ -54,29 +54,6 @@ if ((missionNamespace getVariable "WF_C_BASE_PATROLS_INFANTRY") > 0) then {
 //--- Squads.
 (_side) Call Compile preprocessFileLineNumbers "Common\Warfare\Config\Core_Squads\Squad_US.sqf";
 
-//--- Server only.
-if (isServer) then {
-	//--- Patrols.
-	missionNamespace setVariable [Format["WF_%1_PATROL_LIGHT", _side], [
-		['CUP_B_US_Soldier_TL','CUP_B_US_Soldier_MG','CUP_B_US_SpecOps_M','CUP_B_US_Medic'],
-		['CUP_B_US_Soldier_TL','CUP_B_US_SpecOps_AR','CUP_B_US_Soldier_GL','CUP_B_US_Soldier_AT','CUP_B_US_Soldier'],
-		['CUP_B_M1126_ICV_M2_Desert','CUP_B_M1151_Mk19_DSRT_USMC']
-	]];
-
-	missionNamespace setVariable [Format["WF_%1_PATROL_MEDIUM", _side], [
-		['CUP_B_HMMWV_M2_GPK_USA','CUP_B_HMMWV_M2_GPK_USA'],
-		['CUP_B_HMMWV_M2_GPK_USA','CUP_B_US_Soldier_SL','CUP_B_US_Soldier_AT','CUP_B_US_Soldier_MG','CUP_B_US_Soldier_AT'],
-		['CUP_B_M2Bradley_USA_D_WASP','CUP_B_US_Soldier_AA','CUP_B_US_Soldier_AA','CUP_B_US_Medic']
-	]];
-
-	missionNamespace setVariable [Format["WF_%1_PATROL_HEAVY", _side], [
-		['CUP_B_M2Bradley_USA_D_WASP','CUP_B_M2Bradley_USA_D_WASP'],
-		['CUP_B_Mastiff_HMG_GB_D','CUP_B_Mastiff_HMG_GB_D'],
-		['CUP_B_M2Bradley_USA_D_WASP','CUP_B_M2Bradley_USA_D_WASP','CUP_B_US_Soldier_SL','CUP_B_US_Soldier_MG','CUP_B_US_Sniper_M110_TWS','CUP_B_US_Medic','CUP_B_US_Soldier_HAT','CUP_B_US_Soldier_HAT','CUP_B_US_Soldier'],
-		['CUP_B_M2Bradley_USA_D_WASP','CUP_B_US_Soldier_SL','CUP_B_US_Medic','CUP_B_US_Soldier_GL','CUP_B_US_Soldier','CUP_B_US_Soldier_AR']
-	]];
-};
-
 //--- Client only.
 if (local player) then {
 	//--- Default Faction (Buy Menu), this is the faction name defined in core_xxx.sqf files.
