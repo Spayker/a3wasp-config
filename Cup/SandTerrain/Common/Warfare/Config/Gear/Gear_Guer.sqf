@@ -210,18 +210,6 @@ _i pushBack  "CUP_arifle_AKM_GL_top_rail";
 _u pushBack  1;
 _p pushBack  450;
 
-_i pushBack  "CUP_arifle_OTS14_GROZA_GL";
-_u pushBack  2;
-_p pushBack  350;
-
-_i pushBack  "CUP_sgun_Saiga12K";
-_u pushBack  0;
-_p pushBack  300;
-
-_i pushBack 'CUP_sgun_Saiga12K_top_rail';
-_u pushBack 0;
-_p pushBack 350;
-
 _i pushBack  "CUP_RPK_74";
 _u pushBack  0;
 _p pushBack  190;
@@ -233,10 +221,6 @@ _p pushBack  210;
 _i pushBack  "CUP_arifle_RPK74_45_top_rail";
 _u pushBack  2;
 _p pushBack  390;
-
-_i pushBack  "arifle_RPK12_lush_F";
-_u pushBack  3;
-_p pushBack  450;
 
 _i pushBack  "75rnd_762x39_AK12_Lush_Mag_F";
 _u pushBack  3;
@@ -265,26 +249,6 @@ _p pushBack 450;
 _i pushBack  "CUP_lmg_PKM";
 _u pushBack  1;
 _p pushBack  230;
-
-_i pushBack 'CUP_lmg_Pecheneg';
-_u pushBack 2;
-_p pushBack 600;
-
-_i pushBack  "CUP_lmg_Pecheneg_woodland";
-_u pushBack  3;
-_p pushBack  300;
-
-_i pushBack  "CUP_lmg_Pecheneg_desert";
-_u pushBack  3;
-_p pushBack  300;
-
-_i pushBack  "CUP_lmg_Pecheneg_top_rail_B50_vfg";
-_u pushBack  3;
-_p pushBack  350;
-
-_i pushBack "CUP_sgun_AA12";
-_u pushBack 3;
-_p pushBack 400;
 
 _i pushBack  "CUP_glaunch_6G30";
 _u pushBack  4;
@@ -326,18 +290,6 @@ _i pushBack  "CUP_arifle_AKM_GL_top_rail";
 _u pushBack  1;
 _p pushBack  450;
 
-_i pushBack  "CUP_arifle_OTS14_GROZA_GL";
-_u pushBack  2;
-_p pushBack  350;
-
-_i pushBack  "CUP_arifle_AS_VAL_flash_top";
-_u pushBack  3;
-_p pushBack  270;
-
-_i pushBack  "CUP_arifle_AS_VAL";
-_u pushBack  2;
-_p pushBack  170;
-
 _i pushBack 'CUP_smg_EVO';
 _u pushBack 1;
 _p pushBack 400;
@@ -345,18 +297,6 @@ _p pushBack 400;
 _i pushBack  "CUP_smg_bizon";
 _u pushBack  1;
 _p pushBack  450;
-
-_i pushBack  "CUP_arifle_AS_VAL_VFG";
-_u pushBack  2;
-_p pushBack  175;
-
-_i pushBack  "CUP_arifle_AS_VAL_top_rail";
-_u pushBack  3;
-_p pushBack  230;
-
-_i pushBack  "CUP_arifle_AS_VAL_flash_top";
-_u pushBack  3;
-_p pushBack  235;
 
 //--Magazines--
 _i pushBack 'CUP_5x_22_LR_17_HMR_M';
@@ -428,34 +368,6 @@ _u pushBack 0;
 _p pushBack 25;
 
 _i pushBack 'CUP_30Rnd_556x45_AK';
-_u pushBack 0;
-_p pushBack 25;
-
-_i pushBack 'CUP_8Rnd_B_Saiga12_74Pellets_M';
-_u pushBack 0;
-_p pushBack 25;
-
-_i pushBack 'CUP_8Rnd_B_Saiga12_74Slug_M';
-_u pushBack 0;
-_p pushBack 25;
-
-_i pushBack 'CUP_5Rnd_B_Saiga12_Slug';
-_u pushBack 0;
-_p pushBack 25;
-
-_i pushBack 'CUP_12Rnd_B_Saiga12_Buck_2';
-_u pushBack 0;
-_p pushBack 25;
-
-_i pushBack 'CUP_12Rnd_B_Saiga12_Bird_4';
-_u pushBack 0;
-_p pushBack 25;
-
-_i pushBack 'CUP_12Rnd_B_Saiga12_HE';
-_u pushBack 0;
-_p pushBack 25;
-
-_i pushBack 'CUP_5Rnd_B_Saiga12_HE';
 _u pushBack 0;
 _p pushBack 25;
 
@@ -612,10 +524,6 @@ _u pushBack 0;
 _p pushBack 5;
 
 _i pushBack 'G_Balaclava_blk';
-_u pushBack 0;
-_p pushBack 5;
-
-_i pushBack 'CUP_G_RUS_Balaclava_Ratnik';
 _u pushBack 0;
 _p pushBack 5;
 
@@ -842,10 +750,6 @@ _p pushBack 75;
 _i pushBack '16Rnd_9x21_green_Mag';
 _u pushBack 1;
 _p pushBack 15;
-
-_i pushBack 'CUP_10Rnd_762x39_SaigaMk03_M';
-_u pushBack 1;
-_p pushBack 25;
 
 _i pushBack 'CUP_20Rnd_9x39_SP5_VSS_M';
 _u pushBack 2;
@@ -1159,22 +1063,6 @@ _i pushBack 'CUP_muzzle_snds_KZRZP_AK545_woodland';
 _u pushBack 3;
 _p pushBack 300;
 
-_i pushBack 'CUP_U_O_RUS_Ghillie';
-_u pushBack 1;
-_p pushBack 200;
-
-_i pushBack 'CUP_U_O_RUS_Gorka_Green';
-_u pushBack 1;
-_p pushBack 50;
-
-_i pushBack 'CUP_U_O_RUS_Gorka_Partizan_A';
-_u pushBack 1;
-_p pushBack 50;
-
-_i pushBack 'CUP_U_O_RUS_Gorka_Partizan';
-_u pushBack 1;
-_p pushBack 50;
-
 _i pushBack 'CUP_V_O_Ins_Carrier_Rig_Com';
 _u pushBack 1;
 _p pushBack 50;
@@ -1359,10 +1247,6 @@ _i pushBack  "Item_optic_DMS";
 _u pushBack  3;
 _p pushBack  180;
 
-_i pushBack  "CUP_optic_GrozaScope";
-_u pushBack  2;
-_p pushBack  200;
-
 _i pushBack 'CUP_optic_PGO7V3';
 _u pushBack 2;
 _p pushBack 300;
@@ -1387,14 +1271,6 @@ _i pushBack 'CUP_B_DShkM_TripodLow_Bag';
 _u pushBack 2;
 _p pushBack 100;
 
-_i pushBack 'CUP_B_Kord_Gun_Bag';
-_u pushBack 2;
-_p pushBack 650;
-
-_i pushBack 'CUP_B_Kord_Tripod_Bag';
-_u pushBack 2;
-_p pushBack 100;
-
 _i pushBack 'CUP_B_SPG9_Gun_Bag';
 _u pushBack 2;
 _p pushBack 1100;
@@ -1406,50 +1282,6 @@ _p pushBack 100;
 _i pushBack 'CUP_B_CivPack_WDL';
 _u pushBack 2;
 _p pushBack 300;
-
-_i pushBack 'CUP_launch_Metis';
-_u pushBack 4;
-_p pushBack 1000;
-
-_i pushBack 'launch_RPG32_green_F';
-_u pushBack 3;
-_p pushBack 700;
-
-_i pushBack 'launch_O_Vorona_brown_F';
-_u pushBack 4;
-_p pushBack 1200;
-
-_i pushBack 'launch_O_Vorona_green_F';
-_u pushBack 4;
-_p pushBack 1200;
-
-_i pushBack 'CUP_AT13_M';
-_u pushBack 4;
-_p pushBack 400;
-
-_i pushBack 'Vorona_HEAT';
-_u pushBack 4;
-_p pushBack 500;
-
-_i pushBack 'Vorona_HE';
-_u pushBack 4;
-_p pushBack 500;
-
-_i pushBack 'RPG32_F';
-_u pushBack 3;
-_p pushBack 300;
-
-_i pushBack 'RPG32_HE_F';
-_u pushBack 3;
-_p pushBack 300;
-
-_i pushBack 'CUP_5Rnd_127x108_KSVK_M';
-_u pushBack 3;
-_p pushBack 50;
-
-_i pushBack 'CUP_50Rnd_B_765x17_Ball_M';
-_u pushBack 1;
-_p pushBack 50;
 
 _i pushBack 'CUP_5Rnd_86x70_L115A1';
 _u pushBack 3;
@@ -1470,14 +1302,6 @@ _p pushBack 200;
 _i pushBack 'CUP_IED_V4_M';
 _u pushBack 3;
 _p pushBack 200;
-
-_i pushBack 'CUP_B_Metis_Gun_Bag';
-_u pushBack 4;
-_p pushBack 1800;
-
-_i pushBack 'CUP_B_Metis_Tripod_Bag';
-_u pushBack 4;
-_p pushBack 100;
 
 _i pushBack 'CUP_B_Podnos_Bipod_Bag';
 _u pushBack 3;

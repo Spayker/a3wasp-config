@@ -142,46 +142,6 @@ _i pushBack  "CUP_arifle_AK103_railed";
 _u pushBack  2;
 _p pushBack  475;
 
-_i pushBack 'CUP_arifle_AKS_Gold';
-_u pushBack 2;
-_p pushBack 650;
-
-_i pushBack 'CUP_arifle_Sa58RIS1';
-_u pushBack 1;
-_p pushBack 450;
-
-_i pushBack 'CUP_arifle_Sa58RIS1_des';
-_u pushBack 1;
-_p pushBack 450;
-
-_i pushBack 'CUP_arifle_DSA_SA58_OSW_M203';
-_u pushBack 2;
-_p pushBack 500;
-
-_i pushBack 'CUP_arifle_Sa58RIS2';
-_u pushBack 1;
-_p pushBack 450;
-
-_i pushBack 'CUP_arifle_Sa58RIS2_camo';
-_u pushBack 1;
-_p pushBack 450;
-
-_i pushBack 'CUP_arifle_Sa58P';
-_u pushBack 1;
-_p pushBack 400;
-
-_i pushBack 'CUP_arifle_Sa58P_des';
-_u pushBack 1;
-_p pushBack 400;
-
-_i pushBack 'CUP_arifle_Sa58V';
-_u pushBack 1;
-_p pushBack 400;
-
-_i pushBack 'CUP_arifle_Sa58V_camo';
-_u pushBack 1;
-_p pushBack 400;
-
 _i pushBack 'CUP_arifle_FNFAL';
 _u pushBack 0;
 _p pushBack 400;
@@ -204,10 +164,6 @@ _p pushBack 500;
 
 _i pushBack 'arifle_AK12_GL_lush_F';
 _u pushBack 3;
-_p pushBack 500;
-
-_i pushBack 'CUP_arifle_Sa58RIS2_gl';
-_u pushBack 1;
 _p pushBack 500;
 
 _i pushBack 'CUP_arifle_AK101_GL';
@@ -340,10 +296,6 @@ _p pushBack 450;
 
 _i pushBack 'CUP_arifle_AK107_GL';
 _u pushBack 3;
-_p pushBack 500;
-
-_i pushBack 'CUP_arifle_Sa58RIS2_gl';
-_u pushBack 1;
 _p pushBack 500;
 
 _i pushBack 'CUP_arifle_AK101_GL';
@@ -1022,14 +974,6 @@ _p pushBack 35;
 _i pushBack 'CUP_30Rnd_9x19_EVO';
 _u pushBack 1;
 _p pushBack 25;
-
-_i pushBack 'CUP_30Rnd_Sa58_M';
-_u pushBack 1;
-_p pushBack 30;
-
-_i pushBack 'CUP_30Rnd_Sa58_M_TracerG';
-_u pushBack 1;
-_p pushBack 30;
 
 _i pushBack 'CUP_10Rnd_762x54_SVD_M';
 _u pushBack 1;
