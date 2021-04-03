@@ -154,13 +154,6 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 2;
 
-_u = ["CUP_O_GAZ_Vodnik_BPPU_RU"];
-
-_aiTeamTemplateName pushBack "Vodnik BPPU Patrol";
-_aiTeamTemplates pushBack _u;
-_aiTeamTypes pushBack 'Light';
-_aiTeamUpgrades pushBack 2;
-
 _u = ["CUP_I_BTR40_MG_TKG"];
 
 _aiTeamTemplateName pushBack "BTR-40 Patrol";
@@ -183,40 +176,48 @@ _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 4;
 
 //--- Heavy Vehicles
+_u = ["CUP_I_M113_AAF"];
+
+_aiTeamTemplateName pushBack "Light M113 Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Heavy';
+_aiTeamUpgrades pushBack 0;
+
+
 _u = ["CUP_I_BMP1_TK_GUE"];
 
 _aiTeamTemplateName pushBack "Light BMP 1 Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 0;
+_aiTeamUpgrades pushBack 1;
 
 _u = ["CUP_I_BMP2_NAPA"];
 
 _aiTeamTemplateName pushBack "BMP 2 Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 1;
+_aiTeamUpgrades pushBack 2;
 
 _u = ["CUP_I_T55_NAPA"];
 
 _aiTeamTemplateName pushBack "T55 Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 1;
+_aiTeamUpgrades pushBack 2;
 
 _u = ["CUP_I_ZSU23_AAF"];
 
 _aiTeamTemplateName pushBack "AA Shilka Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 2;
+_aiTeamUpgrades pushBack 3;
 
 _u = ["CUP_I_T72_NAPA"];
 
 _aiTeamTemplateName pushBack "T72 Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 2;
+_aiTeamUpgrades pushBack 4;
 
 //--- Custom Groups.
 missionNamespace setVariable [Format["WF_%1AITEAMTEMPLATES", _side], _aiTeamTemplates];
