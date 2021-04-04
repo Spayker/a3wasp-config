@@ -4,15 +4,15 @@ _side = _this;
 
 /* Root Definition */
 _MHQ = "CUP_I_BRDM2_HQ_NAPA";
-_HQ = "BRDM2_HQ_Gue_unfolded";
-_BAR = "Gue_WarfareBBarracks";
-_LVF = "Gue_WarfareBLightFactory";
-_CC = "GUE_WarfareBUAVterminal";
-_HEAVY = "Gue_WarfareBHeavyFactory";
-_AIR = "GUE_WarfareBAircraftFactory";
-_SP = "GUE_WarfareBVehicleServicePoint";
-_AAR = "GUE_WarfareBAntiAirRadar";
-_ARR = "Gue_WarfareBArtilleryRadar";
+_HQ = "BRDM2_HQ_TK_GUE_unfolded_Base_EP1";
+_BAR = "TK_GUE_WarfareBBarracks_Base_EP1";
+_LVF = "TK_GUE_WarfareBLightFactory_base_EP1";
+_CC = "TK_GUE_WarfareBUAVterminal_Base_EP1";
+_HEAVY = "TK_GUE_WarfareBHeavyFactory_Base_EP1";
+_AIR = "TK_GUE_WarfareBAircraftFactory_Base_EP1";
+_SP = "TK_GUE_WarfareBVehicleServicePoint_Base_EP1";
+_AAR = "TK_GUE_WarfareBAntiAirRadar_Base_EP1";
+_ARR = "TK_GUE_WarfareBArtilleryRadar_Base_EP1";
 
 /* Construction Crates */
 missionNamespace setVariable [Format["WF_%1CONSTRUCTIONSITE", _side], 'TK_WarfareBContructionSite_EP1'];
