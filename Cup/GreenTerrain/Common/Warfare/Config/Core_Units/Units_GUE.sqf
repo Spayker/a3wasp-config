@@ -69,7 +69,6 @@ _u  pushBack  'CUP_I_BTR60_UN';
 _u  pushBack  'CUP_I_BRDM2_NAPA';
 _u  pushBack  'CUP_I_BRDM2_ATGM_NAPA';
 _u  pushBack  'CUP_I_Ural_ZU23_NAPA';
-_u  pushBack  'O_Truck_03_covered_F';
 _u  pushBack 'CUP_C_TT650_RU';
 _u  pushBack 'dbo_CIV_new_bike';
 _u  pushBack 'CUP_I_Hilux_MLRS_TK';
