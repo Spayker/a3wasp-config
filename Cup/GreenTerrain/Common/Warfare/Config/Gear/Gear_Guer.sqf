@@ -457,17 +457,35 @@ _i pushBack 'CUP_U_I_GUE_WorkU_02';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_I_B_PARA_Unit_4';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_I_GUE_WorkU_01';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_I_GUE_WorkU_01';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_I_GUE_WorkU_01';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_O_CHDKZ_Kam_04';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_O_SLA_MixedCamo';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'U_I_Wetsuit';
 _u pushBack 0;
 _p pushBack 100;
 
-_i pushBack 'U_O_R_Gorka_01_camo_F';
-_u pushBack 0;
-_p pushBack 100;
 
-_i pushBack 'U_O_R_Gorka_01_F';
-_u pushBack 0;
-_p pushBack 100;
 
 //--Vests--
 _i pushBack 'V_RebreatherIR';

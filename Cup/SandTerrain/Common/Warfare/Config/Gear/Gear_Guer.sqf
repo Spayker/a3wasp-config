@@ -445,6 +445,30 @@ _i pushBack 'CUP_I_TKG_Khet_Jeans_01';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_U_B_BDUv2_roll_dirty_desert';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_O_TKI_Khet_Partug_01';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_I_B_PARA_Unit_7';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_O_TK_MixedCamo';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_I_B_PARA_Unit_11';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_U_B_BDUv2_roll2_dirty_desert';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_I_TKG_Khet_Jeans_03';
 _u pushBack 0;
 _p pushBack 25;
