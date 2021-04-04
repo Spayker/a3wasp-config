@@ -229,9 +229,6 @@ _i pushBack ['','',325,17,-2,0,1,0,'Guerilla',[]];
 _c pushBack 'CUP_I_Hilux_AGS30_TK';
 _i pushBack ['','',400,17,-2,1,1,0,'Guerilla',[]];
 
-_c pushBack 'CUP_I_Hilux_MLRS_TK';
-_i pushBack ['','',15879,17,-2,4,1,0,'Guerilla',[]];
-
 _c pushBack 'CUP_I_Hilux_metis_NAPA';
 _i pushBack ['','',700,17,-2,1,1,0,'Guerilla',[]];
 
@@ -240,9 +237,6 @@ _i pushBack ['','',700,17,-2,1,1,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_Hilux_podnos_TK';
 _i pushBack ['','',400,17,-2,1,1,0,'Guerilla',[]];
-
-_c pushBack 'CUP_I_LR_Transport_RACS';
-_i pushBack ['','',400,17,-2,0,1,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_Hilux_MLRS_TK';
 _i pushBack ['','',500,17,-2,1,1,0,'Guerilla',[]];
@@ -369,6 +363,9 @@ _i pushBack ['','',3500,35,-2,3,2,0,'Guerilla',[], 1];
 _c pushBack 'CUP_I_Ka60_GL_Blk_ION';
 _i pushBack ['','',10500,35,-2,2,2,0,'Guerilla',[]];
 
+_c pushBack 'CUP_I_UH1H_TK_GUE';
+_i pushBack ['(AMBU) UH1H','',16000,35,-2,2,2,0,'Guerilla',[]];
+
 _c pushBack 'CUP_I_AH6J_RACS';
 _i pushBack ['','',6200,35,-2,2,2,0,'Guerilla',[], 1];
 
@@ -409,7 +406,7 @@ _i pushBack ['','',14800,43,-2,1,3,0,'Guerilla',[]];
 _c pushBack 'CUP_I_D30_TK_GUE';
 _i pushBack ['','',2000,0,1,0,'Defense',0,'Guerilla',[]];
 
-_c pushBack 'CUP_I_2b14_82mm_NAPA';
+_c pushBack 'CUP_I_2b14_82mm_TK_GUE';
 _i pushBack ['Podnos Mortar','',1000,0,1,0,'Defense',0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_DSHKM_NAPA';

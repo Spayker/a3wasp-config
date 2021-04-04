@@ -44,6 +44,12 @@ _o pushBack 1100;
 _t pushBack "Defense";
 _k pushBack "";
 
+_c pushBack 'CUP_I_D30_TK_GUE';
+_n pushBack '';
+_o pushBack 1800;
+_t pushBack "Defense";
+_k pushBack "Artillery";
+
 //--- Defenses management for towns.
 if (isServer || isHeadLessClient) then {[_side, _c, _k] Call Compile preprocessFile "Common\Warfare\Config\Config_Defenses_Towns.sqf"};
 

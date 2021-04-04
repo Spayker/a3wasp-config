@@ -68,6 +68,8 @@ _u  pushBack  'CUP_I_Ural_ZU23_NAPA';
 _u  pushBack  'O_Truck_03_covered_F';
 _u  pushBack 'CUP_C_TT650_RU';
 _u  pushBack 'dbo_CIV_new_bike';
+_u  pushBack 'CUP_I_Hilux_MLRS_TK';
+_u  pushBack 'CUP_I_LR_Ambulance_RACS';
 _u  pushBack 'CUP_I_BRDM2_HQ_NAPA';
 
 missionNamespace setVariable [Format ["WF_%1LIGHTUNITS", _side], _u];
@@ -91,6 +93,7 @@ if (local player) then {['HEAVY', _side, _u] Call WFCL_fnc_initFaction};
 
 _u =      ['CUP_I_UH1H_armed_TK_GUE'];
 _u  pushBack 'CUP_I_AH6J_RACS';
+_u  pushBack 'CUP_I_UH1H_TK_GUE';
 _u  pushBack 'CUP_I_UH1H_gunship_TK_GUE';
 _u  pushBack 'CUP_I_SA330_Puma_HC2_RACS';
 _u  pushBack  'CUP_I_Mi24_D_Dynamic_ION';
