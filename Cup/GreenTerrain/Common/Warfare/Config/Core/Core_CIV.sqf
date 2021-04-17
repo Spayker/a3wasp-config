@@ -93,46 +93,6 @@ _i pushBack ['','',380,5,-1,0,0,1,'CUP - CDF',[]];
 _c pushBack 'CUP_B_CDF_Soldier_AA_FST';
 _i pushBack ['','',520,5,-1,0,0,1,'CUP - CDF',[]];
 
-// CUP - CDF light vehicles
-_c pushBack 'CUP_B_UAZ_AGS30_CDF';
-_i pushBack ['','',400,17,-2,1,1,0,'CUP - CDF',[]];
-
-_c pushBack 'CUP_B_UAZ_MG_CDF';
-_i pushBack ['','',250,17,-2,1,1,0,'CUP - CDF',[]];
-
-_c pushBack 'CUP_B_LR_MG_CZ_W';
-_i pushBack ['','',300,17,-2,1,1,0,'CUP - CDF',[]];
-
-_c pushBack 'CUP_B_LR_Special_CZ_W';
-_i pushBack ['','',450,17,-2,1,1,0,'CUP - CDF',[]];
-
-_c pushBack 'CUP_B_UAZ_AA_CDF';
-_i pushBack ['','',600,17,-2,1,1,0,'CUP - CDF',[]];
-
-_c pushBack 'CUP_B_UAZ_METIS_CDF';
-_i pushBack ['','',700,17,-2,1,1,0,'CUP - CDF',[]];
-
-_c pushBack 'CUP_B_UAZ_SPG9_CDF';
-_i pushBack ['','',290,17,-2,1,1,0,'CUP - CDF',[]];
-
-_c pushBack 'CUP_B_BRDM2_CDF';
-_i pushBack ['','',1200,17,-2,1,1,0,'CUP - CDF',[]];
-
-_c pushBack 'CUP_B_BRDM2_ATGM_CDF';
-_i pushBack ['','',1800,17,-2,1,1,0,'CUP - CDF',[]];
-
-_c pushBack 'CUP_B_BTR60_CDF';
-_i pushBack ['','',1200,17,-2,1,1,0,'CUP - CDF',[]];
-
-_c pushBack 'CUP_B_BTR80_CDF';
-_i pushBack ['','',1350,17,-2,1,1,0,'CUP - CDF',[]];
-
-_c pushBack 'CUP_B_BTR80A_CDF';
-_i pushBack ['','',2000,17,-2,1,1,0,'CUP - CDF',[]];
-
-_c pushBack 'CUP_B_Ural_ZU23_CDF';
-_i pushBack ['','',1750,17,-2,1,1,0,'CUP - CDF',[]];
-
 // CUP - CDF heavy vehicles
 _c pushBack 'CUP_B_ZSU23_CDF';
 _i pushBack ['','',4500,17,-2,1,1,0,'CUP - CDF',[]];

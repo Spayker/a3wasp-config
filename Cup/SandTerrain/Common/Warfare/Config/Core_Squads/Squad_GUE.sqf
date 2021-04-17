@@ -178,7 +178,14 @@ _aiTeamUpgrades pushBack 4;
 //--- Heavy Vehicles
 _u = ["CUP_I_M113_AAF"];
 
-_aiTeamTemplateName pushBack "Light M113 Group";
+_aiTeamTemplateName pushBack "M113 Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Heavy';
+_aiTeamUpgrades pushBack 0;
+
+_u = ["cwr3_i_bmp2_zu23"];
+
+_aiTeamTemplateName pushBack "BMP2 ZU23 Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 0;
@@ -191,6 +198,20 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 1;
 
+_u = ["cwr3_i_t55a"];
+
+_aiTeamTemplateName pushBack "T55A Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Heavy';
+_aiTeamUpgrades pushBack 1;
+
+_u = ["CUP_I_M60A3_RACS"];
+
+_aiTeamTemplateName pushBack "M60A3 Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Heavy';
+_aiTeamUpgrades pushBack 2;
+
 _u = ["CUP_I_BMP2_NAPA"];
 
 _aiTeamTemplateName pushBack "BMP 2 Group";
@@ -198,12 +219,6 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 2;
 
-_u = ["CUP_I_T55_NAPA"];
-
-_aiTeamTemplateName pushBack "T55 Group";
-_aiTeamTemplates pushBack _u;
-_aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 2;
 
 _u = ["CUP_I_ZSU23_AAF"];
 
@@ -212,9 +227,23 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 3;
 
+_u = ["cwr3_i_mtlb_sa13"];
+
+_aiTeamTemplateName pushBack "MTLB SA13 Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Heavy';
+_aiTeamUpgrades pushBack 4;
+
 _u = ["CUP_I_T72_NAPA"];
 
 _aiTeamTemplateName pushBack "T72 Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Heavy';
+_aiTeamUpgrades pushBack 3;
+
+_u = ["cwr3_i_t72b1"];
+
+_aiTeamTemplateName pushBack "T72B1 Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 4;

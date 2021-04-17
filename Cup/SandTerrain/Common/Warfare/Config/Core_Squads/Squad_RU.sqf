@@ -197,9 +197,9 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 1;
 
-_u = ["CUP_O_T55_TK"];
+_u = ["cwr3_o_t64b"];
 
-_aiTeamTemplateName pushBack "T55 Group";
+_aiTeamTemplateName pushBack "T64B Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 1;

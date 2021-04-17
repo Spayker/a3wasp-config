@@ -238,11 +238,11 @@ _u		= ["CUP_I_Ural_ZU23_NAPA"];
 _l pushBack _u;
 
 _k pushBack "AA_Heavy_0";
-_u		= ["CUP_I_Ural_ZU23_NAPA"];
+_u		= ["CUP_I_M163_AAF"];
 _l pushBack _u;
 
 _k pushBack "AA_Heavy_1";
-_u		= ["CUP_I_M163_AAF"];
+_u		= ["cwr3_i_mtlb_sa13"];
 _l pushBack _u;
 
 _k pushBack "Mechanized_0";
@@ -262,11 +262,19 @@ _u		= ["CUP_I_T34_NAPA"];
 _l pushBack _u;
 
 _k pushBack "Armored_1";
-_u		= ["CUP_I_T55_NAPA"];
+_u		= ["cwr3_i_t55a"];
 _l pushBack _u;
 
 _k pushBack "Armored_2";
+_u		= ["CUP_I_M60A3_RACS"];
+_l pushBack _u;
+
+_k pushBack "Armored_3";
 _u		= ["CUP_I_T72_NAPA"];
+_l pushBack _u;
+
+_k pushBack "Armored_4";
+_u		= ["cwr3_i_t72b1"];
 _l pushBack _u;
 
 _k pushBack "Air_Light_0";

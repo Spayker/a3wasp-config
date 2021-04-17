@@ -78,12 +78,15 @@ _u =      ['CUP_I_M113_AAF'];
 _u  pushBack  'CUP_I_BMP2_AMB_NAPA';
 _u  pushBack  'CUP_I_BMP1_TK_GUE';
 _u  pushBack  'CUP_I_BMP2_NAPA';
+_u  pushBack  'cwr3_i_bmp2_zu23';
 _u  pushBack  'CUP_I_T34_NAPA';
-_u  pushBack  'CUP_I_T55_NAPA';
+_u  pushBack  'cwr3_i_t55a';
 _u  pushBack  'CUP_I_M60A3_RACS';
 _u  pushBack  'CUP_I_M163_AAF';
 _u  pushBack  'CUP_I_T72_NAPA';
+_u  pushBack  'cwr3_i_t72b1';
 _u  pushBack  'CUP_I_ZSU23_AAF';
+_u  pushBack  'cwr3_i_mtlb_sa13';
 _u  pushBack 'CUP_I_BRDM2_HQ_NAPA';
 
 missionNamespace setVariable [Format ["WF_%1HEAVYUNITS", _side], _u];

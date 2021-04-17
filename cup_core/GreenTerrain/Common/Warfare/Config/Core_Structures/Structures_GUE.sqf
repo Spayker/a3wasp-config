@@ -153,7 +153,7 @@ missionNamespace setVariable [Format["WF_%1AIR_BASE_DISCOUNT_PROGRAM", _side], [
 
 // static defence
 _n =         ["CUP_I_D30_TK_GUE"];
-_n pushBack "CUP_I_2b14_82mm_NAPA";
+_n pushBack "CUP_I_2b14_82mm_TK_GUE";
 _n pushBack "CUP_I_AGS_TK_GUE";
 _n pushBack "CUP_I_DSHKM_NAPA";
 _n pushBack "CUP_B_DSHkM_MiniTriPod_NAPA";
@@ -201,6 +201,6 @@ missionNamespace setVariable [Format["WF_%1DEFENSES_AAPOD", _side], ['CUP_I_ZU23
 missionNamespace setVariable [Format["WF_%1DEFENSES_ATPOD", _side], ['CUP_I_SPG9_NAPA']];
 missionNamespace setVariable [Format["WF_%1DEFENSES_CANNON", _side], ['CUP_I_D30_TK_GUE']];
 missionNamespace setVariable [Format["WF_%1DEFENSES_MASH", _side], ['MASH']];
-missionNamespace setVariable [Format["WF_%1DEFENSES_MORTAR", _side], ['CUP_I_2b14_82mm_NAPA']];
+missionNamespace setVariable [Format["WF_%1DEFENSES_MORTAR", _side], ['CUP_I_2b14_82mm_TK_GUE']];
 
 missionNamespace setVariable [Format["WF_%1DEFENSENAMES", _side], _n];

@@ -215,88 +215,74 @@ _l pushBack _u;
 
 _k pushBack "Motorized_0";
 _u =      ["CUP_O_GAZ_Vodnik_BPPU_RU"];
-_u pushBack "CUP_O_GAZ_Vodnik_AGS_RU";
 _l pushBack _u;
 
 _k pushBack "Motorized_1";
 _u =      ["CUP_O_BTR90_RU_WASP"];
-_u pushBack "CUP_O_BRDM2_TKA";
-_u pushBack "CUP_O_BRDM2_TKA";
 _l pushBack _u;
 
 _k pushBack "Motorized_2";
 _u =      ["CUP_O_BTR60_TK"];
-_u pushBack "CUP_O_BTR60_TK";
-_u pushBack "CUP_O_BRDM2_TKA";
 _l pushBack _u;
 
 _k pushBack "Motorized_3";
 _u =      ["CUP_O_BTR60_TK"];
-_u pushBack "CUP_O_BTR60_TK";
-_u pushBack "CUP_O_BRDM2_ATGM_TKA";
 _l pushBack _u;
 
 _k pushBack "Motorized_4";
 _u =      ["CUP_O_BTR60_TK"];
-_u pushBack "CUP_O_BRDM2_ATGM_TKA";
-_u pushBack "CUP_O_BRDM2_ATGM_TKA";
 _l pushBack _u;
 
 _k pushBack "AA_Light_0";
 _u		= ["CUP_O_Ural_ZU23_TKA"];
-_u pushBack "CUP_O_Ural_ZU23_TKA";
 _l pushBack _u;
 
 _k pushBack "AA_Light_1";
 _u		= ["CUP_O_Ural_ZU23_TKA"];
-_u pushBack "CUP_O_Ural_ZU23_TKA";
 _l pushBack _u;
 
 _k pushBack "AA_Heavy_0";
 _u		= ["CUP_O_2S6M_RU"];
-_u pushBack "CUP_O_ZSU23_Afghan_TK";
 _l pushBack _u;
 
 _k pushBack "Mechanized_0";
 _u		= ["CUP_O_BMP1_TKA"];
-_u pushBack "CUP_O_BMP1_TKA";
 _l pushBack _u;
 
 _k pushBack "Mechanized_1";
 _u		= ["CUP_O_BMP1P_TKA"];
-_u pushBack "CUP_O_BMP2_TKA";
 _l pushBack _u;
 
 _k pushBack "Mechanized_2";
 _u		= ["CUP_O_BMP2_TKA"];
-_u pushBack "CUP_O_BMP2_TKA";
 _l pushBack _u;
 
 _k pushBack "Mechanized_3";
 _u		= ["CUP_O_BMP3_RU_WASP"];
-_u pushBack "CUP_O_BMP3_RU_WASP";
-_u pushBack "CUP_O_BMP3_RU_WASP";
+_l pushBack _u;
+
+_k pushBack "Mechanized_4";
+_u		= ["CUP_O_BMP3_RU_WASP"];
 _l pushBack _u;
 
 _k pushBack "Armored_0";
 _u		= ["CUP_O_BMP2_TKA"];
-_u pushBack "CUP_O_BMP2_TKA";
 _l pushBack _u;
 
 _k pushBack "Armored_1";
 _u		= ["CUP_O_BMP3_RU_WASP"];
-_u pushBack "CUP_O_BMP3_RU_WASP";
 _l pushBack _u;
 
 _k pushBack "Armored_2";
 _u		= ["CUP_O_T72_TKA"];
-_u pushBack "CUP_O_T72_TKA";
 _l pushBack _u;
 
 _k pushBack "Armored_3";
+_u		= ["cwr3_o_t72b1"];
+_l pushBack _u;
+
+_k pushBack "Armored_4";
 _u		= ["CUP_O_T90_RU"];
-_u pushBack "CUP_O_T90_RU";
-_u pushBack "CUP_O_T90_RU";
 _l pushBack _u;
 
 _k pushBack "Air_Light_0";
