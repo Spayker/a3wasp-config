@@ -339,7 +339,7 @@ _c pushBack 'cwr3_i_bmp2_zu23';
 _i pushBack ['','',1850,30,-2,0,3,0,'Guerilla',[], 1];
 
 _c pushBack 'CUP_I_M60A3_RACS';
-_i pushBack ['','',3900,30,-2,1,3,0,'Guerilla',[], 1];
+_i pushBack ['','',3900,30,-2,2,3,0,'Guerilla',[], 1];
 
 _c pushBack 'CUP_I_M113_AAF';
 _i pushBack ['','',1600,30,-2,0,2,0,'Guerilla',[], 2];
