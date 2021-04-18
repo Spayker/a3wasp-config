@@ -105,9 +105,11 @@ _u  pushBack 'CUP_I_SA330_Puma_HC2_RACS';
 _u  pushBack  'CUP_I_Mi24_D_Dynamic_ION';
 _u  pushBack  'CUP_I_L39_AAF';
 _u  pushBack  'CUP_I_MH6M_ION';
+_u  pushBack  'CUP_I_Mi24_D_Dynamic_AAF';
 _u pushBack 'CUP_I_MH6M_ION_OBS';
 _u  pushBack  'CUP_I_Plane_ION';
 _u  pushBack  'CUP_I_Mi17_UN';
+_u  pushBack  'CUP_I_C130J_AAF';
 
 missionNamespace setVariable [Format ["WF_%1AIRCRAFTUNITS", _side], _u];
 if (local player) then {['AIRCRAFT', _side, _u] Call WFCL_fnc_initFaction};
@@ -116,6 +118,7 @@ _u = [];
 
 _u  pushBack 'CUP_I_Plane_ION';
 _u pushBack 'CUP_I_L39_AAF';
+_u pushBack 'CUP_I_C130J_AAF';
 
 missionNamespace setVariable [Format ["WF_%1AIRPORTUNITS", _side], _u];
 if (local player) then {['AIRPORT', _side, _u] Call WFCL_fnc_initFaction};

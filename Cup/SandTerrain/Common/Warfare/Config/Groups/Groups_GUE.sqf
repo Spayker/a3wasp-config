@@ -297,11 +297,11 @@ _u =      ["CUP_I_Wildcat_Green_AAF"];
 _l pushBack _u;
 
 _k pushBack "Air_Heavy_1";
-_u =      ["CUP_I_Mi24_D_Dynamic_ION"];
+_u =      ["CUP_I_Mi24_D_Dynamic_AAF"];
 _l pushBack _u;
 
 _k pushBack "Air_Heavy_2";
-_u =      ["CUP_I_Mi24_D_Dynamic_ION"];
+_u =      ["CUP_I_Mi24_D_Dynamic_AAF"];
 _l pushBack _u;
 
 _k pushBack "Air_Heavy_3";

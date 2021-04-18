@@ -324,7 +324,7 @@ _i pushBack ['','',3500,35,-2,4,2,0,'Guerilla',[], 1];
 
 //Air Vehicles
 _c pushBack 'CUP_I_Ka60_GL_Blk_ION';
-_i pushBack ['','',10500,35,-2,2,2,0,'Guerilla',[]];
+_i pushBack ['','',10500,35,-2,1,2,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_UH1H_TK_GUE';
 _i pushBack ['(AMBU) UH1H','',16000,35,-2,2,2,0,'Guerilla',[]];
@@ -339,13 +339,13 @@ _c pushBack 'CUP_I_UH1H_gunship_TK_GUE';
 _i pushBack ['','',9700,35,-2,2,2,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_SA330_Puma_HC2_RACS';
-_i pushBack ['','',5000,35,-2,2,2,0,'Guerilla',[]];
+_i pushBack ['','',5000,35,-2,1,2,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_Wildcat_Green_AAF';
-_i pushBack ['','',10500,35,-2,2,2,0,'Guerilla',[]];
+_i pushBack ['','',10500,35,-2,3,2,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_Mi24_D_Dynamic_AAF';
-_i pushBack ['','',13200,35,-2,2,2,0,'Guerilla',[], 16];
+_i pushBack ['','',38060,35,-2,4,2,0,'Guerilla',[], 16];
 
 _c pushBack 'CUP_I_L39_AAF';
 _i pushBack ['','',29000,55,-2,2,3,0,'Guerilla',[]];
