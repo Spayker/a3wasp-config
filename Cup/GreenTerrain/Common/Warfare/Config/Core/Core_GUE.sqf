@@ -336,16 +336,16 @@ _c pushBack 'CUP_I_BMP2_AMB_NAPA';
 _i pushBack ['(AMBU) BMP-2','',3880,23,-2,0,2,0,'Guerilla',[]];
 
 _c pushBack 'cwr3_i_bmp2_zu23';
-_i pushBack ['','',1850,30,-2,0,3,0,'Guerilla',[], 1];
+_i pushBack ['','',1850,30,-2,0,3,0,'Guerilla',[]];
 
 _c pushBack 'CUP_I_M60A3_RACS';
-_i pushBack ['','',3900,30,-2,1,3,0,'Guerilla',[], 1];
+_i pushBack ['','',3900,30,-2,2,3,0,'Guerilla',[], 0];
 
 _c pushBack 'CUP_I_M113_AAF';
-_i pushBack ['','',1600,30,-2,0,2,0,'Guerilla',[], 2];
+_i pushBack ['','',1600,30,-2,0,2,0,'Guerilla',[], 5];
 
 _c pushBack 'CUP_I_M163_AAF';
-_i pushBack ['','',3600,30,-2,2,2,0,'Guerilla',[], 2];
+_i pushBack ['','',3600,30,-2,2,2,0,'Guerilla',[], 4];
 
 _c pushBack 'CUP_I_T34_NAPA';
 _i pushBack ['','',1500,30,-2,0,2,0,'Guerilla',[]];
@@ -369,7 +369,7 @@ _c pushBack 'CUP_I_ZSU23_AAF';
 _i pushBack ['','',3500,35,-2,3,2,0,'Guerilla',[], 1];
 
 _c pushBack 'cwr3_i_mtlb_sa13';
-_i pushBack ['','',3500,35,-2,4,2,0,'Guerilla',[], 1];
+_i pushBack ['','',3500,35,-2,4,2,0,'Guerilla',[], 3];
 
 //Air Vehicles
 _c pushBack 'CUP_I_Ka60_GL_Blk_ION';
