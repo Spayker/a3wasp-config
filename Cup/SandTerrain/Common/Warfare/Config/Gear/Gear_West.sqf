@@ -535,6 +535,42 @@ _i pushBack 'CUP_30Rnd_556x45_CZ805';
 _u pushBack 0;
 _p pushBack 30;
 
+_i pushBack 'CUP_20Rnd_B_AA12_HE';
+_u pushBack 3;
+_p pushBack 50;
+
+_i pushBack 'CUP_20Rnd_B_AA12_Buck_00';
+_u pushBack 3;
+_p pushBack 25;
+
+_i pushBack 'CUP_20Rnd_B_AA12_Buck_0';
+_u pushBack 3;
+_p pushBack 25;
+
+_i pushBack 'CUP_20Rnd_B_AA12_Buck_1';
+_u pushBack 3;
+_p pushBack 25;
+
+_i pushBack 'CUP_20Rnd_B_AA12_Buck_2';
+_u pushBack 3;
+_p pushBack 25;
+
+_i pushBack 'CUP_20Rnd_B_AA12_Buck_3';
+_u pushBack 3;
+_p pushBack 25;
+
+_i pushBack 'CUP_20Rnd_B_AA12_Buck_4';
+_u pushBack 3;
+_p pushBack 25;
+
+_i pushBack 'CUP_20Rnd_B_AA12_Bird_4';
+_u pushBack 3;
+_p pushBack 25;
+
+_i pushBack 'CUP_20Rnd_B_AA12_Slug';
+_u pushBack 3;
+_p pushBack 25;
+
 _i pushBack 'CUP_30Rnd_680x43_Stanag';
 _u pushBack 0;
 _p pushBack 30;
