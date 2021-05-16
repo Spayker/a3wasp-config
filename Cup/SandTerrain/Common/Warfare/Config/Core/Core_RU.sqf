@@ -41,6 +41,9 @@ _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
 _c pushBack'CUP_O_RU_Spotter';
 _i pushBack['','',190,4,-1,2,0,0.85,'CUP - Russia',[]];
 
+_c pushBack 'O_T_Helipilot_F';
+_i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
+
 _c pushBack'CUP_O_RU_Soldier_TL_VDV_M_EMR';
 _i pushBack['','',250,4,-1,2,0,0.85,'Russia (VDV - recon)',[]];
 
