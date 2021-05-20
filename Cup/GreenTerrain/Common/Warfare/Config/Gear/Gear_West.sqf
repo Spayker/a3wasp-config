@@ -15,6 +15,10 @@ _i pushBack 'CUP_NVG_HMNVS_WASP';
 _u pushBack 0;
 _p pushBack 150;
 
+_i pushBack 'CUP_NVG_PVS14_Hide_WASP';
+_u pushBack 0;
+_p pushBack 150;
+
 _i pushBack 'CUP_hgun_Glock17';
 _u pushBack 0;
 _p pushBack 275;
