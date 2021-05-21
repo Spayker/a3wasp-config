@@ -134,15 +134,16 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_TIMES", _side], [
 ]];
 
 missionNamespace setVariable [Format["WF_C_UPGRADES_%1_AI_ORDER", _side], [
-	[WF_UP_BARRACKS,1],
 	[WF_UP_GEAR,1],
+	[WF_UP_BARRACKS,1],
+    [WF_UP_LIGHT,1],
 	[WF_UP_HC_GROUP_AMOUNT,1],
-	[WF_UP_LIGHT,1],
 	[WF_UP_SUPPLYRATE,1],
+    [WF_UP_GEAR,2],
 	[WF_UP_BARRACKS,2],
-	[WF_UP_GEAR,2],
 	[WF_UP_LIGHT,2],
 	[WF_UP_HC_GROUP_AMOUNT,2],
+    [WF_UP_GEAR,3],
 	[WF_UP_BARRACKS,3],
 	[WF_UP_LIGHT,3],
 	[WF_UP_RESPAWNRANGE,1],
@@ -153,7 +154,6 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_AI_ORDER", _side], [
 	[WF_UP_SUPPLYRATE,3],
 	[WF_UP_HEAVY,3],
 	[WF_UP_ARTYTIMEOUT,2],
-	[WF_UP_GEAR,3],
 	[WF_UP_HC_GROUP_AMOUNT,3],
 	[WF_UP_HEAVY,4],
 	[WF_UP_RESPAWNRANGE,2],
@@ -164,7 +164,6 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_AI_ORDER", _side], [
 	[WF_UP_PARATROOPERS,1],
 	[WF_UP_PARATROOPERS,2],
 	[WF_UP_AIR,3],
-	[WF_UP_UAV,1],
 	[WF_UP_PARATROOPERS,3],
 	[WF_UP_EASA,1],
 	[WF_UP_SUPPLYPARADROP,1]
