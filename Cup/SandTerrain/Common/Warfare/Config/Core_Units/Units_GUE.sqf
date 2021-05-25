@@ -130,11 +130,11 @@ _u pushBack "CUP_C_Ural_Open_Civ_01";
 _u pushBack "C_Truck_02_fuel_F";
 if ((missionNamespace getVariable "WF_C_UNITS_TOWN_PURCHASE") > 0) then {
 	_u pushBack (missionNamespace getVariable "WF_GUERSOLDIER");
-	_u pushBack 'CUP_I_GUE_Medic';
-	_u pushBack 'CUP_I_GUE_Engineer';
-	_u pushBack 'CUP_I_GUE_Soldier_LAT';
-	_u pushBack 'CUP_I_GUE_Soldier_AR';
-	_u pushBack 'CUP_I_GUE_Soldier_AA';
+	_u pushBack 'CUP_I_TK_GUE_Guerilla_Medic';
+	_u pushBack 'CUP_I_TK_GUE_Mechanic';
+	_u pushBack 'CUP_I_TK_GUE_Soldier_LAT';
+	_u pushBack 'CUP_I_TK_GUE_Soldier_AR';
+	_u pushBack 'CUP_I_TK_GUE_Soldier_AA';
 };
 
 missionNamespace setVariable [Format ["WF_%1DEPOTUNITS", _side], _u];
