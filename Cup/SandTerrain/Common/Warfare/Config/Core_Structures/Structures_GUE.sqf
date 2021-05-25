@@ -158,6 +158,7 @@ _n pushBack "CUP_I_AGS_TK_GUE";
 _n pushBack "CUP_I_DSHKM_NAPA";
 _n pushBack "CUP_B_DSHkM_MiniTriPod_NAPA";
 _n pushBack "CUP_I_SPG9_NAPA";
+_n pushBack "CUP_B_RBS70_ACR";
 _n pushBack "CUP_I_ZU23_NAPA";
 
 // static walls

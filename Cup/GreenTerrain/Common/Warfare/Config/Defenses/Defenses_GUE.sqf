@@ -38,6 +38,12 @@ _o pushBack 600;
 _t pushBack "Defense";
 _k pushBack "AA";
 
+_c pushBack 'CUP_B_RBS70_ACR';
+_n pushBack '';
+_o pushBack 900;
+_t pushBack "Defense";
+_k pushBack "";
+
 _c pushBack 'CUP_I_2b14_82mm_TK_GUE';
 _n pushBack '';
 _o pushBack 1100;

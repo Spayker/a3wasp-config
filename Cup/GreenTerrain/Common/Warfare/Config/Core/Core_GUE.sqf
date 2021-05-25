@@ -430,6 +430,9 @@ _i pushBack ['','',600,0,1,0,'Defense',0,'Guerilla',[]];
 _c pushBack 'CUP_I_AGS_TK_GUE';
 _i pushBack ['','',560,0,1,0,'Defense',0,'Guerilla',[]];
 
+_c pushBack 'CUP_B_RBS70_ACR';
+_i pushBack ['','',900,0,1,0,'Defense',0,'Guerilla',[]];
+
 _c pushBack 'CUP_B_DSHkM_MiniTriPod_NAPA';
 _i pushBack ['','',225,0,1,0,'Defense',0,'Guerilla',[]];
 
