@@ -16,7 +16,7 @@ _u pushBack "CUP_I_GUE_Soldier_AT";
 _u pushBack "CUP_I_GUE_Medic";
 _u pushBack "CUP_I_GUE_Soldier_GL";
 
-_aiTeamTemplateName pushBack "Light Assault Infantry Squad";
+_aiTeamTemplateName pushBack "Recon Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 0;
@@ -30,7 +30,7 @@ _u pushBack "CUP_I_GUE_Medic";
 _u pushBack "CUP_I_GUE_Engineer";
 _u pushBack "CUP_I_GUE_Soldier_GL";
 
-_aiTeamTemplateName pushBack "Medium Assault Infantry Squad";
+_aiTeamTemplateName pushBack "Light Assault Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 1;
@@ -44,7 +44,7 @@ _u pushBack "CUP_I_GUE_Sniper";
 _u pushBack "CUP_I_RACS_Soldier_HAT_Urban";
 _u pushBack "CUP_I_GUE_Soldier_AA";
 
-_aiTeamTemplateName pushBack "Heavy Assault Infantry Squad";
+_aiTeamTemplateName pushBack "Medium Assault Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 2;
@@ -58,7 +58,7 @@ _u pushBack "CUP_I_GUE_Soldier_LAT";
 _u pushBack "CUP_I_GUE_Soldier_MG";
 _u pushBack "CUP_I_RACS_Soldier_HAT_Urban";
 
-_aiTeamTemplateName pushBack "Assault Infantry Squad - 3";
+_aiTeamTemplateName pushBack "Heavy Assault Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 3;

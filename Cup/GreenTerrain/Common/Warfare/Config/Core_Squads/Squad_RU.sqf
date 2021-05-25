@@ -16,7 +16,7 @@ _u pushBack "CUP_O_RU_Soldier_LAT_Ratnik_Summer";
 _u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_Summer";
 _u pushBack "CUP_O_RU_Soldier_GL_Ratnik_Summer";
 
-_aiTeamTemplateName pushBack "Light Assault Infantry Squad";
+_aiTeamTemplateName pushBack "Recon Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 0;
@@ -30,7 +30,7 @@ _u pushBack "CUP_O_RU_Soldier_Medic_Ratnik_Summer";
 _u pushBack "CUP_O_RU_Soldier_Engineer_Ratnik_Summer";
 _u pushBack "CUP_O_RU_Soldier_GL_Ratnik_Summer";
 
-_aiTeamTemplateName pushBack "Medium Assault Infantry Squad";
+_aiTeamTemplateName pushBack "Light Assault Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 1;
@@ -44,7 +44,7 @@ _u pushBack "CUP_O_RU_Soldier_Marksman_Ratnik_Summer";
 _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_Summer";
 _u pushBack "CUP_O_RU_Soldier_AA_Ratnik_Summer";
 
-_aiTeamTemplateName pushBack "Heavy Assault Infantry Squad";
+_aiTeamTemplateName pushBack "Medium Assault Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 2;
@@ -58,7 +58,7 @@ _u pushBack "CUP_O_MVD_Soldier_AT";
 _u pushBack "CUP_O_RU_Soldier_MG_Ratnik_Summer";
 _u pushBack "CUP_O_RU_Soldier_HAT_Ratnik_Summer";
 
-_aiTeamTemplateName pushBack "Assault Infantry Squad - 3";
+_aiTeamTemplateName pushBack "Heavy Assault Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 3;
