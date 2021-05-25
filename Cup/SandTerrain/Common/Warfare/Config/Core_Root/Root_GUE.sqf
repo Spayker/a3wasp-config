@@ -43,7 +43,7 @@ missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL2", _side],['CUP_I_GUE_
 missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL3", _side],['CUP_I_GUE_Commander','CUP_I_GUE_Soldier_AKS74','CUP_I_GUE_Soldier_AKM','CUP_I_GUE_Medic','CUP_I_GUE_Soldier_GL','CUP_I_GUE_Soldier_LAT','CUP_I_RACS_Soldier_HAT_Urban','CUP_I_RACS_Soldier_HAT_Urban','CUP_I_GUE_Soldier_AA']];
 
 missionNamespace setVariable [Format["WF_%1PARACARGO", _side], 'CUP_I_C130J_AAF'];//--- Paratroopers, Vehicle.
-missionNamespace setVariable [Format["WF_%1PARACARGO_HELI", _side], 'CUP_O_Mi8AMT_RU'];//--- Paratroopers, Helicopter.
+missionNamespace setVariable [Format["WF_%1PARACARGO_HELI", _side], 'CUP_I_UH1H_TK_GUE'];//--- Paratroopers, Helicopter.
 missionNamespace setVariable [Format["WF_%1CAS_HELI", _side], 'CUP_I_Mi24_D_Dynamic_AAF'];//--- Cas Assault Helicopter.
 missionNamespace setVariable [Format["WF_%1STARTINGVEHICLES", _side], ['CUP_I_LR_Ambulance_RACS','CUP_I_V3S_Covered_TKG']];//--- Starting Vehicles.
 missionNamespace setVariable [Format["WF_%1PARAVEHICARGO", _side], 'CUP_I_V3S_Repair_TKG'];//--- Supply Paradropping, Dropped Vehicle.
