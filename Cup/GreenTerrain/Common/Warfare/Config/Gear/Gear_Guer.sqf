@@ -32,6 +32,10 @@ _i pushBack 'CUP_hgun_TT';
 _u pushBack 1;
 _p pushBack 300;
 
+_i pushBack 'CUP_hgun_MicroUzi';
+_u pushBack 1;
+_p pushBack 350;
+
 _i pushBack 'CUP_hgun_PB6P9';
 _u pushBack 0;
 _p pushBack 275;
@@ -72,6 +76,14 @@ _p pushBack 500;
 _i pushBack 'CUP_launch_RPG26';
 _u pushBack 0;
 _p pushBack 600;
+
+_i pushBack 'CUP_RPG26_M';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_RSHG2_M';
+_u pushBack 0;
+_p pushBack 50;
 
 _i pushBack 'CUP_launch_RShG2';
 _u pushBack 0;
@@ -202,7 +214,7 @@ _i pushBack  "CUP_arifle_AK74M_GL_top_rail";
 _u pushBack  1;
 _p pushBack  400;
 
-_i pushBack  "CUP_arifle_AKMN_railed_desert";
+_i pushBack  "CUP_arifle_AKMN_railed";
 _u pushBack  1;
 _p pushBack  400;
 
@@ -290,10 +302,6 @@ _i pushBack  "CUP_arifle_AKM_GL_Early";
 _u pushBack  1;
 _p pushBack  350;
 
-_i pushBack  "CUP_arifle_AKM_GL_top_rail";
-_u pushBack  1;
-_p pushBack  450;
-
 _i pushBack 'CUP_smg_EVO';
 _u pushBack 1;
 _p pushBack 400;
@@ -306,6 +314,10 @@ _p pushBack  450;
 _i pushBack 'CUP_5x_22_LR_17_HMR_M';
 _u pushBack 0;
 _p pushBack 15;
+
+_i pushBack 'CUP_30Rnd_9x19_UZI';
+_u pushBack 0;
+_p pushBack 30;
 
 _i pushBack 'CUP_100Rnd_TE4_LRT4_White_Tracer_762x51_Belt_M';
 _u pushBack 2;
@@ -449,6 +461,10 @@ _i pushBack 'CUP_U_I_GUE_Flecktarn';
 _u pushBack 0;
 _p pushBack 25;
 
+_i pushBack 'CUP_H_ChDKZ_Beanie';
+_u pushBack 0;
+_p pushBack 25;
+
 _i pushBack 'CUP_U_I_Ghillie_Top';
 _u pushBack 0;
 _p pushBack 25;
@@ -462,14 +478,6 @@ _u pushBack 0;
 _p pushBack 25;
 
 _i pushBack 'CUP_I_B_PARA_Unit_4';
-_u pushBack 0;
-_p pushBack 25;
-
-_i pushBack 'CUP_U_I_GUE_WorkU_01';
-_u pushBack 0;
-_p pushBack 25;
-
-_i pushBack 'CUP_U_I_GUE_WorkU_01';
 _u pushBack 0;
 _p pushBack 25;
 
@@ -492,6 +500,10 @@ _p pushBack 100;
 
 
 //--Vests--
+_i pushBack 'CUP_V_O_SLA_M23_1_OD';
+_u pushBack 0;
+_p pushBack 50;
+
 _i pushBack 'V_RebreatherIR';
 _u pushBack 0;
 _p pushBack 50;
@@ -521,6 +533,10 @@ _u pushBack 0;
 _p pushBack 50;
 
 //--Helmets--
+_i pushBack 'CUP_G_Grn_Scarf_GPS_Beard_Blonde';
+_u pushBack 0;
+_p pushBack 5;
+
 _i pushBack 'CUP_G_Bandanna_beast';
 _u pushBack 0;
 _p pushBack 5;
@@ -546,6 +562,18 @@ _u pushBack 0;
 _p pushBack 5;
 
 _i pushBack 'G_Balaclava_blk';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_H_FR_Headband_Headset';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'H_Booniehat_mgrn';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_H_FR_PRR_BoonieWDL';
 _u pushBack 0;
 _p pushBack 5;
 
@@ -742,6 +770,10 @@ _u pushBack 0;
 _p pushBack 200;
 
 _i pushBack 'CUP_T10_Parachute_backpack';
+_u pushBack 0;
+_p pushBack 250;
+
+_i pushBack 'CUP_B_TacticalPack_CCE';
 _u pushBack 0;
 _p pushBack 250;
 
