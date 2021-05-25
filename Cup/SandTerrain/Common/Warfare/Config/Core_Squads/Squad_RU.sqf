@@ -58,7 +58,7 @@ _u pushBack "CUP_O_RU_Soldier_AT_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_MG_Ratnik_BeigeDigital";
 _u pushBack "CUP_O_RU_Soldier_HAT_Ratnik_BeigeDigital";
 
-_aiTeamTemplateName pushBack "Heavy Assault Infantry Squad;
+_aiTeamTemplateName pushBack "Heavy Assault Infantry Squad";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 3;
