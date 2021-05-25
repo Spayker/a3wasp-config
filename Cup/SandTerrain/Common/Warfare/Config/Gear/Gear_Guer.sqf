@@ -282,10 +282,6 @@ _i pushBack  "CUP_arifle_AK74M_GL_top_rail_camo";
 _u pushBack  1;
 _p pushBack  400;
 
-_i pushBack  "CUP_arifle_AKMN_railed_desert";
-_u pushBack  1;
-_p pushBack  400;
-
 _i pushBack  "CUP_arifle_AKM_GL_Early";
 _u pushBack  1;
 _p pushBack  350;
@@ -315,6 +311,10 @@ _i pushBack 'CUP_12Rnd_9x18_PMM_M';
 _u pushBack 0;
 _p pushBack 30;
 
+_i pushBack 'CUP_50Rnd_B_765x17_Ball_M';
+_u pushBack 1;
+_p pushBack 60;
+
 _i pushBack 'CUP_20Rnd_9x39_SP5_GROZA_M';
 _u pushBack 2;
 _p pushBack 50;
@@ -340,6 +340,10 @@ _u pushBack 0;
 _p pushBack 25;
 
 _i pushBack 'CUP_30Rnd_762x39_AK47_bakelite_M';
+_u pushBack 0;
+_p pushBack 25;
+
+_i pushBack 'CUP_30Rnd_762x39_AKM_bakelite_desert_M';
 _u pushBack 0;
 _p pushBack 25;
 
@@ -388,6 +392,10 @@ _u pushBack 0;
 _p pushBack 30;
 
 _i pushBack 'CUP_RPG18_M';
+_u pushBack 0;
+_p pushBack 125;
+
+_i pushBack 'CUP_launch_M136';
 _u pushBack 0;
 _p pushBack 125;
 
@@ -494,6 +502,30 @@ _u pushBack 0;
 _p pushBack 100;
 
 //--Vests--
+_i pushBack 'CUP_V_OI_TKI_Jacket4_03';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_V_O_TK_Vest_2';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_V_OI_TKI_Jacket3_03';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_V_O_SLA_M23_1_BRN';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_V_OI_TKI_Jacket1_01';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_V_OI_TKI_Jacket4_05';
+_u pushBack 0;
+_p pushBack 50;
+
 _i pushBack 'V_RebreatherIR';
 _u pushBack 0;
 _p pushBack 50;
@@ -523,7 +555,15 @@ _i pushBack 'CUP_H_TKI_Lungee_05';
 _u pushBack 0;
 _p pushBack 5;
 
+_i pushBack 'CUP_H_TKI_Pakol_1_05';
+_u pushBack 0;
+_p pushBack 5;
+
 _i pushBack 'CUP_H_TKI_Lungee_Open_04';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_G_ESS_KHK_Scarf_Tan_Beard_Blonde';
 _u pushBack 0;
 _p pushBack 5;
 
@@ -540,6 +580,14 @@ _u pushBack 0;
 _p pushBack 5;
 
 _i pushBack 'G_Aviator';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_G_Grn_Scarf_Shades_GPS_Beard';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'CUP_Beard_Black';
 _u pushBack 0;
 _p pushBack 5;
 
@@ -748,6 +796,10 @@ _u pushBack 0;
 _p pushBack 200;
 
 _i pushBack 'CUP_T10_Parachute_backpack';
+_u pushBack 0;
+_p pushBack 250;
+
+_i pushBack 'I_UGV_02_Science_backpack_F';
 _u pushBack 0;
 _p pushBack 250;
 
