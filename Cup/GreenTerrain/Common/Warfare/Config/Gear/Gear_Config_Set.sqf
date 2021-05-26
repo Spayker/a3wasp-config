@@ -1,9 +1,8 @@
-private ["_cpt", "_faction", "_items", "_prices", "_upgrades"];
+private ["_cpt", "_items", "_prices", "_upgrades"];
 
-_faction = _this select 0;
-_items = _this select 1;
-_upgrades = _this select 2;
-_prices = _this select 3;
+_items = _this select 0;
+_upgrades = _this select 1;
+_prices = _this select 2;
 
 _gear_accessories = [];
 _gear_primary = [];

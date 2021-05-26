@@ -1,5 +1,5 @@
 private ["_cpt"];
-params ["_faction", "_items", "_upgrades", "_prices", ["_roleName", nil]];
+params ["_items", "_upgrades", "_prices", ["_roleName", nil]];
 
 _gear_accessories = [];
 _gear_primary = [];

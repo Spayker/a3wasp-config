@@ -1,7 +1,4 @@
-private ["_faction", "_i", "_p", "_side", "_u"];
-
-_side = _this;
-_faction = "West";
+private ["_i", "_p", "_u"];
 
 _i = [];
 _u = [];
@@ -2006,4 +2003,4 @@ _i pushBack 'CUP_B_TOW_Tripod_Bag';
 _u pushBack 3;
 _p pushBack 100;
 
-[_faction, _i, _u, _p] call compile preprocessFileLineNumbers "Common\Warfare\Config\Gear\Gear_Config_Set.sqf";
+[_i, _u, _p] call compile preprocessFileLineNumbers "Common\Warfare\Config\Gear\Gear_Config_Set.sqf";
