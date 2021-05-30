@@ -201,15 +201,19 @@ _k pushBack "Motorized_4";
 _u =      ["CUP_B_M1128_MGS_Desert"];
 _l pushBack _u;
 
-_k pushBack "AA_Light_0";
+_k pushBack "AA_0";
+_u		= ["CUP_B_HMMWV_M2_GPK_USA"];
+_l pushBack _u;
+
+_k pushBack "AA_1";
+_u		= ["CUP_B_M163_USA"];
+_l pushBack _u;
+
+_k pushBack "AA_2";
 _u		= ["CUP_B_HMMWV_Avenger_USA"];
 _l pushBack _u;
 
-_k pushBack "AA_Light_1";
-_u		= ["CUP_B_HMMWV_Avenger_USA"];
-_l pushBack _u;
-
-_k pushBack "AA_Heavy_0";
+_k pushBack "AA_3";
 _u		= ["CUP_B_M6LineBacker_USA_D"];
 _l pushBack _u;
 

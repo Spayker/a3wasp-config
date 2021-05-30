@@ -228,19 +228,19 @@ _k pushBack "Motorized_10";
 _u =      ["CUP_I_LSV_02_AT_ION"];
 _l pushBack _u;
 
-_k pushBack "AA_Light_0";
-_u		= ["CUP_I_Hilux_zu23_TK"];
+_k pushBack "AA_0";
+_u		= ["CUP_I_Hilux_igla_TK"];
 _l pushBack _u;
 
-_k pushBack "AA_Light_1";
+_k pushBack "AA_1";
 _u		= ["CUP_I_Ural_ZU23_NAPA"];
 _l pushBack _u;
 
-_k pushBack "AA_Heavy_0";
+_k pushBack "AA_2";
 _u		= ["CUP_I_M163_AAF"];
 _l pushBack _u;
 
-_k pushBack "AA_Heavy_1";
+_k pushBack "AA_3";
 _u		= ["cwr3_i_mtlb_sa13"];
 _l pushBack _u;
 

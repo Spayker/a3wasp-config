@@ -233,15 +233,19 @@ _k pushBack "Motorized_4";
 _u =      ["CUP_O_BTR60_TK"];
 _l pushBack _u;
 
-_k pushBack "AA_Light_0";
+_k pushBack "AA_0";
+_u		= ["CUP_O_UAZ_AA_TKA"];
+_l pushBack _u;
+
+_k pushBack "AA_1";
 _u		= ["CUP_O_Ural_ZU23_TKA"];
 _l pushBack _u;
 
-_k pushBack "AA_Light_1";
-_u		= ["CUP_O_Ural_ZU23_TKA"];
+_k pushBack "AA_2";
+_u		= ["CUP_O_ZSU23_Afghan_TK"];
 _l pushBack _u;
 
-_k pushBack "AA_Heavy_0";
+_k pushBack "AA_3";
 _u		= ["CUP_O_2S6M_RU"];
 _l pushBack _u;
 
