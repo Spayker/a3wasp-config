@@ -162,7 +162,7 @@ _n pushBack "CUP_B_RBS70_ACR";
 _n pushBack "CUP_I_ZU23_NAPA";
 
 // static walls
-_n pushBack "Base_WarfareBBarrier10xTall";
+_n pushBack "Land_Barricade_01_10m_F";
 _n pushBack "Land_HBarrierWall6_F";
 _n pushBack "Land_HBarrierWall_corner_F";
 _n pushBack "Land_BagBunker_Small_F";
