@@ -70,6 +70,14 @@ _i pushBack 'CUP_launch_RPG26';
 _u pushBack 0;
 _p pushBack 600;
 
+_i pushBack 'CUP_RPG26_M';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_RSHG2_M';
+_u pushBack 0;
+_p pushBack 50;
+
 _i pushBack 'CUP_launch_RShG2';
 _u pushBack 0;
 _p pushBack 600;

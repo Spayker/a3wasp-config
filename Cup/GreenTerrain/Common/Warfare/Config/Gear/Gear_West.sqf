@@ -284,6 +284,18 @@ _i pushBack 'CUP_launch_FIM92Stinger';
 _u pushBack 2;
 _p pushBack 900;
 
+_i pushBack 'CUP_PTFHE_M';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_PTFHC_M';
+_u pushBack 0;
+_p pushBack 50;
+
+_i pushBack 'CUP_M72A6_M';
+_u pushBack 0;
+_p pushBack 50;
+
 _i pushBack 'CUP_arifle_M4A1_BUIS_GL';
 _u pushBack 0;
 _p pushBack 450;
