@@ -15,7 +15,7 @@ missionNamespace setVariable [Format["WF_%1FLAG", _side], 'RSC\Pictures\flag_us_
 missionNamespace setVariable ["WF_AMBULANCES", (missionNamespace getVariable ["WF_AMBULANCES", []]) + ['CUP_B_M113_Med_USA','CUP_B_UH60M_Unarmed_FFV_MEV_US','CUP_B_HMMWV_Ambulance_USMC']];
 missionNamespace setVariable [format["WF_AMBULANCES_%1", _side], ['CUP_B_M113_Med_USA','CUP_B_UH60M_Unarmed_FFV_MEV_US','CUP_B_HMMWV_Ambulance_USMC']];
 missionNamespace setVariable [Format["WF_%1REPAIRTRUCKS", _side], ['CUP_B_MTVR_Repair_USMC']];
-missionNamespace setVariable [Format["WF_%1SALVAGETRUCK", _side], ['CUP_B_MTVR_USMC']];
+missionNamespace setVariable [Format["WF_%1SALVAGETRUCK", _side], ['CUP_B_Boxer_Empty_GER_WDL']];
 missionNamespace setVariable [Format["WF_%1SUPPLY_TRUCK", _side], 'CUP_B_MTVR_Ammo_USMC'];
 
 //--- Radio Announcers.

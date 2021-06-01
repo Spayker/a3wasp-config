@@ -234,11 +234,8 @@ _i pushBack ['','',1200,25,-2,2,1,0,'USA (Army - W)',[]];
 _c pushBack 'CUP_B_Wolfhound_LMG_GB_W';
 _i pushBack ['','',1200,25,-2,2,1,0,'USA (Army - W)',[]];
 
-_c pushBack 'CUP_B_MTVR_USA';
-_i pushBack ['','',300,25,-2,0,1,0,'USA (Army - W)',[]];
-
 _c pushBack 'CUP_B_MTVR_USMC';
-_i pushBack ['','',300,25,-2,0,1,0,'USA (Army - W)',[]];
+_i pushBack ['','',825,25,-2,0,1,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_M1151_Mk19_USMC';
 _i pushBack ['','',900,25,-2,2,1,0,'USA (Army - W)',[]];
@@ -256,13 +253,13 @@ _c pushBack 'CUP_B_M1126_ICV_M2_Woodland_Slat';
 _i pushBack ['','',2100,30,-2,2,1,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_MTVR_Refuel_USMC';
-_i pushBack ['(Fuel Truck) MTVR','',600,24,-2,1,1,0,'USA (Army - W)',[]];
+_i pushBack ['(Fuel Truck) MTVR','',725,24,-2,1,1,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_MTVR_Repair_USMC';
-_i pushBack ['(Repair Truck) MTVR','',3046,24,-2,2,1,0,'USA (Army - W)',[]];
+_i pushBack ['(Repair Truck) MTVR','',2880,24,-2,2,1,0,'USA (Army - W)',[]];
 
-_c pushBack 'CUP_B_MTVR_USMC';
-_i pushBack ['(Salvage Truck) MTVR','',556,21,-2,0,1,0,'USA (Army - W)',[]];
+_c pushBack 'CUP_B_Boxer_Empty_GER_WDL';
+_i pushBack ['(Salvage Truck) Boxer','',925,21,-2,0,1,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_MTVR_Ammo_USMC';
 _i pushBack ['(Ammo Truck) MTVR','',1000,21,-2,0,1,0,'USA (Army - W)',[]];

@@ -74,6 +74,7 @@ _u pushBack 'CUP_B_MTVR_Refuel_USMC';
 _u pushBack 'CUP_B_MTVR_Repair_USMC';
 _u pushBack 'CUP_B_MTVR_USMC';
 _u pushBack 'CUP_B_MTVR_Ammo_USMC';
+_u pushBack 'CUP_B_Boxer_Empty_GER_WDL';
 _u pushBack 'dbo_CIV_new_bike';
 _u pushBack 'CUP_B_M1030_USMC';
 _u pushBack 'CUP_B_RM70_CZ';

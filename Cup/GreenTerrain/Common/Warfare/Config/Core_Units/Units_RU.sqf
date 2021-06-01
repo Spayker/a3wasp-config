@@ -59,6 +59,7 @@ _u  pushBack  'CUP_O_Ural_ZU23_SLA';
 _u  pushBack  'CUP_O_Kamaz_Repair_RU';
 _u  pushBack  'CUP_O_Kamaz_RU';
 _u  pushBack  'CUP_O_Kamaz_Open_RU';
+_u  pushBack  'CUP_O_Kamaz_Refuel_RU';
 _u  pushBack  'CUP_O_Ural_Empty_RU';
 _u  pushBack  'O_Truck_02_transport_F';
 _u  pushBack  'CUP_O_UAZ_AGS30_RU';
