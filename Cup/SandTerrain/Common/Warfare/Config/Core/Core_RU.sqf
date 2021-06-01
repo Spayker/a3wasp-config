@@ -226,7 +226,7 @@ _c pushBack 'CUP_O_Ural_Reammo_TKA';
 _i pushBack ['','',1000,25,-2,0,1,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_Ural_Empty_TKA';
-_i pushBack ['(Salvage Truck) ural','',825,25,-2,0,1,0,'CUP - Russia',[]];
+_i pushBack ['(Salvage Truck) Ural','',825,25,-2,0,1,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_Ural_ZU23_TKA';
 _i pushBack ['','',3750,25,-2,2,1,0,'CUP - Russia',[]];

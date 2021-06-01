@@ -277,7 +277,7 @@ _c pushBack 'CUP_O_Kamaz_RU';
 _i pushBack ['','',825,21,-2,0,1,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_Ural_Empty_RU';
-_i pushBack ['(Salvage Truck) kamaz','',825,21,-2,0,1,0,'CUP - Russia',[]];
+_i pushBack ['(Salvage Truck) Ural','',825,21,-2,0,1,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_Kamaz_Open_RU';
 _i pushBack ['','',725,21,-2,0,1,0,'CUP - Russia',[]];
