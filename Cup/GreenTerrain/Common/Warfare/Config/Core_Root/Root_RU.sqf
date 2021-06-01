@@ -14,8 +14,8 @@ missionNamespace setVariable [Format["WF_%1FLAG", _side], 'RSC\Pictures\flag_rus
 
 missionNamespace setVariable ["WF_AMBULANCES", (missionNamespace getVariable ["WF_AMBULANCES", []]) + ['CUP_O_LR_Ambulance_TKA','CUP_O_BMP2_AMB_RU','CUP_O_Mi8_medevac_RU','CUP_O_GAZ_Vodnik_MedEvac_RU']];
 missionNamespace setVariable [format["WF_AMBULANCES_%1", _side], ['CUP_O_LR_Ambulance_TKA','CUP_O_BMP2_AMB_RU','CUP_O_Mi8_medevac_RU','CUP_O_GAZ_Vodnik_MedEvac_RU']];
-missionNamespace setVariable [Format["WF_%1REPAIRTRUCKS", _side], ['CUP_O_Ural_Repair_RU','CUP_O_Kamaz_Repair_RU']];
-missionNamespace setVariable [Format["WF_%1SALVAGETRUCK", _side], ['CUP_O_Kamaz_RU']];
+missionNamespace setVariable [Format["WF_%1REPAIRTRUCKS", _side], ['CUP_O_Kamaz_Repair_RU']];
+missionNamespace setVariable [Format["WF_%1SALVAGETRUCK", _side], ['CUP_O_Ural_Empty_RU']];
 missionNamespace setVariable [Format["WF_%1SUPPLY_TRUCK", _side], 'CUP_O_Kamaz_Reammo_RU'];
 
 //--- Radio Announcers.
@@ -32,9 +32,9 @@ missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL3", _side],['CUP_O_RU_S
 missionNamespace setVariable [Format["WF_%1PARACARGO", _side], 'CUP_O_C47_SLA'];//--- Paratroopers, Vehicle.
 missionNamespace setVariable [Format["WF_%1PARACARGO_HELI", _side], 'CUP_O_Mi8AMT_RU'];//--- Paratroopers, Helicopter.
 missionNamespace setVariable [Format["WF_%1CAS_HELI", _side], 'CUP_O_Mi24_Mk4_CSAT_T'];//--- Cas Assault Helicopter.
-missionNamespace setVariable [Format["WF_%1REPAIRTRUCK", _side], 'CUP_O_Ural_Repair_RU'];//--- Repair Truck model.
-missionNamespace setVariable [Format["WF_%1STARTINGVEHICLES", _side], ['CUP_O_GAZ_Vodnik_MedEvac_RU','CUP_O_Ural_RU']];//--- Starting Vehicles.
-missionNamespace setVariable [Format["WF_%1PARAVEHICARGO", _side], 'CUP_O_Ural_Repair_RU'];//--- Supply Paradropping, Dropped Vehicle.
+missionNamespace setVariable [Format["WF_%1REPAIRTRUCK", _side], 'CUP_O_Kamaz_Repair_RU'];//--- Repair Truck model.
+missionNamespace setVariable [Format["WF_%1STARTINGVEHICLES", _side], ['CUP_O_GAZ_Vodnik_MedEvac_RU','CUP_O_Kamaz_RU']];//--- Starting Vehicles.
+missionNamespace setVariable [Format["WF_%1PARAVEHICARGO", _side], 'CUP_O_Kamaz_Repair_RU'];//--- Supply Paradropping, Dropped Vehicle.
 missionNamespace setVariable [Format["WF_%1PARAVEHI", _side], 'CUP_O_MI6T_RU'];//--- Supply Paradropping, Vehicle
 missionNamespace setVariable [Format["WF_%1PARACHUTE", _side], 'O_Parachute_02_F'];//--- Supply Paradropping, Parachute Model.
 

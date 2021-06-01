@@ -189,9 +189,6 @@ _i pushBack ['','',1100,24,-2,1,1,0,'CUP - Russia',[]];
 _c pushBack 'CUP_O_GAZ_Vodnik_AGS_RU';
 _i pushBack ['','',1200,24,-2,1,1,0,'CUP - Russia',[]];
 
-_c pushBack 'CUP_O_PBX_RU';
-_i pushBack ['','',225,15,-2,0,1,0,'CUP - Russia',[]];
-
 _c pushBack 'O_Boat_Transport_01_F';
 _i pushBack ['','',250,15,-2,0,1,0,'CUP - Russia',[]];
 
@@ -214,7 +211,7 @@ _c pushBack 'CUP_O_UAZ_AA_TKA';
 _i pushBack ['','',2500,21,-2,4,1,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_Ural_Open_TKA';
-_i pushBack ['','',300,25,-2,0,1,0,'CUP - Russia',[]];
+_i pushBack ['','',725,25,-2,0,1,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_Ural_Refuel_TKA';
 _i pushBack ['(Fuel Truck) Ural','',600,19,-2,1,1,0,'CUP - Russia',[]];
@@ -223,10 +220,13 @@ _c pushBack 'CUP_O_Ural_Repair_TKA';
 _i pushBack ['(Repair Truck) Ural','',2880,19,-2,2,1,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_Ural_TKA';
-_i pushBack ['','',300,25,-2,0,1,0,'CUP - Russia',[]];
+_i pushBack ['','',825,25,-2,0,1,0,'CUP - Russia',[]];
 
-_c pushBack 'CUP_O_Ural_Refuel_TKA';
-_i pushBack ['','',300,25,-2,0,1,0,'CUP - Russia',[]];
+_c pushBack 'CUP_O_Ural_Reammo_TKA';
+_i pushBack ['','',1000,25,-2,0,1,0,'CUP - Russia',[]];
+
+_c pushBack 'CUP_O_Ural_Empty_TKA';
+_i pushBack ['(Salvage Truck) ural','',825,25,-2,0,1,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_Ural_ZU23_TKA';
 _i pushBack ['','',3750,25,-2,2,1,0,'CUP - Russia',[]];
@@ -261,29 +261,11 @@ _i pushBack ['','',25879,28,-2,4,1,0,'CUP - Russia',[]];
 _c pushBack 'CUP_O_GAZ_Vodnik_MedEvac_RU';
 _i pushBack ['(AMBU) GAZ-Vodnik','',3380,23,-2,2,1,0,'CUP - Russia',[]];
 
-_c pushBack 'CUP_O_Kamaz_Repair_RU' ;
-_i pushBack ['(Repair Truck) kamaz','',2880,23,-2,2,1,0,'CUP - Russia',[]];
-
-_c pushBack 'CUP_O_Kamaz_RU';
-_i pushBack ['(Salvage Truck) kamaz','',825,21,-2,0,1,0,'CUP - Russia',[]];
-
-_c pushBack 'CUP_O_Kamaz_Reammo_RU';
-_i pushBack ['(Ammo Truck) kamaz','',1000,21,-2,0,1,0,'CUP - Russia',[]];
-
 _c pushBack 'CUP_O_BTR90_HQ_RU';
 _i pushBack ['Mobile HQ','',25000,23,-2,0,1,0,'CUP - Russia',[]];
 
-_c pushBack 'O_Truck_02_transport_F' ;
-_i pushBack ['','',455,21,-2,0,1,0,'CUP - Russia',[]];
-
-_c pushBack 'O_Truck_03_covered_F';
-_i pushBack ['','',1455,21,-2,1,1,0,'CUP - Russia',[]];
-
 _c pushBack 'CUP_C_SUV_TK';
 _i pushBack ['','',855,21,-2,1,1,0,'CUP - Russia',[]];
-
-_c pushBack 'cwr3_o_scud';
-_i pushBack ['','',5000,17,-2,4,1,0,'CUP - Russia',[]];
 
 //Heavy
 _c pushBack 'CUP_O_BMP_HQ_TKA';

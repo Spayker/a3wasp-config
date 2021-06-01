@@ -14,9 +14,9 @@ missionNamespace setVariable [Format["WF_%1FLAG", _side], 'RSC\Pictures\flag_rus
 
 missionNamespace setVariable ["WF_AMBULANCES", (missionNamespace getVariable ["WF_AMBULANCES", []]) + ['CUP_O_LR_Ambulance_TKA','CUP_O_BMP_HQ_TKA','CUP_O_Mi8_medevac_RU','CUP_O_GAZ_Vodnik_MedEvac_RU']];
 missionNamespace setVariable [format["WF_AMBULANCES_%1", _side], ['CUP_O_LR_Ambulance_TKA','CUP_O_BMP_HQ_TKA','CUP_O_Mi8_medevac_RU','CUP_O_GAZ_Vodnik_MedEvac_RU']];
-missionNamespace setVariable [Format["WF_%1REPAIRTRUCKS", _side], ['CUP_O_Ural_Repair_TKA','CUP_O_Kamaz_Repair_RU']];
-missionNamespace setVariable [Format["WF_%1SALVAGETRUCK", _side], ['CUP_O_Kamaz_RU']];
-missionNamespace setVariable [Format["WF_%1SUPPLY_TRUCK", _side], 'CUP_O_Kamaz_Reammo_RU'];
+missionNamespace setVariable [Format["WF_%1REPAIRTRUCKS", _side], ['CUP_O_Ural_Repair_TKA']];
+missionNamespace setVariable [Format["WF_%1SALVAGETRUCK", _side], ['CUP_O_Ural_Empty_TKA']];
+missionNamespace setVariable [Format["WF_%1SUPPLY_TRUCK", _side], 'CUP_O_Ural_Reammo_TKA'];
 
 //--- Radio Announcers.
 missionNamespace setVariable [Format ["WF_%1_RadioAnnouncers", _side], ['WFHQ_RU0','WFHQ_RU1','WFHQ_RU2']];
