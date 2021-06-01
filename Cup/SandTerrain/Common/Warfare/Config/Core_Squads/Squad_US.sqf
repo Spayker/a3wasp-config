@@ -100,14 +100,14 @@ _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 3;
 
 //--- Light vehicles
-_u = ["CUP_B_HMMWV_Crows_M2_USA"];
+_u = ["CUP_B_M1151_M2_DSRT_USMC"];
 
 _aiTeamTemplateName pushBack "Hummer MG Patrol";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 0;
 
-_u = ["CUP_B_HMMWV_Crows_MK19_USA"];
+_u = ["CUP_B_M1151_Mk19_DSRT_USMC"];
 
 _aiTeamTemplateName pushBack "Hummer MK19 Patrol";
 _aiTeamTemplates pushBack _u;
@@ -121,9 +121,9 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 2;
 
-_u = ["CUP_B_HMMWV_M2_GPK_USA"];
+_u = ["CUP_B_RG31_Mk19_USMC"];
 
-_aiTeamTemplateName pushBack "Armored Hummer MG Patrol";
+_aiTeamTemplateName pushBack "Armored RG31 Mk19 Patrol";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 2;

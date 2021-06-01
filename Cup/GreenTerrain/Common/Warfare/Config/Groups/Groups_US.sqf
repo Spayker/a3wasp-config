@@ -182,15 +182,15 @@ _u pushBack "CUP_B_USMC_Sniper_M107";
 _l pushBack _u;
 
 _k pushBack "Motorized_0";
-_u =      ["CUP_B_HMMWV_M2_USMC"];
+_u =      ["CUP_B_M1151_M2_USMC"];
 _l pushBack _u;
 
 _k pushBack "Motorized_1";
-_u =      ["CUP_B_HMMWV_MK19_USMC"];
+_u =      ["CUP_B_M1151_Mk19_USMC"];
 _l pushBack _u;
 
 _k pushBack "Motorized_2";
-_u =      ["CUP_B_LAV25_USMC"];
+_u =      ["CUP_B_M1167_USMC"];
 _l pushBack _u;
 
 _k pushBack "Motorized_3";
@@ -202,7 +202,7 @@ _u =      ["CUP_B_M1128_MGS_Woodland_Slat"];
 _l pushBack _u;
 
 _k pushBack "AA_0";
-_u		= ["CUP_B_HMMWV_M2_USMC"];
+_u		= ["CUP_B_M1151_M2_USMC"];
 _l pushBack _u;
 
 _k pushBack "AA_1";
