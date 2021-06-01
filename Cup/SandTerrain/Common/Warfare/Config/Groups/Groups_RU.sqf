@@ -214,23 +214,23 @@ _u pushBack "CUP_O_RU_Soldier_Marksman_Ratnik_BeigeDigital";
 _l pushBack _u;
 
 _k pushBack "Motorized_0";
-_u =      ["CUP_O_GAZ_Vodnik_BPPU_RU"];
+_u =      ["CUP_O_GAZ_Vodnik_PK_RU"];
 _l pushBack _u;
 
 _k pushBack "Motorized_1";
-_u =      ["CUP_O_BTR90_RU_WASP"];
+_u =      ["CUP_O_GAZ_Vodnik_KPVT_RU"];
 _l pushBack _u;
 
 _k pushBack "Motorized_2";
-_u =      ["CUP_O_BTR60_TK"];
+_u =      ["CUP_O_GAZ_Vodnik_BPPU_RU"];
 _l pushBack _u;
 
 _k pushBack "Motorized_3";
-_u =      ["CUP_O_BTR60_TK"];
+_u =      ["CUP_O_BTR80A_CAMO_RU"];
 _l pushBack _u;
 
 _k pushBack "Motorized_4";
-_u =      ["CUP_O_BTR60_TK"];
+_u =      ["CUP_O_BTR90_RU_WASP"];
 _l pushBack _u;
 
 _k pushBack "AA_0";

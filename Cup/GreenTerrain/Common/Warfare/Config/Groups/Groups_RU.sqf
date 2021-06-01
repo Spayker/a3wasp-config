@@ -214,11 +214,11 @@ _u pushBack "CUP_O_RU_Soldier_Marksman_Ratnik_Summer";
 _l pushBack _u;
 
 _k pushBack "Motorized_0";
-_u =      ["CUP_O_GAZ_Vodnik_AGS_RU"];
+_u =      ["CUP_O_GAZ_Vodnik_PK_RU"];
 _l pushBack _u;
 
 _k pushBack "Motorized_1";
-_u =      ["CUP_O_BRDM2_RUS"];
+_u =      ["CUP_O_GAZ_Vodnik_KPVT_RU"];
 _l pushBack _u;
 
 _k pushBack "Motorized_2";

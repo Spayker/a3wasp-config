@@ -112,19 +112,19 @@ _aiTeamTypes pushBack 'Barracks';
 _aiTeamUpgrades pushBack 3;
 
 //--- Light vehicles
-_u = ["CUP_O_UAZ_MG_TKA"];
+_u = ["CUP_O_GAZ_Vodnik_PK_RU"];
 
-_aiTeamTemplateName pushBack "UAZ MG Patrol";
+_aiTeamTemplateName pushBack "Vodnik PK Patrol";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 0;
 
-_u = ["CUP_O_UAZ_AGS30_TKA"];
+_u = ["CUP_O_GAZ_Vodnik_AGS_RU"];
 
-_aiTeamTemplateName pushBack "UAZ AGS Patrol";
+_aiTeamTemplateName pushBack "Vodnik AGS Patrol";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
-_aiTeamUpgrades pushBack 0;
+_aiTeamUpgrades pushBack 1;
 
 _u = ["CUP_O_UAZ_METIS_TKA"];
 
@@ -133,9 +133,9 @@ _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 3;
 
-_u = ["CUP_O_BRDM2_TKA"];
+_u = ["CUP_O_GAZ_Vodnik_KPVT_RU"];
 
-_aiTeamTemplateName pushBack "BRDM Patrol";
+_aiTeamTemplateName pushBack "Vodnik KPVT Patrol";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 1;
