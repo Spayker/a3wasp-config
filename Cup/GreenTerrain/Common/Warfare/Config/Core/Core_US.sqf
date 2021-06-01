@@ -298,9 +298,6 @@ _c pushBack 'B_G_Boat_Transport_01_F';
 _i pushBack ['','',150,15,-2,0,1,0,'USA Army',[]];
 
 //Heavy
-_c pushBack 'CUP_B_M113_USA';
-_i pushBack ['','',769,21,-2,0,1,0,'USA (Army - W)',[]];
-
 _c pushBack 'CUP_B_FV432_Bulldog_GB_W_RWS';
 _i pushBack ['','',2100,21,-2,0,1,0,'USA (Army - W)',[]];
 
@@ -317,7 +314,7 @@ _c pushBack 'CUP_B_MCV80_GB_W';
 _i pushBack ['','',2800,24,-2,1,2,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_M2Bradley_USA_W_WASP';
-_i pushBack ['','',3000,24,-2,1,2,0,'USA (Army - W)',[]];
+_i pushBack ['','',3000,24,-2,0,2,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_MCV80_GB_W_SLAT';
 _i pushBack ['','',3200,24,-2,1,2,0,'USA (Army - W)',[]];
@@ -332,19 +329,16 @@ _c pushBack 'CUP_B_M163_USA';
 _i pushBack ['','',4600,26,-2,2,2,0,'USA (USMC - D)',[]];
 
 _c pushBack 'CUP_B_M2A3Bradley_USA_W';
-_i pushBack ['','',3800,24,-2,2,2,0,'USA (Army - W)',[]];
+_i pushBack ['','',3800,24,-2,1,2,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_M6LineBacker_USA_W';
 _i pushBack ['','',7800,29,-2,3,2,0,'USA (Army - W)',[]];
 
-_c pushBack 'CUP_B_M60A3_USMC';
-_i pushBack ['','',6000,24,-2,2,2,0,'USA (Army - W)',[]];
-
 _c pushBack 'CUP_B_M1A1_Woodland_US_Army';
-_i pushBack ['','',8600,26,-2,3,2,0,'USA Army',[]];
+_i pushBack ['','',8600,26,-2,2,2,0,'USA Army',[]];
 
 _c pushBack 'CUP_B_Leopard2A6_GER';
-_i pushBack ['','',9000,35,-2,4,2,0,'USA (Army - W)',[]];
+_i pushBack ['','',9000,35,-2,3,2,0,'USA (Army - W)',[]];
 
 _c pushBack 'CUP_B_M1A2_TUSK_MG_US_Army_WASP';
 _i pushBack ['','',9500,35,-2,4,2,0,'USA (Army - W)',[]];

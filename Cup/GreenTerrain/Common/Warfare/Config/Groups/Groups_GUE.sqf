@@ -277,36 +277,4 @@ _k pushBack "Armored_4";
 _u		= ["cwr3_i_t72b1"];
 _l pushBack _u;
 
-_k pushBack "Air_Light_0";
-_u =      ["CUP_I_AH6J_RACS"];
-_l pushBack _u;
-
-_k pushBack "Air_Light_1";
-_u =      ["CUP_I_UH1H_armed_TK_GUE"];
-_l pushBack _u;
-
-_k pushBack "Air_Light_2";
-_u =      ["CUP_I_UH1H_gunship_TK_GUE"];
-_l pushBack _u;
-
-_k pushBack "Air_Light_3";
-_u =      ["CUP_I_AH6J_RACS"];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_0";
-_u =      ["CUP_I_Wildcat_Green_AAF"];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_1";
-_u =      ["CUP_I_Mi24_D_Dynamic_ION"];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_2";
-_u =      ["CUP_I_Mi24_D_Dynamic_ION"];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_3";
-_u =      ["CUP_I_Wildcat_Green_AAF"];
-_l pushBack _u;
-
 [_k,_l,_side] Call Compile preprocessFile "Common\Warfare\Config\Config_Groups.sqf";

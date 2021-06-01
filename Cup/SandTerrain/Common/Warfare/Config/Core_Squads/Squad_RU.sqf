@@ -183,9 +183,9 @@ _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 4;
 
 //--- Heavy Vehicles
-_u = ["CUP_O_BMP1_TKA"];
+_u = ["CUP_O_BMP2_ZU_TKA"];
 
-_aiTeamTemplateName pushBack "Light BMP 1 Group";
+_aiTeamTemplateName pushBack "BMP 2 ZU Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 0;
@@ -195,14 +195,14 @@ _u = ["CUP_O_BMP2_TKA"];
 _aiTeamTemplateName pushBack "BMP 2 Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 1;
+_aiTeamUpgrades pushBack 0;
 
 _u = ["cwr3_o_t64b"];
 
 _aiTeamTemplateName pushBack "T64B Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 1;
+_aiTeamUpgrades pushBack 2;
 
 _u = ["CUP_O_ZSU23_Afghan_TK"];
 
@@ -216,7 +216,7 @@ _u = ["CUP_O_BMP3_RU_WASP"];
 _aiTeamTemplateName pushBack "BMP 3 Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 2;
+_aiTeamUpgrades pushBack 1;
 
 _u = ["CUP_O_T72_TKA"];
 

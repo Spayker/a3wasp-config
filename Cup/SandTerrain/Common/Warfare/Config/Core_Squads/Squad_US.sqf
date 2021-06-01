@@ -178,13 +178,6 @@ _aiTeamTypes pushBack 'Light';
 _aiTeamUpgrades pushBack 4;
 
 //--- Heavy Vehicles
-_u = ["CUP_B_M113_desert_USA"];
-
-_aiTeamTemplateName pushBack "M113 Group";
-_aiTeamTemplates pushBack _u;
-_aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 0;
-
 _u = ["CUP_B_FV432_Bulldog_GB_D_RWS"];
 
 _aiTeamTemplateName pushBack "Bulldog MG RWS Group";
@@ -225,32 +218,32 @@ _u = ["CUP_B_M2Bradley_USA_D_WASP"];
 _aiTeamTemplateName pushBack "M2A2 Bradley Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 1;
-
-_u = ["CUP_B_M60A3_USMC"];
-
-_aiTeamTemplateName pushBack "M60 Patton Group";
-_aiTeamTemplates pushBack _u;
-_aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 2;
+_aiTeamUpgrades pushBack 0;
 
 _u = ["CUP_B_M2A3Bradley_USA_D"];
 
 _aiTeamTemplateName pushBack "M2A3 Bradley Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 2;
+_aiTeamUpgrades pushBack 1;
 
 _u		= ["CUP_B_M1A1_DES_US_Army"];
 
 _aiTeamTemplateName pushBack "M1A1 Abrams Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
-_aiTeamUpgrades pushBack 3;
+_aiTeamUpgrades pushBack 2;
 
 _u		= ["CUP_B_Leopard2A6DST_GER"];
 
 _aiTeamTemplateName pushBack "Leopard Group";
+_aiTeamTemplates pushBack _u;
+_aiTeamTypes pushBack 'Heavy';
+_aiTeamUpgrades pushBack 3;
+
+_u		= ["CUP_B_M1A2_TUSK_MG_DES_US_Army_WASP"];
+
+_aiTeamTemplateName pushBack "M1A2 TUSK Group";
 _aiTeamTemplates pushBack _u;
 _aiTeamTypes pushBack 'Heavy';
 _aiTeamUpgrades pushBack 4;

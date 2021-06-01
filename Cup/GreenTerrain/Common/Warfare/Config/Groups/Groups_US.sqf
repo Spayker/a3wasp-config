@@ -250,51 +250,11 @@ _u		= ["CUP_B_M1A1_Woodland_US_Army"];
 _l pushBack _u;
 
 _k pushBack "Armored_3";
-_u		= ["CUP_B_M1A2_TUSK_MG_US_Army_WASP"];
-_l pushBack _u;
-
-_k pushBack "Armored_4";
 _u		= ["CUP_B_Leopard2A6_GER"];
 _l pushBack _u;
 
-_k pushBack "Air_Light_0";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Light_1";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Light_2";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Light_3";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Light_4";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_0";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_1";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_2";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_3";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_4";
-_u =      [""];
+_k pushBack "Armored_4";
+_u		= ["CUP_B_M1A2_TUSK_MG_US_Army_WASP"];
 _l pushBack _u;
 
 [_k,_l,_side] Call Compile preprocessFile "Common\Warfare\Config\Config_Groups.sqf";

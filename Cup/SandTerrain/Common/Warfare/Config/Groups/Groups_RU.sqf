@@ -250,15 +250,15 @@ _u		= ["CUP_O_2S6M_RU"];
 _l pushBack _u;
 
 _k pushBack "Mechanized_0";
-_u		= ["CUP_O_BMP1_TKA"];
+_u		= ["CUP_O_BMP2_TKA"];
 _l pushBack _u;
 
 _k pushBack "Mechanized_1";
-_u		= ["CUP_O_BMP1P_TKA"];
+_u		= ["CUP_O_BMP3_RU_WASP"];
 _l pushBack _u;
 
 _k pushBack "Mechanized_2";
-_u		= ["CUP_O_BMP2_TKA"];
+_u		= ["CUP_O_BMP3_RU_WASP"];
 _l pushBack _u;
 
 _k pushBack "Mechanized_3";
@@ -287,46 +287,6 @@ _l pushBack _u;
 
 _k pushBack "Armored_4";
 _u		= ["CUP_O_T90_RU"];
-_l pushBack _u;
-
-_k pushBack "Air_Light_0";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Light_1";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Light_2";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Light_3";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Light_4";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_0";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_1";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_2";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_3";
-_u =      [""];
-_l pushBack _u;
-
-_k pushBack "Air_Heavy_4";
-_u =      [""];
 _l pushBack _u;
 
 [_k,_l,_side] Call Compile preprocessFile "Common\Warfare\Config\Config_Groups.sqf";

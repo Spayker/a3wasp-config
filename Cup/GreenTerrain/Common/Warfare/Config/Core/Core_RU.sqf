@@ -310,29 +310,20 @@ _c pushBack 'cwr3_o_scud';
 _i pushBack ['','',5000,17,-2,4,1,0,'CUP - Russia',[]];
 
 //Heavy
-_c pushBack 'CUP_O_MTLB_pk_WDL_RU';
-_i pushBack ['','',1000,23,-2,0,2,0,'CUP - Russia',[]];
-
 _c pushBack 'CUP_O_BMP2_AMB_RU';
 _i pushBack ['(AMBU) BMP-2','',3880,23,-2,0,2,0,'CUP - Russia',[]];
 
-_c pushBack 'CUP_O_BMP1P_CSAT_T';
-_i pushBack ['','',2600,23,-2,0,2,0,'CUP - Russia',[]];
-
-_c pushBack 'CUP_O_BMP1_CSAT';
-_i pushBack ['','',2400,23,-2,0,2,0,'CUP - Russia',[], 1];
-
 _c pushBack 'CUP_O_BMP2_RU' ;
-_i pushBack ['','',3000,23,-2,1,2,0,'CUP - Russia',[]];
+_i pushBack ['','',3000,23,-2,0,2,0,'CUP - Russia',[]];
 
 _c pushBack 'CUP_O_BMP2_ZU_TKA' ;
 _i pushBack ['','',2000,23,-2,0,2,0,'CUP - Russia',[], 3];
 
 _c pushBack 'CUP_O_BMP3_RU_WASP' ;
-_i pushBack ['','',3500,25,-2,2,2,0,'CUP - Russia',[]];
+_i pushBack ['','',3500,25,-2,1,2,0,'CUP - Russia',[]];
 
 _c pushBack 'cwr3_o_t64b' ;
-_i pushBack ['','',4700,25,-2,1,2,0,'CUP - Russia',[], 4];
+_i pushBack ['','',4700,25,-2,2,2,0,'CUP - Russia',[], 4];
 
 _c pushBack 'CUP_O_T72_RU' ;
 _i pushBack ['','',5000,25,-2,2,2,0,'CUP - Russia',[]];

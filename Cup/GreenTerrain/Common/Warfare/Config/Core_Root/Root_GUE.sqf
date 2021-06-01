@@ -133,7 +133,7 @@ missionNamespace setVariable ["WF_GUER_DefaultGearLock", [
 	[
 		["CUP_arifle_AKMN_railed",["CUP_muzzle_snds_KZRZP_AK762","CUP_acc_Flashlight","CUP_optic_AC11704_Black",""],["CUP_30Rnd_545x39_AK_M"]],
 		["CUP_launch_RPG26",["","","",""],[""]],
-		["CUP_hgun_TT",["CUP_8Rnd_762x25_TT","","",""],["CUP_50Rnd_B_765x17_Ball_M"]]
+		["CUP_hgun_TT",["CUP_8Rnd_762x25_TT","","",""],["CUP_8Rnd_762x25_TT"]]
 	],
 
 	[

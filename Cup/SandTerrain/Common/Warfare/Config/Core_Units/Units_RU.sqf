@@ -78,11 +78,8 @@ _u  pushBack 'CUP_O_BTR90_HQ_RU';
 missionNamespace setVariable [Format ["WF_%1LIGHTUNITS", _side], _u];
 if (local player) then {['LIGHT', _side, _u] Call WFCL_fnc_initFaction};
 
-_u =      ['CUP_O_MTLB_pk_TKA'];
+_u =      ['CUP_O_BMP2_TKA'];
 _u  pushBack  'CUP_O_BMP_HQ_TKA';
-_u  pushBack  'CUP_O_BMP1_TKA';
-_u  pushBack  'CUP_O_BMP1P_TKA';
-_u  pushBack  'CUP_O_BMP2_TKA';
 _u  pushBack  'CUP_O_BMP2_ZU_TKA';
 _u  pushBack  'CUP_O_BMP3_RU_WASP';
 _u  pushBack  'cwr3_o_t64b';

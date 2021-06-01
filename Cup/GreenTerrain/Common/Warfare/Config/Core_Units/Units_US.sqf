@@ -85,16 +85,14 @@ _u pushBack 'CUP_B_LAV25_HQ_USMC';
 missionNamespace setVariable [Format ["WF_%1LIGHTUNITS", _side], _u];
 if (local player) then {['LIGHT', _side, _u] Call WFCL_fnc_initFaction};
 
-_u=      ['CUP_B_M113_USA'];
+_u=      ['CUP_B_AAV_USMC'];
 _u pushBack 'CUP_B_M113_Med_USA';
-_u pushBack 'CUP_B_AAV_USMC';
 _u pushBack 'CUP_B_FV432_Bulldog_GB_W_RWS';
 _u pushBack 'CUP_B_MCV80_GB_W';
 _u pushBack 'CUP_B_M7Bradley_USA_W_WASP';
 _u pushBack 'CUP_B_MCV80_GB_W_SLAT';
 _u pushBack 'CUP_B_M2Bradley_USA_W_WASP';
 _u pushBack 'CUP_B_FV510_GB_W';
-_u pushBack 'CUP_B_M60A3_USMC';
 _u pushBack 'CUP_B_M2A3Bradley_USA_W';
 _u pushBack 'CUP_B_FV510_GB_W_SLAT';
 _u pushBack 'CUP_B_M6LineBacker_USA_W';
