@@ -38,6 +38,9 @@ _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
 _c pushBack 'CUP_O_INS_Crew';
 _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
 
+_c pushBack 'O_T_Helipilot_F';
+_i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
+
 _c pushBack'CUP_O_RU_Spotter';
 _i pushBack['','',190,4,-1,2,0,0.85,'CUP - Russia',[]];
 
