@@ -1,24 +1,25 @@
-EAST_StartVeh = ['CUP_O_BTR60_TK'];
+EAST_StartVeh = ['CUP_O_GAZ_Vodnik_PK_RU'];
 EAST_StartVeh pushBack 'CUP_O_GAZ_Vodnik_BPPU_RU';
 EAST_StartVeh pushBack 'CUP_O_Ural_ZU23_TKA';
 EAST_StartVeh pushBack 'CUP_O_GAZ_Vodnik_BPPU_RU';
-EAST_StartVeh pushBack 'CUP_O_BRDM2_TKA';
+EAST_StartVeh pushBack 'CUP_O_GAZ_Vodnik_KPVT_RU';
 EAST_StartVeh pushBack 'CUP_O_BRDM2_ATGM_TKA';
 EAST_StartVeh pushBack 'CUP_O_UAZ_METIS_TKA';
 EAST_StartVeh pushBack 'CUP_O_BTR90_RU_WASP';
-EAST_StartVeh pushBack 'CUP_O_BTR60_TK';
+EAST_StartVeh pushBack 'CUP_O_GAZ_Vodnik_AGS_RU';
 EAST_StartVeh pushBack 'CUP_O_BTR80_TK';
 EAST_StartVeh pushBack 'CUP_O_BTR80A_TK';
  
  
-WEST_StartVeh = ['CUP_B_M113_desert_USA'];
+WEST_StartVeh = ['CUP_B_M1151_Deploy_DSRT_USMC'];
 WEST_StartVeh pushBack 'CUP_B_HMMWV_Crows_M2_USA';
 WEST_StartVeh pushBack 'CUP_B_HMMWV_Crows_MK19_USA';
 WEST_StartVeh pushBack 'CUP_B_M1126_ICV_M2_Desert';
 WEST_StartVeh pushBack 'CUP_B_M1151_Mk19_DSRT_USMC';
 WEST_StartVeh pushBack 'CUP_B_Jackal2_GMG_GB_D';
-WEST_StartVeh pushBack 'CUP_B_HMMWV_TOW_USA';
 WEST_StartVeh pushBack 'CUP_B_M1167_DSRT_USMC';
+WEST_StartVeh pushBack 'CUP_B_RG31_Mk19_USMC';
+WEST_StartVeh pushBack 'CUP_B_RG31E_M2_USMC';
 WEST_StartVeh pushBack 'CUP_B_LAV25M240_desert_USMC';
 WEST_StartVeh pushBack 'CUP_B_HMMWV_Avenger_USA';
 
