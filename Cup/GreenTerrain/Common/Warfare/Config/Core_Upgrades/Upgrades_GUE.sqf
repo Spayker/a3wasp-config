@@ -11,7 +11,7 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_ENABLED", _side], [
 	true, //--- Supply
 	true, //--- Respawn Range
 	if ((missionNamespace getVariable "WF_C_ARTILLERY") > 0) then {true} else {false}, //--- Artillery Time
-	false, //--- Cruise Missile
+	true, //--- Cruise Missile
 	true, //--- Gear
 	false, //--- Build Ammo
 	if ((missionNamespace getVariable "WF_C_MODULE_WF_EASA") > 0) then {true} else {false}, //--- EASA
