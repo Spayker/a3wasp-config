@@ -724,6 +724,14 @@ _i pushBack 'CUP_H_RUS_Bandana_GSSh_Headphones';
 _u pushBack 0;
 _p pushBack 5;
 
+_i pushBack 'CUP_H_RUS_Balaclava_Ratnik_Headphones';
+_u pushBack 0;
+_p pushBack 5;
+
+_i pushBack 'H_Cap_headphones';
+_u pushBack 0;
+_p pushBack 5;
+
 _i pushBack 'CUP_G_Scarf_Face_Grn';
 _u pushBack 0;
 _p pushBack 5;
@@ -929,6 +937,10 @@ _u pushBack 0;
 _p pushBack 200;
 
 _i pushBack 'CUP_T10_Parachute_backpack';
+_u pushBack 0;
+_p pushBack 250;
+
+_i pushBack 'CUP_O_RUS_Patrol_bag_Green_Shovel';
 _u pushBack 0;
 _p pushBack 250;
 
@@ -1141,6 +1153,10 @@ _u pushBack 1;
 _p pushBack 30;
 
 _i pushBack 'CUP_acc_Flashlight_wdl';
+_u pushBack 1;
+_p pushBack 30;
+
+_i pushBack 'CUP_acc_ANPEQ_15_Top_Flashlight_Black_L';
 _u pushBack 1;
 _p pushBack 30;
 
