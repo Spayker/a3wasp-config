@@ -534,6 +534,10 @@ _i pushBack 'CUP_G_Grn_Scarf_GPS_Beard_Blonde';
 _u pushBack 0;
 _p pushBack 5;
 
+_i pushBack 'CUP_Beard_Brown';
+_u pushBack 0;
+_p pushBack 5;
+
 _i pushBack 'CUP_G_Bandanna_beast';
 _u pushBack 0;
 _p pushBack 5;
@@ -999,6 +1003,10 @@ _u pushBack 1;
 _p pushBack 50;
 
 _i pushBack 'CUP_optic_CompM2_Black';
+_u pushBack 1;
+_p pushBack 50;
+
+_i pushBack 'CUP_optic_AC11704_Black';
 _u pushBack 1;
 _p pushBack 50;
 
