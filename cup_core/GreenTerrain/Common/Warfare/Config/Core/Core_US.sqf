@@ -11,6 +11,9 @@ _i pushBack ['','',120,4,-1,0,0,0.85,'USA (Army - W)',[]];
 _c pushBack 'CUP_B_GER_Fleck_Crew';
 _i pushBack ['','',120,4,-1,0,0,0.85,'USA (Army - W)',[]];
 
+_c pushBack 'CUP_B_BAF_Soldier_Crew_DPM';
+_i pushBack ['','',120,4,-1,0,0,0.85,'USA (Army - W)',[]];
+
 _c pushBack 'CUP_B_USMC_Crew';
 _i pushBack ['','',120,4,-1,0,0,0.85,'USA (Army - W)',[]];
 
