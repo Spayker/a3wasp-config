@@ -130,6 +130,7 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_AI_ORDER", _side], [
     [WF_UP_LIGHT,2],
     [WF_UP_HC_GROUP_AMOUNT,2],
     [WF_UP_GEAR,3],
+    [WF_UP_GEAR,4],
     [WF_UP_BARRACKS,3],
     [WF_UP_LIGHT,3],
     [WF_UP_RESPAWNRANGE,1],
@@ -151,7 +152,8 @@ missionNamespace setVariable [Format["WF_C_UPGRADES_%1_AI_ORDER", _side], [
     [WF_UP_AIR,3],
     [WF_UP_PARATROOPERS,3],
     [WF_UP_EASA,1],
-    [WF_UP_SUPPLYPARADROP,1]
+    [WF_UP_SUPPLYPARADROP,1],
+    [WF_UP_AIR,4]
 ]];
 
 //--- Check potential missing definition.
