@@ -38,9 +38,9 @@ if (local player) then {
 (_side) Call Compile preprocessFileLineNumbers "Common\Warfare\Config\Core_Structures\Structures_Gue.sqf";
 
 //--- Paratroopers.
-missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL1", _side],['CUP_I_GUE_Commander','CUP_I_GUE_Soldier_AKS74','CUP_I_GUE_Soldier_AKM','CUP_I_GUE_Medic','CUP_I_GUE_Soldier_GL','CUP_I_GUE_Soldier_LAT']];
-missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL2", _side],['CUP_I_GUE_Commander','CUP_I_GUE_Soldier_AKS74','CUP_I_GUE_Soldier_AKM','CUP_I_GUE_Medic','CUP_I_GUE_Soldier_GL','CUP_I_GUE_Soldier_LAT','CUP_I_GUE_Soldier_AT','CUP_I_GUE_Soldier_AA']];
-missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL3", _side],['CUP_I_GUE_Commander','CUP_I_GUE_Soldier_AKS74','CUP_I_GUE_Soldier_AKM','CUP_I_GUE_Medic','CUP_I_GUE_Soldier_GL','CUP_I_GUE_Soldier_LAT','CUP_I_RACS_Soldier_HAT_Urban','CUP_I_RACS_Soldier_HAT_Urban','CUP_I_GUE_Soldier_AA']];
+missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL1", _side],['CUP_I_TK_GUE_Soldier_TL','CUP_I_TK_GUE_Soldier_AK_47S','CUP_I_TK_GUE_Soldier_M16A2','CUP_I_TK_GUE_Guerilla_Medic','CUP_I_TK_GUE_Soldier_GL','CUP_I_TK_GUE_Soldier_LAT']];
+missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL2", _side],['CUP_I_TK_GUE_Soldier_TL','CUP_I_TK_GUE_Soldier_AK_47S','CUP_I_TK_GUE_Soldier_M16A2','CUP_I_TK_GUE_Guerilla_Medic','CUP_I_TK_GUE_Soldier_GL','CUP_I_TK_GUE_Soldier_LAT','CUP_I_TK_GUE_Soldier_AT','CUP_I_TK_GUE_Soldier_AA']];
+missionNamespace setVariable [Format["WF_%1PARACHUTELEVEL3", _side],['CUP_I_TK_GUE_Soldier_TL','CUP_I_TK_GUE_Soldier_AK_47S','CUP_I_TK_GUE_Guerilla_Medic','CUP_I_TK_GUE_Soldier_GL','CUP_I_TK_GUE_Soldier_LAT','CUP_I_TK_GUE_Soldier_HAT','CUP_I_TK_GUE_Soldier_HAT','CUP_I_TK_GUE_Soldier_AA']];
 
 missionNamespace setVariable [Format["WF_%1PARACARGO", _side], 'CUP_I_C130J_AAF'];//--- Paratroopers, Vehicle.
 missionNamespace setVariable [Format["WF_%1PARACARGO_HELI", _side], 'CUP_I_UH1H_TK_GUE'];//--- Paratroopers, Helicopter.
@@ -52,11 +52,11 @@ missionNamespace setVariable [Format["WF_%1PARACHUTE", _side], 'I_Parachute_02_F
 
 //--- Base Patrols.
 if ((missionNamespace getVariable "WF_C_BASE_PATROLS_INFANTRY") > 0) then {
-	missionNamespace setVariable [Format["WF_%1BASEPATROLS_0", _side],['CUP_I_GUE_Officer','CUP_I_GUE_Soldier_AKSU','CUP_I_GUE_Soldier_AKS74','CUP_I_GUE_Soldier_AR','CUP_I_GUE_Soldier_AT','']];
-	missionNamespace setVariable [Format["WF_%1BASEPATROLS_1", _side],['CUP_I_GUE_Officer','CUP_I_GUE_Soldier_AKSU','CUP_I_GUE_Soldier_AKS74','CUP_I_GUE_Soldier_AR','','CUP_I_GUE_Soldier_AT']];
-	missionNamespace setVariable [Format["WF_%1BASEPATROLS_2", _side],['CUP_I_GUE_Officer','CUP_I_GUE_Soldier_AKSU','CUP_I_GUE_Soldier_AKS74','CUP_I_GUE_Soldier_AR','CUP_I_GUE_Soldier_AT','CUP_I_GUE_Soldier_GL']];
-	missionNamespace setVariable [Format["WF_%1BASEPATROLS_3", _side],['CUP_I_GUE_Officer','CUP_I_GUE_Soldier_AKSU','CUP_I_GUE_Soldier_AKS74','CUP_I_GUE_Soldier_MG','CUP_I_GUE_Soldier_AA','CUP_I_GUE_Soldier_AT']];
-	missionNamespace setVariable [Format["WF_%1BASEPATROLS_4", _side],['CUP_I_GUE_Officer','CUP_I_GUE_Soldier_AKSU','CUP_I_GUE_Soldier_MG','CUP_I_GUE_Soldier_AT','CUP_I_GUE_Soldier_AA','CUP_I_GUE_Soldier_GL']];
+	missionNamespace setVariable [Format["WF_%1BASEPATROLS_0", _side],['CUP_I_TK_GUE_Soldier_TL','CUP_I_TK_GUE_Soldier','CUP_I_TK_GUE_Soldier_AK_47S','CUP_I_TK_GUE_Soldier_AR','CUP_I_TK_GUE_Soldier_AT','']];
+	missionNamespace setVariable [Format["WF_%1BASEPATROLS_1", _side],['CUP_I_TK_GUE_Soldier_TL','CUP_I_TK_GUE_Soldier','CUP_I_TK_GUE_Soldier_AK_47S','CUP_I_TK_GUE_Soldier_AR','','CUP_I_TK_GUE_Soldier_AT']];
+	missionNamespace setVariable [Format["WF_%1BASEPATROLS_2", _side],['CUP_I_TK_GUE_Soldier_TL','CUP_I_TK_GUE_Soldier','CUP_I_TK_GUE_Soldier_AK_47S','CUP_I_TK_GUE_Soldier_AR','CUP_I_TK_GUE_Soldier_AT','CUP_I_TK_GUE_Soldier_GL']];
+	missionNamespace setVariable [Format["WF_%1BASEPATROLS_3", _side],['CUP_I_TK_GUE_Soldier_TL','CUP_I_TK_GUE_Soldier','CUP_I_TK_GUE_Soldier_AK_47S','CUP_I_TK_GUE_Soldier_MG','CUP_I_TK_GUE_Soldier_AA','CUP_I_TK_GUE_Soldier_AT']];
+	missionNamespace setVariable [Format["WF_%1BASEPATROLS_4", _side],['CUP_I_TK_GUE_Soldier_TL','CUP_I_TK_GUE_Soldier','CUP_I_TK_GUE_Soldier_MG','CUP_I_TK_GUE_Soldier_AT','CUP_I_TK_GUE_Soldier_AA','CUP_I_TK_GUE_Soldier_GL']];
 };
 
 //--- Squads.
