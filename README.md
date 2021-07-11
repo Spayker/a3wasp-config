@@ -1,2 +1,2 @@
 # ARMA3WARFARE_CONFIG
-Config scripts: gear, vehicles, units______________
+Config scripts: gear, vehicles, units
