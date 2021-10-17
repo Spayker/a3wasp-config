@@ -449,12 +449,14 @@ _c pushBack 'B_AAA_System_01_F';
 _i pushBack ['','',10000,0,1,0,'Defense',0,'USA (Army - D)',[]];
 
 //Defense Structures
-_c pushBack 'CamoNet_BLUFOR_F';
-_i pushBack ['','',1350,0,0,0,'Strategic',0,'USA (NATO)',[]];
-_c pushBack 'CamoNet_BLUFOR_open_F';
-_i pushBack ['','',1450,0,0,0,'Strategic',0,'USA (NATO)',[]];
-_c pushBack 'CamoNet_BLUFOR_big_F';
-_i pushBack ['','',2000,0,0,0,'Strategic',0,'USA (NATO)',[]];
+_c pushBack 'Land_CamoNet_NATO_EP1';
+_i pushBack ['','',350,0,0,0,'Strategic',0,'USA',[]];
+
+_c pushBack 'Land_CamoNetVar_NATO_EP1';
+_i pushBack ['','',450,0,0,0,'Strategic',0,'USA',[]];
+
+_c pushBack 'Land_CamoNetB_NATO_EP1';
+_i pushBack ['','',600,0,0,0,'Strategic',0,'USA',[]];
 
 
 //Service point

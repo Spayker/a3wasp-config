@@ -122,59 +122,62 @@ _i pushBack ['','',6000,35,-2,0,3,0,'CUP - Civilians',[]];
 _c pushBack 'CUP_C_MI6T_RU';
 _i pushBack ['','',6000,35,-2,0,3,0,'CUP - Civilians',[]];
 
-_c pushBack'Land_CzechHedgehog_01_new_F';
-_i pushBack['','',30,0,0,0,'Fortification',0,'Civilians',[]];
+_c pushBack'Base_WarfareBBarrier10xTall';
+_i pushBack['','',300,0,0,0,'Fortification',0,'Civilians',[]];
 
-_c pushBack'Land_HBarrier_1_F';
-_i pushBack['','',80,0,0,'Fortification',0,'Civilians',[]];
+_c pushBack'Land_fort_bagfence_round';
+_i pushBack['','',180,0,0,0,'Fortification',0,'Civilians',[]];
 
-_c pushBack'Land_HBarrier_Big_F';
-_i pushBack['','',30,0,0,0,'Fortification',0,'Civilians',[]];
+_c pushBack'Land_BagBunker_Small_F';
+_i pushBack['','',380,0,0,0,'Fortification',0,'Civilians',[]];
 
-_c pushBack'Land_HBarrier_3_F';
-_i pushBack['','',50,0,0,0,'Fortification',0,'Civilians',[]];
+_c pushBack'Land_BagBunker_01_small_green_F';
+_i pushBack['','',380,0,0,0,'Fortification',0,'Civilians',[]];
 
-_c pushBack'Land_HBarrier_5_F';
-_i pushBack['','',80,0,0,0,'Fortification',0,'Civilians',[]];
+_c pushBack'Land_HBarrier_01_wall_6_green_F';
+_i pushBack['','',680,0,0,0,'Fortification',0,'Civilians',[]];
 
-_c pushBack'Land_HBarrierTower_F';
-_i pushBack['','',50,0,0,0,'Fortification',0,'Civilians',[]];
+_c pushBack'Land_HBarrier_01_wall_corner_green_F';
+_i pushBack['','',580,0,0,0,'Fortification',0,'Civilians',[]];
 
-_c pushBack'Land_HBarrierWall6_F';
-_i pushBack['','',50,0,0,0,'Fortification',0,'Civilians',[]];
+_c pushBack'Land_fort_artillery_nest';
+_i pushBack['','',310,0,0,0,'Fortification',0,'Civilians',[]];
 
-_c pushBack'Land_HBarrierWall4_F';
-_i pushBack['','',50,0,0,0,'Fortification',0,'Civilians',[]];
+_c pushBack'Land_fort_rampart';
+_i pushBack['','',180,0,0,0,'Fortification',0,'Civilians',[]];
 
-_c pushBack'Land_HBarrierWall_corner_F';
-_i pushBack['','',50,0,0,0,'Fortification',0,'Civilians',[]];
-
-_c pushBack'Land_CncWall1_F';
-_i pushBack['','',50,0,0,0,'Fortification',0,'Civilians',[]];
-
-_c pushBack'Land_CncWall4_F';
-_i pushBack['','',50,0,0,0,'Fortification',0,'Civilians',[]];
-
-_c pushBack'Land_Wall_IndCnc_2deco_F';
-_i pushBack['','',50,0,0,0,'Fortification',0,'Civilians',[]];
-
-_c pushBack'Land_SandbagBarricade_01_F';
-_i pushBack['','',50,0,0,0,'Fortification',0,'Civilians',[]];
-
-_c pushBack'Land_SandbagBarricade_01_hole_F';
-_i pushBack['','',50,0,0,0,'Fortification',0,'Civilians',[]];
-
-_c pushBack'Land_SandbagBarricade_01_half_F';
+_c pushBack'Hedgehog';
 _i pushBack['','',50,0,0,0,'Fortification',0,'Civilians',[]];
 
 _c pushBack'Land_Razorwire_F';
+_i pushBack['','',100,0,0,0,'Fortification',0,'Civilians',[]];
+
+_c pushBack'Wire';
+_i pushBack['','',150,0,0,0,'Fortification',0,'Civilians',[]];
+
+_c pushBack'Hhedgehog_concreteBig';
+_i pushBack['','',230,0,0,0,'Fortification',0,'Civilians',[]];
+
+_c pushBack'Concrete_Wall_EP1';
+_i pushBack['','',90,0,0,0,'Fortification',0,'Civilians',[]];
+
+_c pushBack'Land_CamoConcreteWall_01_l_4m_v2_F';
+_i pushBack['','',150,0,0,0,'Fortification',0,'Civilians',[]];
+
+_c pushBack'Land_Vez_svetla';
+_i pushBack['','',210,0,0,0,'Fortification',0,'Civilians',[]];
+
+_c pushBack'Land_HBarrier_large';
+_i pushBack['','',80,0,0,0,'Fortification',0,'Civilians',[]];
+
+_c pushBack'Land_HBarrier5';
 _i pushBack['','',50,0,0,0,'Fortification',0,'Civilians',[]];
 
-_c pushBack'Land_BagFence_Long_F';
-_i pushBack['','',95,0,0,0,'Fortification',0,'CUP - Civilians',[]];
+_c pushBack'Land_HBarrierWall6_F';
+_i pushBack['','',200,0,0,0,'Fortification',0,'Civilians',[]];
 
-_c pushBack'Land_Mil_WallBig_4m_battered_F';
-_i pushBack['','',95,0,0,0,'Fortification',0,'Civilians',[]];
+_c pushBack'Land_HBarrierWall_corner_F';
+_i pushBack['','',150,0,0,0,'Fortification',0,'Civilians',[]];
 
 _c pushBack'Land_HBarrierTower_F';
 _i pushBack['','',300,0,0,0,'Fortification',0,'Civilians',[]];

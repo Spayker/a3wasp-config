@@ -38,11 +38,11 @@ _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
 _c pushBack 'CUP_O_INS_Crew';
 _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
 
-_c pushBack'CUP_O_RU_Spotter';
-_i pushBack['','',190,4,-1,2,0,0.85,'CUP - Russia',[]];
-
 _c pushBack 'O_T_Helipilot_F';
 _i pushBack ['','',120,4,-1,0,0,0.85,'CUP - Russia',[]];
+
+_c pushBack'CUP_O_RU_Spotter';
+_i pushBack['','',190,4,-1,2,0,0.85,'CUP - Russia',[]];
 
 _c pushBack'CUP_O_RU_Soldier_TL_VDV_M_EMR';
 _i pushBack['','',250,4,-1,2,0,0.85,'Russia (VDV - recon)',[]];
@@ -387,23 +387,14 @@ _c pushBack 'B_AAA_System_01_F_OPFOR';
 _i pushBack ['','',10000,0,1,0,'Defense',0,'CUP - Russia',[]];
 
 //Defense Structures
-_c pushBack'CamoNet_INDP_F';
-_i pushBack['','',350,0,0,0,'Strategic',0,'CUP - Russia',[]];
+_c pushBack 'Land_CamoNet_EAST_EP1';
+_i pushBack ['','',350,0,0,0,'Strategic',0,'CUP - Takistan',[]];
 
-_c pushBack'CamoNet_ghex_F';
-_i pushBack['','',350,0,0,0,'Strategic',0,'CUP - Russia',[]];
+_c pushBack 'Land_CamoNetVar_EAST_EP1';
+_i pushBack ['','',450,0,0,0,'Strategic',0,'CUP - Takistan',[]];
 
-_c pushBack'CamoNet_INDP_open_F';
-_i pushBack['','',450,0,0,0,'Strategic',0,'CUP - Russia',[]];
-
-_c pushBack'CamoNet_ghex_open_F';
-_i pushBack['','',450,0,0,0,'Strategic',0,'CUP - Russia',[]];
-
-_c pushBack'CamoNet_INDP_big_F';
-_i pushBack['','',600,0,0,0,'Strategic',0,'CUP - Russia',[]];
-
-_c pushBack'CamoNet_ghex_big_F';
-_i pushBack['','',600,0,0,0,'Strategic',0,'CUP - Russia',[]];
+_c pushBack 'Land_CamoNetB_EAST_EP1';
+_i pushBack ['','',600,0,0,0,'Strategic',0,'CUP - Takistan',[]];
 
 
 //Service point
